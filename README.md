@@ -2,7 +2,7 @@
 
 An attempt to create an English patch for Tales of VS (Versus).
 
-![ToVS](https://raw.githubusercontent.com/Ignis0011/Tales-of-VS/main/proj_logo.png)
+![ToVS](https://raw.githubusercontent.com/lifebottle/Tales-of-VS/main/docs/proj_logo.png)
 
 Discord: https://discord.gg/tmDgBDNPpE
 
@@ -22,7 +22,6 @@ Table:
 u32 id
 u32 flags
 u32 toffset
-u32 tsize 
 ```
 
 ## Hacker Note 2
@@ -102,8 +101,8 @@ The first write writes the full 0xE width texture (0x1 to 0xF on the texture, to
 This means one potential solution, that would double the available text space, is to find how the texture is being drawn, and have it mimic the GE code where it will subtract the starting position for the next glyph so that they are drawn without the blank space, and then edit the GE code so that instead of accessing the full 0xE width of the character from the texture, it only picks up 0x7.
 
 ## Credits
-Thanks to `Tales of ABCDE` for hosting the project  
-Thanks to `Fistinguranus / Pegi` and `Bugs` for all the structuralization, support, and preliminary translations.
+Thanks to Ignis0011 for creating the project
+Thanks to `Bugs` for all the structuralization, support, and preliminary translations.
 
 ## Third-Party Tools
 http://www.romhacking.net/utilities/659/
