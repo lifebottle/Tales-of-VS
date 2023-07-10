@@ -13,16 +13,28 @@ MIN_WIDTH equ 0x1
 .definelabel sceFontGetCharInfo, 0x08a2e828
 
 ;Tales of Vs eboot
+; change control character from % to $
+.org 0x088BFE90
+    li v1, ESCAPE_CHAR
+.org 0x088BFF0C
+    li v1, ESCAPE_CHAR
+.org 0x088c3708
+    li v1, ESCAPE_CHAR
+
+; fix menu item spacing
+; divide strlen by 2
+.org 0x088c03f4
+    sra s0, v0, 0x1
+
+; Text Spacing
 .org 0x088C1008
     li v1, TEXT_WIDTH
 
 .org 0x088C121C
     li a0, TEXT_WIDTH
 
-; weird cutscene thing that breaks shit
-; not anymore!
-.org 0x088C251C
-    ;nop
+.org 0x088C2214
+    li a1, TEXT_WIDTH
 
 ; VWF ROUTINE
 .org 0x088c2644
@@ -87,14 +99,5 @@ MIN_WIDTH equ 0x1
 .org 0x088C26C8
     ;li v0, TEXT_WIDTH
     ;li v0, DOUBLE_TEXT_WIDTH
-
-.org 0x088C2214
-    li a1, TEXT_WIDTH
-
-; change control character from % to $
-.org 0x088BFE90
-    li v1, ESCAPE_CHAR
-.org 0x088BFF0C
-    li v1, ESCAPE_CHAR
 
 .close
