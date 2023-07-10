@@ -26,6 +26,14 @@ MIN_WIDTH equ 0x1
 .org 0x088c03f4
     sra s0, v0, 0x1
 
+; Name Keyboard Settings
+.org 0x089CDA30
+    sw zero, 0x10(v0)
+
+; Default Name to Player - utf16 ascii
+.org 0x08A32598
+    .byte 0x50, 00, 0x6c, 00, 0x61, 00, 0x79, 00, 0x65, 00, 0x72, 0x00
+
 ; Text Spacing
 .org 0x088C1008
     li v1, TEXT_WIDTH
