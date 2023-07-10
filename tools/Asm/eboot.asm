@@ -1,8 +1,9 @@
-.open "D:/Tales/tales_vs/PSP_GAME/SYSDIR/ULJS00209.BIN","D:/Tales/tales_vs/PSP_GAME/SYSDIR/EBOOT.BIN",0x8803FAC
+.open "../../0_data/EBOOT.BIN","../../3_patched/EBOOT.BIN",0x8803FAC
 .psp
 
 ; for standard print
-TEXT_WIDTH equ 0x7
+; change this back to 0x7 for HW fix that breaks JP text
+TEXT_WIDTH equ 0xE
 DOUBLE_TEXT_WIDTH equ 0xC
 
 ; for vwf
@@ -18,8 +19,9 @@ MIN_WIDTH equ 0x1
     li a0, TEXT_WIDTH
 
 ; weird cutscene thing that breaks shit
+; not anymore!
 .org 0x088C251C
-    nop
+    ;nop
 
 ; VWF ROUTINE
 .org 0x088c2644
