@@ -8,4 +8,9 @@ curl -L "https://docs.google.com/spreadsheets/d/1fYuy52kEaBRSI5-GOqvuJNegd3w4O75
 ::python script.py "path/to/input.csv" "path/to/original.bin" "path/to/output.bin"
 python tools/CodeBase/insertionscript.py "2_translated/tod_msg_menu.csv" "0_data\tod_msg_menu.msd" "3_patched\tod_msg_menu.msd"
 
+::Build command for the asm hacks
+pushd "tools/Asm/"
+armips.exe vs_eboot.asm
+popd
+
 Pause
