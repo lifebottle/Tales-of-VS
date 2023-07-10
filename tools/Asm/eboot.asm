@@ -5,6 +5,7 @@
 ; change this back to 0x7 for HW fix that breaks JP text
 TEXT_WIDTH equ 0xE
 DOUBLE_TEXT_WIDTH equ 0xC
+ESCAPE_CHAR equ 0x24
 
 ; for vwf
 SPACE_WIDTH equ 0x5
@@ -89,5 +90,11 @@ MIN_WIDTH equ 0x1
 
 .org 0x088C2214
     li a1, TEXT_WIDTH
+
+; change control character from % to $
+.org 0x088BFE90
+    li v1, ESCAPE_CHAR
+.org 0x088BFF0C
+    li v1, ESCAPE_CHAR
 
 .close
