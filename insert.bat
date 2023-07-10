@@ -10,7 +10,7 @@ python tools/CodeBase/insertionscript.py "2_translated/tod_msg_menu.csv" "0_data
 
 ::Build command for the asm hacks
 pushd "tools/Asm/"
-armips.exe vs_eboot.asm
+armips.exe eboot.asm
 popd
 
 Pause
