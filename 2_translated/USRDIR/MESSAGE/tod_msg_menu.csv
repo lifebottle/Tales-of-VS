@@ -1698,7 +1698,7 @@ ejecting a negative aura into the surroundings.","Poisonic Void"
 前方広範囲に破壊のエネルギー場を発生させる。","Barbatos’ all-out swing down. It generates an energy
 field of destruction in a wide area in front of him.","World Destroyer"
 "11606","3435921409","Artes Descrption","ピコハンを５個いっぺんに投げる術。","Conjures 5 Pow Hammers towards the enemy target.","Pow Pow Hammer"
-"11607","3435921409","Artes Descrption","大きいハンマーを対象者にぶつける術。","Conjures a large hammer aimed to hit the enemy target.","Pow Pow Hammer"
+"11607","3435921409","Artes Descrption","大きいハンマーを対象者にぶつける術。","Conjures a large Pow Hammer aimed to hit the enemy target.","Pow Pow Hammer"
 "11608","3435921409","in Battle Item","アップルグミ（この辺要らないと思います by K-Chikada）","Apple Gel","Apple Gummi"
 "11609","3435921409","in Battle Item","トリート（この辺要らないと思います by K-Chikada）","Treat","Treat"
 "11610","3435921409","in Battle Item","オレンジグミ（この辺要らないと思います by K-Chikada）","Orange Gel","Orange Gummi"
@@ -6869,16 +6869,15 @@ Height: 180cm. Weight: 75kg.
 A mysterious man who appears
 before Emil, Dawn of the New
 World’s protagonist.
-He is traveling in search of
-Ratatosk’s core for a single
-purpose. While he hates those
-who oppress other people,
-he inversely hates those who
-remain silent in their oppression.
+He is traveling in search of Ratatosk’s
+core for a single purpose. While he
+hates those who oppress other people,
+he inversely hates those who remain
+silent in their oppression.
 Although he is irritated by Emil’s
 passive and timid nature, he still
 looks out for him. Who knows why
-that could be… ",""
+that could be…",""
 "58001","3435921409","Chara Profile","「テイルズ　オブ
 　ヴェスペリア」より
 身長１５０ｃｍ　体重？？ｋｇ
@@ -6899,13 +6898,11 @@ of Vesperia.
 She lacks interest in anything aside
 from magical research and doesn’t
 hold back her opinions. She has
-trouble socializing and her 
-behavior keeps others at
-a distance, but she claims not
-to care.
+trouble socializing and her behavior
+keeps others at a distance, but she claims
+she doesn’t care.
 She joins the adventure after Yuri
-accuses her of being a blastia
-thief.",""
+accuses her of being a blastia thief.",""
 "58002","3435921409","Chara Profile","「テイルズ　オブ
 　シンフォニア」より
 身長１７３ｃｍ　体重５８ｋｇ
@@ -6921,21 +6918,18 @@ thief.",""
 コレットを守るため同行し、世
 界の抱える矛盾に直面する。","From [Tales of Symphonia]
 Height: 173cm. Weight: 58kg.
-The protagonist of Tales of
-Symphonia.
-He was found in the forest as
-a child and raised by a dwarf.
-Due to his foster father's influence,
-he has a strong sense of justice,
-but he dislikes overplaying it.
-He aims to be a cool, nice guy,
-but he’s actually a
-good-natured hothead.
-He accompanies his childhood friend,
-Colette, on a journey of
-world regeneration to protect
-her, and is confronted with
-the the world’s contradictions.",""
+Tales of Symphonia’s protagonist.
+He was raised by a dwarf, after being
+found by him in the woods.
+Due to his foster father's influence, he
+has a strong sense of justice, but he
+dislikes overplaying it.
+He aims to be a cool, nice guy, but
+he’s actually a good-natured hothead.
+He protects his childhood friend,
+Colette, on her journey of world
+regeneration, and is confronted
+with the world’s contradictions.",""
 "58003","3435921409","Chara Profile","「テイルズ　オブ
 　シンフォニア」より
 身長１３８ｃｍ　体重２４ｋｇ
@@ -6978,17 +6972,15 @@ caused her to lose her humanity.",""
 の血を引くゆえの洞察力や知識
 は並みのものではない。","From [Tales of Phantasia]
 Height: 157cm. Weight: 39kg.
-A spirited, open-minded girl
-who travels with Cless, the
-main character of Tales
-of Phantasia. She is a half-elf
-who was born from a human
-father and an elf mother,
-has the ability to cast magic,
-and often rides through the air
-astride a broomstick. Despite
-how her lack of social skills can
-annoy others, she’s extremely
+A spirited, open-minded girl who
+travels with Cless, the protagonist
+of Tales of Phantasia.
+She is a half-elf who was born from
+a human father and an elf mother,
+can cast magic, and often rides
+through the air astride a broomstick.
+Despite how her lack of social skills
+can annoy others, she’s extremely
 perceptive and knowledgeable
 due to her elven heritage.",""
 "58005","3435921409","Chara Profile","「テイルズ　オブ
@@ -7011,13 +7003,11 @@ accompanies the Tales of
 Symphonia protagonist, Lloyd,
 on his journey of world regeneration.
 He calls himself a mercenary and
-accompanies Colette, the Chosen
-of Regeneration, on her journey
-as her bodyguard with his
-first-rate swordsmanship. He has
-been through many battles and
-his eyes are always sharp
-and steeled.
+travels with Colette, the Chosen of
+Regeneration, as her bodyguard
+with his first-rate swordsmanship.
+He has been through many battles
+and his eyes are always alert.
 He seems to have a special
 connection with Lloyd…",""
 "58006","3435921409","Chara Profile","「テイルズ　オブ
@@ -7087,18 +7077,15 @@ with a strong sense of duty at heart.",""
 時に人間に対して非情な行為や
 街や村などの破壊も辞さない。","From [Tales of Phantasia]
 Height: ???cm. Weight: ???kg.
-A man with golden hair who
-stands in the way of Cless,
-the protagonist of Tales of
-Phantasia.
-He is a mysterious man who
-has learned how to move
-through space and time, and
-travels as he pleases in pursuit
-of a certain objective.
-In order to achieve this
-goal, he in not beneath
-resorting to cruel actions
+A man with golden hair who stands
+in the way of Cless, Tales of Phantasia’s
+protagonist.
+He is a mysterious man who has
+learned how to move through space
+and time, and travels as he pleases
+in pursuit of a certain objective.
+In order to achieve this goal, he is
+not beneath resorting to cruel actions
 toward humans and destroying
 their towns and cities.",""
 "58009","3435921409","Chara Profile","「テイルズ　オブ
@@ -7118,17 +7105,15 @@ their towns and cities.",""
 Height: 170cm. Weight: 59kg.
 Tales of Phantasia’s protagonist.
 He was taught the Albane School
-of Sword Fighting by his father,
-who was a renown swordsman.
-While out hunting with his best
-friend, Chester, he loses his family
-when his village is attacked by 
-an army controlled by Dhaos.
-He initially sets off to get revenge,
-but soon finds himself in a battle
-to save the world.
-He has a kind and considerate
-nature.",""
+of Sword Fighting by his father, who
+was a renown swordsman.
+While out hunting with his best friend,
+Chester, his family is killed when his
+village is attacked by an army
+controlled by Dhaos.
+He initially seeks vengeance, but soon
+finds himself in a battle to save the world.
+He has a kind and considerate nature.",""
 "58010","3435921409","Chara Profile","「テイルズ　オブ
 　デスティニー」より
 身長１５９ｃｍ　体重４８ｋｇ
@@ -7212,21 +7197,18 @@ mission.",""
 の修行で、剣筋は粗いが腕は立
 つ。","From [Tales of the Abyss]
 Height: 171cm. Weight: 68kg.
-The protagonist of Tales of
-the Abyss.
-He is the only son of a Duke of
-Kimlasca, one of the two nations
-that divides his world in two. When
-he was a child, he was kidnapped
-by the enemy nation of Malkuth,
-which resulted in him losing all
-of his memories. 
-After this, he grew up locked in
-his manor in order to keep him safe.
-His only hobby is practicing
-swordsmanship, and although his
-technique is rough, he is still a
-skilled swordsman.",""
+The protagonist of Tales of the Abyss.
+He is the only son of a Duke of Kimlasca,
+one of the two nations that divides
+his world in two. When he was a child,
+he was kidnapped by the enemy
+nation of Malkuth, which resulted in
+him losing all of his memories. 
+After this, he grew up locked in his manor
+in order to keep him safe. His only hobby
+is practicing swordsmanship, and
+although his technique is rough,
+he is still a skilled swordsman.",""
 "58014","3435921409","Chara Profile","「テイルズ　オブ
 　ジ　アビス」より
 身長１６２ｃｍ　体重５０ｋｇ
@@ -7284,21 +7266,17 @@ of a certain incident.",""
 を放っておけない性格。","From [Tales of Eternia]
 Height: 161cm. Weight: 46kg.
 Tales of Eternia’s heroine.
-Despite being a woman, she
-has amazing arm strength
-and is an expert at martial artes.
-When she was a child, she lost
-her parents and spent the rest
-of her days helping out her aunt
-in the fields. However, after an
-encounter with a mysterious girl
-named Meredy who fell from
-the sky, she set off on a journey
-with her childhood friend, the
-protagonist, Reid.
-She is extremely proactive and
-cannot abandon anyone who
-needs help.",""
+Despite being a woman, she has amazing
+arm strength and is an expert martial artist.
+She lost her parents as a child and spent
+the rest of her days helping out her aunt
+in the fields.
+However, after meeting a mysterious girl
+named Meredy who fell from the sky, she
+set off on a journey with her childhood
+friend, the protagonist, Reid.
+She is extremely proactive and cannot
+abandon anyone who needs help.",""
 "58017","3435921409","Chara Profile","「テイルズ　オブ
 　ジ　アビス」より
 身長１７１ｃｍ　体重６８ｋｇ
@@ -7314,8 +7292,7 @@ needs help.",""
 を持ち、剣の腕は超一流。","From [Tales of the Abyss]
 Height: 171cm. Weight: 68kg.
 A man appeared before Luke,
-the protagonist of Tales of the
-Abyss, during his journey.
+Tales of the Abyss' protagonist.
 He is one of the God-Generals,
 the six highest ranking members
 of the Oracle Knights in
@@ -7427,17 +7404,15 @@ Height: 158cm. Weight: 44kg.
 The heroine of Tales of Symphonia
 and childhood best friend of
 the protagonist, Lloyd.
-As a child chosen by mana,
-she is said to be destined
-to save the world from
-destruction, and embarks on
+As a child chosen by mana, she is
+said to be destined to save the
+world from ruin, and embarks on
 a journey to restore her world.
-Usually quite clumsy, she is
-a girl with a gentle demeanor.
-However, she has a powerful
-inner spirit and will heroically
-help her friends during
-times of emergency.",""
+She is a girl with a gentle demeanor,
+although she is usually quite clumsy.
+However, she has a powerful inner
+spirit and will heroically help her
+friends during times of emergency.",""
 "58023","3435921409","Chara Profile","「テイルズ　オブ
 　ファンタジア」より
 身長１６２ｃｍ　体重４２ｋｇ
