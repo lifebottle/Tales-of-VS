@@ -13,13 +13,14 @@ python tools/CodeBase/insertionscript.py "2_translated/USRDIR/MESSAGE/tod_msg_sk
 python tools/CodeBase/insertionscript.py "2_translated/USRDIR/MESSAGE/tod_msg_skit_sub.csv" "0_data/USRDIR/MESSAGE/tod_msg_skit_sub.msd" "3_patched/USRDIR/MESSAGE/tod_msg_skit_sub.msd"
 
 
-::use this to reduce to 8bpp
+::use this to reduce to 8bpp the images so that index8 of gimconv work proprely
 ::pngquant.exe --force --verbose 256 title.png
 
 ::Build command for the gim conversion
 pushd "tools/GimConv/"
-gimconv ../../2_translated/USRDIR/CLIMAX/Title.png --image_format index8 -o ../../3_patched/USRDIR/CLIMAX/Title.gim
+gimconv ../../2_translated/USRDIR/CLIMAX/data/bg/title.png --image_format index8 -o ../../3_patched/USRDIR/CLIMAX/data/bg/title.gim
 popd
+
 ::Build command for the asm hacks
 pushd "tools/Asm/"
 armips.exe eboot.asm
