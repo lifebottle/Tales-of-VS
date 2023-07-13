@@ -374,7 +374,7 @@ Collect all 3 cards to use Suzu.",""
 "10135","3435921409","Artes","空牙昇竜脚","Dragon Toss",""
 "10136","3435921409","Artes","熱破旋風陣","Flame Vortex",""
 "10137","3435921409","Artes","魔王炎撃波","Infernal Torrent",""
-"10138","3435921409","Artes","獅吼爆炎陣","Thunder Beast",""
+"10138","3435921409","Artes","獅吼爆炎陣","Fiery Beast",""
 "10139","3435921409","Artes","殺劇舞荒剣","Final Fury",""
 "10140","3435921409","Artes","皇王天翔翼","Phoenix",""
 "10141","3435921409","Artes","爆炎剣","Hell Sword",""
@@ -485,7 +485,7 @@ Collect all 3 cards to use Suzu.",""
 "10246","3435921409","Artes","スピネルショット","Spinner Shot",""
 "10247","3435921409","Artes","烈火閃","Infernal Blast",""
 "10248","3435921409","Artes","扇氷閃","Ice Shot",""
-"10249","3435921409","Artes","虚空閃","Nihility Soul",""
+"10249","3435921409","Artes","虚空閃","Void Shot",""
 "10250","3435921409","Artes","墜陽閃","Glimmer Shot",""
 "10251","3435921409","Artes","龍炎閃","Wyrm Shot",""
 "10252","3435921409","Artes","殺劇舞荒拳","Final Fury",""
@@ -576,7 +576,7 @@ Collect all 3 cards to use Suzu.",""
 "10337","3435921409","Artes","フィリアボム","Phillia Bomb",""
 "10338","3435921409","Artes","ツインボム","Twin Bomb",""
 "10339","3435921409","Artes","真空破斬","Void Tempest",""
-"10340","3435921409","Artes","集気法","Inspiration",""
+"10340","3435921409","Artes","集気法","Center",""
 "10341","3435921409","Artes","虚空蒼破斬","Chaos Blade",""
 "10342","3435921409","Artes","空間翔転移","Eternal Slumber","Chaos Lunge"
 "10343","3435921409","Artes","次元斬","Distortion Blade",""
@@ -737,10 +737,10 @@ Collect all 3 cards to use Suzu.",""
 "10498","3435921409","Artes","思刃金剛波","Meteoric Iron",""
 "10499","3435921409","Artes","雷迅牙","Blue Jet",""
 "10500","3435921409","Artes","星塵絶破","Streaking Comet",""
-"10501","3435921409","Artes","緋凰絶翔斬","Rising Phoenix",""
+"10501","3435921409","Artes","緋凰絶翔斬","Phoenix Ascendant",""
 "10502","3435921409","Artes","獣哮雷波","Voltaic Roar",""
 "10503","3435921409","Artes","破邪十字星","Obliteration Cross",""
-"10504","3435921409","Artes","爆炎剣","Fiery Beast",""
+"10504","3435921409","Artes","爆炎剣","Hell Sword",""
 "10505","3435921409","Artes","獅子戦吼","Beast",""
 "10506","3435921409","Artes","円閃牙","Shining Fang",""
 "10507","3435921409","Artes","牙狼撃","Wolf Strike",""
@@ -1218,7 +1218,7 @@ uppercut from a low position to lift the opponent.","Dragon Crush"
 flaming arrow diagonally upward.","Infernal Blast"
 "11248","3435921409","Artes Descrption","五本の凍気をまとった矢を一度に五本放つ技。","An arte in which five arrows cloaked
 with freezing chi are shot at once.","Ice Shot"
-"11249","3435921409","Artes Descrption","空中から高速の矢を放つ技。","","Nihility Soul"
+"11249","3435921409","Artes Descrption","空中から高速の矢を放つ技。","","Void Shot"
 "11250","3435921409","Artes Descrption","敵を追尾する四本の矢を一度に放つ技。","","Glimmer Shot"
 "11251","3435921409","Artes Descrption","地上から龍を模した炎を立ち上がらせ、
 矢と共に前方に飛ばす技。龍は貫通する。","","Wyrm Shot"
@@ -4564,21 +4564,21 @@ SP Required 50.",""
 "16721","3435921409","Title Arche","アーチェ_ガン守り","Arche_Gun Defense","(VS original)"
 "16722","3435921409","Title Arche","ミス××職人","Madam××Artist","(VS original)"
 "16723","3435921409","Title Arche","ＧＲＯＯＶＹ","GROOVY",""
-"16724","3435921409","Title","破天荒な混血児","","Arche Title (VS original)"
-"16725","3435921409","Title","クラトス_ガン攻め","",""
-"16726","3435921409","Title","クラトス_ガン守り","",""
-"16727","3435921409","Title","説教臭い","",""
-"16728","3435921409","Title","グルメマスター","",""
-"16729","3435921409","Title","天啓を示す者","",""
-"16730","3435921409","Title","スタン_ガン攻め","",""
-"16731","3435921409","Title","スタン_ガン守り","",""
-"16732","3435921409","Title","超・熱血！","",""
-"16733","3435921409","Title","正義の眼差し","",""
-"16734","3435921409","Title","不滅の業炎","",""
-"16735","3435921409","Title","チェスター_ガン攻め","",""
-"16736","3435921409","Title","チェスター_ガン守り","",""
-"16737","3435921409","Title","初代スケベ大魔王","",""
-"16738","3435921409","Title","苦労人","",""
+"16724","3435921409","Title","破天荒な混血児","Maverick Biracial Child","Arche Title (VS original)"
+"16725","3435921409","Title","クラトス_ガン攻め","Kratos_Gun Attack","Kratos Title (VS original)"
+"16726","3435921409","Title","クラトス_ガン守り","Kratos_Gun Defense","Kratos Title (VS original)"
+"16727","3435921409","Title","説教臭い","Aura of Sanctimony","Kratos Title (VS original)"
+"16728","3435921409","Title","グルメマスター","Gourmet King","Kratos Title"
+"16729","3435921409","Title","天啓を示す者","Oracle of Heaven","Kratos Title (VS original)"
+"16730","3435921409","Title","スタン_ガン攻め","Stahn_Gun Attack","Stahn Title (VS original)"
+"16731","3435921409","Title","スタン_ガン守り","Stahn_Gun Defense","Stahn Title (VS original)"
+"16732","3435921409","Title","超・熱血！","Super Hot Blood!","Stahn Title (VS original)"
+"16733","3435921409","Title","正義の眼差し","Gaze of Justice","Stahn Title (VS original)"
+"16734","3435921409","Title","不滅の業炎","Immortal Flame","Stahn Title (VS original)"
+"16735","3435921409","Title","チェスター_ガン攻め","Chester_Gun Attack","Chester Title (VS original)"
+"16736","3435921409","Title","チェスター_ガン守り","Chester_Gun Defense","Chester Title (VS original)"
+"16737","3435921409","Title","初代スケベ大魔王","Original Pervert","Chester Title (VS original)"
+"16738","3435921409","Title","苦労人","Worldly Man",""
 "16739","3435921409","Title","奮励努力な射手","",""
 "16740","3435921409","Title","ダオス_ガン攻め","",""
 "16741","3435921409","Title","ダオス_ガン守り","",""
@@ -4741,7 +4741,7 @@ SP Required 50.",""
 最高峰の剣の名にも使われる、「最強の剣士」の別称。","",""
 "17013","3435921409","titles descriptions","「サバイバルバトル」で１０連勝を達成！
 激戦を剣で生き抜いた、強き者へと贈られる。","",""
-"17014","3435921409","titles descriptions","グルメマスターの説明","",""
+"17014","3435921409","titles descriptions","グルメマスターの説明","Gourmet King description:",""
 "17015","3435921409","titles descriptions","「アーケードバトル」をクリア！
 全８戦を戦い抜いた勇者へと贈られる称号。","",""
 "17016","3435921409","titles descriptions","時空剣士の説明","Eternal Swordsman description:",""
@@ -7484,9 +7484,8 @@ A priestess who travels with
 Stahn, the protagonist of Tales
 of Destiny.
 Having studied at Straylize Temple,
-she is knowledgeable about
-ancient civilizations and lost
-history.
+she is knowledgeable about ancient
+civilizations and lost history.
 She has a gentle and soft per-
 sonality, which gives her a very
 feminine impression, but she
@@ -7700,7 +7699,7 @@ lance.",""
 "59112","3435921409","Stage Name","船","Boat",""
 "59113","3435921409","Stage Name","街","City",""
 "59114","3435921409","Stage Name","砂漠","Desert",""
-"59115","3435921409","Stage Name","深淵","Abyss",""
+"59115","3435921409","Stage Name","深淵","Cavern",""
 "59116","3435921409","Stage Name","城","Castle",""
 "59117","3435921409","Stage Name","港","Harbour",""
 "59118","3435921409","Stage Name","草原","Field",""
@@ -8766,21 +8765,26 @@ now available for purchase.",""
 "62543","3435921409","Customize menu","以上のように設定します。
 よろしいですか？","",""
 "62600","3435921409","","現在のデータは消えますが
-よろしいですか？","",""
+よろしいですか？","Are you sure you want to delete the current data?""",""
 "62601","3435921409","","クリアデータをロードすると
 「New Game」の状態で始まります。
 現在のデータは消えますが
-よろしいですか？","",""
+よろしいですか？","When you load the clear data, it will start a 'New Game'.
+Are you sure you want to delete the current data? ",""
 "62700","3435921409","","PLAYER","Player",""
 "62701","3435921409","","PARTNER","Partner",""
 "62750","3435921409","","パスワード","Password",""
 "62751","3435921409","","入力されたパスワードを送信します
-よろしいですか？","",""
+よろしいですか？","Are you sure you want to proceed
+with the entered password?",""
 "62752","3435921409","","スペシャルバトルのセーブが
 正常に終了しました！
 　
 クイックバトルメニュー内、
-スペシャルバトルから挑戦してください！","",""
+スペシャルバトルから挑戦してください！","Special battle save completed successfully!
+　
+Please challenge from the special
+battle in the quick battle menu! ",""
 "62800","3435921409","UI","収集率","CMPL",""
 "62801","3435921409","UI","％","%","probably need 2 cause it’s a control chara ?"
 "63000","3435921409","Yggdrasil Arc Description","【ロイド＆コレット編】
@@ -9070,11 +9074,12 @@ Network Link will now end.",""
 Do you want to cancel saving?",""
 "70000","3435921409","","モバイル連動をするには、
 携帯ｻｲﾄ「ﾃｲﾙｽﾞ ｵﾌﾞ ﾓﾊﾞｲﾙ」で
-登録する必要があります。","",""
+登録する必要があります。","To connect with mobile, please go to the
+mobile site ""Tales of Mobile"" to register.",""
 "70001","3435921409","","モバイル連動ＩＤとパスワードを
-入力してください。","",""
-"70002","3435921409","","ＩＤを入力してください","",""
-"70003","3435921409","","パスワードを入力してください","",""
+入力してください。","Please enter your Mobile-linked ID and password",""
+"70002","3435921409","","ＩＤを入力してください","Please enter your ID",""
+"70003","3435921409","","パスワードを入力してください","Please enter your password",""
 "70010","3435921409","","通信中．　　","Connecting.",""
 "70011","3435921409","","通信中．．　","Connecting..",""
 "70012","3435921409","","通信中．．．","Connecting...",""
@@ -9086,15 +9091,18 @@ Do you want to cancel saving?",""
 "70018","3435921409","","データのＤＬが完了しました。
 　
 クイックバトル→スペシャルバトル
-から挑戦してください！","",""
+から挑戦してください！","Data download has completed.
+　
+Quick Battle -> Special Battle
+to challenge!",""
 "70019","3435921409","","モバイル連動通信が
-正常に終了しました。","Mobile Link Communication has ended successfully",""
+正常に終了しました。","Mobile Link Communication has completed successfully",""
 "70021","3435921409","","アイテム倉庫には何もありませんでした。","Item Warehouse is empty.",""
 "70022","3435921409","","$SCC001$を
 $SCC002$個入手しました。","",""
 "70023","3435921409","","$SCC001$を入手しました。","",""
 "70024","3435921409","","エディットやショップで
-キャラクターカスタマイズをしましょう。","",""
+キャラクターカスタマイズをしましょう。","Customize your character in the edit and store menus.",""
 "70025","3435921409","","＿＿＿＿＿＿＿＿","________",""
 "70026","3435921409","","連動内容をセーブしますか？","Do you want to save Link Contents?",""
 "70030","3435921409","","モバイルユーザー確認ができませんでした。
@@ -9106,38 +9114,49 @@ or Mobile I.D. might be incorrect.",""
 "70032","3435921409","","このモバイルユーザーは既に登録されております。
 携帯ｻｲﾄ「ﾃｲﾙｽﾞ ｵﾌﾞ ﾓﾊﾞｲﾙ」の
 「ﾃｲﾙｽﾞ ｵﾌﾞ ﾊﾞｰｻｽ ﾓﾊﾞｲﾙ」ｺｰﾅｰ内にて
-変更する必要があります。","",""
+変更する必要があります。","This mobile user is already registered In the ""Tales of Versus Mobile""
+section of the ""Tales of Mobile"" mobile site, Please choose a different 
+mobile user.",""
 "70033","3435921409","","ただいまサーバーメンテナンスを行っております。
-恐れ入りますが、しばらく待ってから接続してください。","",""
-"70034","3435921409","","ネットワークエラーが発生しました。","",""
-"70035","3435921409","","連動サービスは終了しました。","",""
+恐れ入りますが、しばらく待ってから接続してください。","We are currently performing server maintenance.
+Please wait for a while before connecting.",""
+"70034","3435921409","","ネットワークエラーが発生しました。","A network error has occurred.",""
+"70035","3435921409","","連動サービスは終了しました。","The linked service has ended.",""
 "70036","3435921409","","ただいまサーバーメンテナンスを行っております。
-恐れ入りますが、しばらく待ってから接続してください。","",""
+恐れ入りますが、しばらく待ってから接続してください。","We are currently performing server maintenance.
+Please wait for a while before connecting.",""
 "70037","3435921409","","アイテム通信時のデータが
 正常に確認できませんでした。
-もう一度接続し直して下さい。","",""
+もう一度接続し直して下さい。","Could not connect to the server to validate data.
+Please reconnect and try again.",""
 "70040","3435921409","","ただいまサーバーメンテナンスを行っております。
-恐れ入りますが、しばらく待ってから接続してください。","",""
-"70041","3435921409","","ネットワークエラーが発生しました。","",""
-"70042","3435921409","","連動サービスは終了しました。","",""
+恐れ入りますが、しばらく待ってから接続してください。","We are currently performing server maintenance.
+Please wait for a while before connecting.",""
+"70041","3435921409","","ネットワークエラーが発生しました。","A network error has occurred.",""
+"70042","3435921409","","連動サービスは終了しました。","The linked service has ended.",""
 "70043","3435921409","","パスワードが間違っているか、
 既に使用されている可能性があります。
-再度ご確認の上入力してください。","",""
+再度ご確認の上入力してください。","Your password may be incorrect or already in use. 
+Please check your password and enter it again.",""
 "70044","3435921409","","パスワードが間違っている可能性があります。
-再度ご確認の上入力してください。","",""
+再度ご確認の上入力してください。","Your password may be incorrect. Please check
+your password before trying again.",""
 "70045","3435921409","","パスワードの連続入力はできません。
-時間を置いてから、再度ご確認の上入力してください。","",""
+時間を置いてから、再度ご確認の上入力してください。","You cannot enter your password repeatedly. 
+Please wait a while and try again.",""
 "70046","3435921409","","モバイルユーザーを確認できませんでした。
-モバイル連動から登録を行う必要がございます。","",""
+モバイル連動から登録を行う必要がございます。","Failed to verify mobile user. It is necessary
+to register from the mobile link. ",""
 "70047","3435921409","","ただいまサーバーメンテナンスを行っております。
-恐れ入りますが、しばらく待ってから接続してください。","",""
+恐れ入りますが、しばらく待ってから接続してください。","We are currently performing server maintenance.
+Please wait for a while before connecting.",""
 "71000","3435921409","","相手を倒してポイントゲット!!","Defeat your opponent and get points!",""
 "71001","3435921409","","出現するグミを集めまくれ!!","Collect all the gummies that appear!",""
-"71002","3435921409","","攻撃を当てて爆弾をうつして逃げろ!!","",""
+"71002","3435921409","","攻撃を当てて爆弾をうつして逃げろ!!","Attack, activate the bomb, and run away!",""
 "71003","3435921409","","相手を倒してライフを削れ!!","Defeat your opponents and reduce their life!",""
-"71004","3435921409","","相手のライフをより多く削れ!!","",""
-"71005","3435921409","","相手のライフをより多く削れ!!","",""
-"71006","3435921409","","説明に合わせて実践しよう!!","",""
+"71004","3435921409","","相手のライフをより多く削れ!!","Cut away more of your enemy's life!",""
+"71005","3435921409","","相手のライフをより多く削れ!!","Cut away more of your enemy's life!",""
+"71006","3435921409","","説明に合わせて実践しよう!!","Let's practice according to the explanation!",""
 "72000","3435921409","Tutorial Text","【移動のチュートリアル】
 方向キーの左右でキャラクターを
 移動させることができます。
@@ -9147,10 +9166,10 @@ Pressing the left or right directional
 keys will move your character.",""
 "72001","3435921409","Tutorial Text","チュートリアル１－２
 いいいいいいいいいいいいいいいいいいいいい
-いいいいいいいいいいいいいいいいいいいいい","",""
+いいいいいいいいいいいいいいいいいいいいい","","Test?"
 "72002","3435921409","Tutorial Text","チュートリアル１－３
 ううううううううううううううううううううう
-ううううううううううううううううううううう","",""
+ううううううううううううううううううううう","","Test?"
 "72010","3435921409","Tutorial Text","【ジャンプのチュートリアル】
 方向キーの上を押すことでキャラクターが
 ジャンプをします。
@@ -9221,13 +9240,14 @@ and damage you receive will be reduced.",""
 一定のダメージを受けると
 ブレイクして物理防御が解かれます。
 気をつけましょう。","""Blocking Tutorial 2""
-In a state of continuous blocking when a certain amount of
-damage is received break and the physical defense will be
-released. Be careful.",""
+In a state of continuous blocking when a certain amount
+of damage is received break and the physical defense
+will be released. Be careful.",""
 "72042","3435921410","Tutorial Text","【物理防御のチュートリアル３】
 それでは、□ボタンで相手の攻撃を
 防御してください。","""Blocking Tutorial 3
-Now, use the □ button to defend against the opponent's attack. ",""
+Now, use the □ button to defend 
+against the opponent's attack. ",""
 "72050","3435921409","Tutorial Text","【魔術防御のチュートリアル】
 術攻撃は魔術防御で防ぐことができます。
 □ボタンと方向キーの下を押しているあいだ
@@ -9315,10 +9335,10 @@ opponent. Use it effectively.","Need to revisit. May not be quite right."
 ですが、そのときはオーバーリミッツゲージが
 通常よりも早くなくなってしまいます。
 状況を見極め、緊急回避として利用しましょう。","""Overlimit Tutorial 4""
-Overlimits can also be used when you are taking damage.
-However, the overlimit gauge will run out faster than
-normal. gauge will run out faster than usual. Use it
-as a last minute evasion.",""
+Overlimits can also be used when you are taking
+damage. However, the overlimit gauge will run out
+faster than normal. gauge will run out faster than
+usual. Use it as a last minute evasion.",""
 "72094","3435921410","Tutorial Text","【オーバーリミッツのチュートリアル５】
 それではＬボタン＋Ｒボタンで
 オーバーリミッツを発動してください。","""Overlimit Tutorial 5""
@@ -9399,55 +9419,84 @@ the overlimit x will successfully activate.",""
 オーバーリミッツ×状態では、
 ＴＰ消費なし、術技の硬直なし、
 のけぞりなしなど有利な状態で
-戦うことができます。","",""
+戦うことができます。","""Overlimit X Tutorial 2""
+During the overlimit x state, you will be granted 
+advantageous conditions. You will fight with no TP
+consumption, no artes stiffening, and no knockback.",""
 "72122","3435921409","Tutorial Text","【オーバーリミッツ×のチュートリアル３】
 オーバーリミッツ×は通常の
 オーバーリミッツ状態と同じように
 オーバーリミッツゲージがなくなると
-状態が解除されてしまいます。","",""
+状態が解除されてしまいます。","""Overlimit X Tutorial 3""
+The overlimit X state is the same as normal overlimit
+state. Once the overlimit guage runs out the overlimit
+X state will end.",""
 "72123","3435921409","Tutorial Text","【オーバーリミッツ×のチュートリアル４】
 それでは、オーバーリミッツ×を
 発動するために、Ｌボタン＋Ｒボタンで
 オーバーリミッツを発動してみましょう。
-","",""
+","""Overlimits × Tutorial 4""
+Now, in order to activate overlimit X, let's 
+activate overlimits with the L + R buttons.",""
 "72130","3435921409","Tutorial Text","【リミッツボールのチュートリアル】
 リミッツボールはオーバーリミッツゲージを
 溜めることのできるアイテムです。
 積極的に取りに行きましょう。
-","",""
+","""Limit Ball Tutorial""
+A limit ball is an item that can fill the
+overlimit gauge. Let's go pick it up.",""
 "72131","3435921409","Tutorial Text","【リミッツボールのチュートリアル２】
 それでは、フィールドに落ちている
 リミッツボールを取ってみましょう。
-","",""
+","""Limits Ball Tutorial 2""
+Now, let's collect the limit balls 
+that have fallen on the field.",""
 "72132","3435921410","Tutorial Text","【リミッツボールのチュートリアル３】
 それでは、フィールドに落ちている
-リミッツボールを取ってみましょう。","",""
+リミッツボールを取ってみましょう。","""Limits Ball Tutorial 3""
+Now, let's collect the limit balls 
+that have fallen on the field.""",""
 "72133","3435921410","Tutorial Text","【リミッツボールのチュートリアル４】
 それでは、フィールドに落ちている
-リミッツボールを取ってみましょう。","",""
+リミッツボールを取ってみましょう。","""Limit Ball Tutorial 4""
+Now, let's collect the limit balls 
+that have fallen on the field.",""
 "72140","3435921409","Tutorial Text","【床抜けのチュートリアル】
 突き抜けて上に登ることができる床は
 突き抜けて下に降りることもできます。
 床に乗った状態で方向キーの下を
-素早く２回押してください。","",""
+素早く２回押してください。","","Google/Deepl gives completely wrong 
+translation about dropping through floors, lol."
 "72150","3435921409","Tutorial Text","【受身のチュートリアル】
 相手に吹き飛ばされたときに
 □ボタンを押すと受身を
 取ることができます。
 受身を取ることでダウンすることなく
-すぐに次の行動へ移ることができます。","",""
+すぐに次の行動へ移ることができます。","""Passive Tutorial""
+If you press the □ button when you are blown away
+by your enemy, you can take a passive stance. This
+prevents you from going down, and allows you to
+make the next action immediately.","Maybe revisit. Not sure about the ""Blown Away"" translation"
 "72151","3435921410","Tutorial Text","【受身のチュートリアル２】
 □ボタンを押すときに方向キーを
 上か左右に入れることで
-その方向へ受身を取ることができます。","",""
+その方向へ受身を取ることができます。","""Passive Tutorial 2""
+By pressing the direction key up, left or right while
+pressing the □ button you can take a passive stance
+in that direction.","Maybe revisit. Not sure about the ""Blown Away"" translation"
 "72152","3435921410","Tutorial Text","【受身のチュートリアル３】
 それでは、敵に吹き飛ばされたら
-□ボタンで受身をとりましょう。","",""
+□ボタンで受身をとりましょう。","""Passive Tutorial 3""
+Now, when you are blown away by an enemy, press
+the □ button to take a passive stance.","Maybe revisit. Not sure about the ""Blown Away"" translation"
 "72160","3435921409","Tutorial Text","【バックステップのチュートリアル】
 □ボタンと現在向いている方向と逆に方向キーを
 入れるとバックステップをすることができます。
 □ボタンと向いている方向と逆に方向キーを
-入れてバックステップをしてください。","",""
+入れてバックステップをしてください。","""Backstep Tutorial""
+You can backstep by pressing the □ button and the
+direction key opposite to the direction you are 
+currently facing.",""
 "72170","3435921409","Tutorial Text","【クリティカルガードのチュートリアル】
 □ボタンと向いている方向と同じ方向に
 方向キーを入れると発動します。
@@ -9455,17 +9504,26 @@ the overlimit x will successfully activate.",""
 ダメージを軽減することができます。
 □ボタンと進行方向に方向キーを入れて
 クリティカルガードでダメージを
-軽減してください。","",""
+軽減してください。","""Critical Guard Tutorial""
+Critical Guard can cause less damage to be taken
+than the than normal defend. Use the □ button and
+the directional key to perform a critical guard.",""
 "72180","3435921409","Tutorial Text","【移動起き上がりのチュートリアル】
 吹き飛ばされてダウンした場合
 起き上がる時に左右に方向キーを
 押しているとその方向へ移動しながら
-起き上がることができます。","",""
+起き上がることができます。","""Directional Rising Tutorial""
+If you are blown away and go down press the left and
+right directional keys while getting up. You will get
+up in the direction of the key you pressed.","Maybe revisit. Not sure about the ""Blown Away""
+translation. And not sure about Directional Rising"
 "72181","3435921409","Tutorial Text","【移動起き上がりのチュートリアル２】
 移動起き上がり中は無敵です。
 ダウン状態になり、方向キーの左右で
 移動起き上がりをしてください。
-","",""
+","""Directional Rising Tutorial 2""
+While rising you cannot take damage. Use the left or
+right directional keys to rise in that direction.","Not sure about Directional Rising"
 "72190","3435921409","Tutorial Text","チュートリアル２０
 ああああああああああああああああああああ
 ああああああああああああああああああああ","Tutorial 20

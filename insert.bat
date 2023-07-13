@@ -12,6 +12,12 @@ python tools/CodeBase/insertionscript.py "2_translated/USRDIR/MESSAGE/tod_msg_me
 python tools/CodeBase/insertionscript.py "2_translated/USRDIR/MESSAGE/tod_msg_skit.csv" "0_data/USRDIR/MESSAGE/tod_msg_skit.msd" "3_patched/USRDIR/MESSAGE/tod_msg_skit.msd"
 python tools/CodeBase/insertionscript.py "2_translated/USRDIR/MESSAGE/tod_msg_skit_sub.csv" "0_data/USRDIR/MESSAGE/tod_msg_skit_sub.msd" "3_patched/USRDIR/MESSAGE/tod_msg_skit_sub.msd"
 
+
+::Build command for the gim conversion
+pushd "tools/GimConv/"
+gimconv ../../2_translated/USRDIR/CLIMAX/Title.png -o ../../3_patched/USRDIR/CLIMAX/Title.gim -vs
+
+popd
 ::Build command for the asm hacks
 pushd "tools/Asm/"
 armips.exe eboot.asm
