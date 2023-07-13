@@ -2,6 +2,7 @@ import csv
 import struct
 import sys
 
+#this function is only used for debug cause of the limitation of the lenght of each line on screen
 def truncate_text(text):
     lines = text.split('\n')
     truncated_lines = []
@@ -57,22 +58,24 @@ def write_binary_from_csv(csv_file, binary_file, output_file):
         # Write the text strings and update the pointers
         current_offset = 0x10 + entry_count * 0xC
         for i in range(entry_count):
-            english_short_text = entries[i][5]
             english_text = entries[i][4]
             japanese_text = entries[i][3]
+            category = entries[i][2]
             String_Flags = entries[i][1]
             Unique_ID = entries[i][0]
             
             #text = english_text if english_text else japanese_text
-            text = english_short_text if english_short_text else (english_text if english_text else japanese_text)
-            #text = truncate_text(text)
+            text = english_text if english_text else japanese_text
+            #text = truncate_text(text) #dont use this unless debuging string lenght
             
-
+            
+            # Replace '’' with '\u1920' and write the text string and new line
+            text = text.replace("’", "\u2019").replace("\n", "\u000A").replace("'", "\u2019")
             # Write the text string
             text_bytes = text.encode("utf-16-le")
             f.write(text_bytes)
 
-            # Write four 00 bytes
+            # Write four 00 bytes to terminate string like the game wants
             f.write(b'\x00\x00\x00\x00')
 
             # Update the corresponding pointer in the previous structure
@@ -84,7 +87,7 @@ def write_binary_from_csv(csv_file, binary_file, output_file):
             #write string flags
             f.seek(structure_offset + 0x4)
             f.write(struct.pack('<I', int(String_Flags)))
-            #write new adress
+            #write new address
             f.seek(structure_offset + 0x8)
             f.write(struct.pack('<I', current_offset))
 

@@ -1,0 +1,2 @@
+For this tool to work it need to be in the same directory
+than the file you want to insert, need to find a work around.

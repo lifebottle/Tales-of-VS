@@ -1,4 +1,4 @@
-.open "../../0_data/EBOOT.BIN","../../3_patched/EBOOT.BIN",0x8803FAC
+.open "../../0_data/SYSDIR/EBOOT.BIN","../../3_patched/SYSDIR/EBOOT.BIN",0x8803FAC
 .psp
 
 ; for standard print
