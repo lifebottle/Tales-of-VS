@@ -916,7 +916,7 @@ dome of electric energy around its point of impact.","Indignation"
 隕石は空中床を貫通し、地面に当たると爆発を起こす。","A spell that summons meteorites from the sky, 
 tearing the sky apart and exploding upon impact.","Meteor Storm"
 "11037","3435921409","Artes Descrption","インディグネイト・ジャッジメントの説明","Indignation Judgment description:","Indignation Judgment"
-"11038","3435921409","Artes Descrption","隕石の発生位置はランダム。","","Ice Needle"
+"11038","3435921409","Artes Descrption","隕石の発生位置はランダム。","","Ice Needle - Unused?"
 "11039","3435921409","Artes Descrption","ターゲットの奥から暴風を起こす術。","Causes a storm to manifest behind the enemy target.","Storm"
 "11040","3435921409","Artes Descrption","ターゲットの足元から岩を突き出し、さらに４本の鋭い岩で
 敵を串刺しにする。","Causes spikes to rise from the ground, followed
@@ -1107,9 +1107,10 @@ The opponent is launched upward.","Rending Havoc"
 "11163","3435921409","Artes Descrption","突きの後に掌底を叩き込み、アッパーで相手を打ち上げる。","A sword thrust followed by a palm strike, and then an uppercut.","Rending Blast"
 "11164","3435921409","Artes Descrption","双牙斬から崩襲脚につなげる技。","A combination of Fang Blade & Havoc Strike.","Fang Havoc"
 "11165","3435921409","Artes Descrption","袈裟斬りの後に穿衝破で敵を浮かせ、
-斬り上げで追い討ちをかける。","","Rending Fang Blade"
+斬り上げで追い討ちをかける。","A Slash attack followed by a thrust strike,
+and finally an upward slash.","Rending Fang Blade"
 "11166","3435921409","Artes Descrption","袈裟斬りの後に掌底を繰り出し、
-斬り上げで追い討ちをかける。","","Raging Fang Blast"
+斬り上げで追い討ちをかける。","A slash attack followed by an uppercut.","Raging Fang Blast"
 "11167","3435921409","Artes Descrption","回転斬りで敵の動きを止め、獅子の闘気を叩きつける技。","Stops the enemy’s movement with a rotating
 slash and strikes with a lion’s fighting spirit.","Beast"
 "11168","3435921409","Artes Descrption","烈破焔焦撃の説明","Infernal Ruin descrption:","Infernal Ruin"
@@ -1117,9 +1118,11 @@ slash and strikes with a lion’s fighting spirit.","Beast"
 気を込めた拳の一撃を放つ。","Step forward and close the gap between the user
 and enemy with chi released from a palm strike.","Shadow Rush"
 "11170","3435921409","Artes Descrption","最初に出す突きをヒットさせると、拳を引かずに
-そのまま相手を地面に叩きつける。","","Impact"
+そのまま相手を地面に叩きつける。","Connecting the first thrust hit, will be followed
+by you slamming the enemy to the ground.","Impact"
 "11171","3435921409","Artes Descrption","その場でジャンピングアッパーを繰り出し、
-そのままカカト落としで相手を叩きつける技。","","Dragon Blast"
+そのままカカト落としで相手を叩きつける技。","A technique that unleashes an immediate jumping
+uppercut and hits the enemy with a heel drop.","Dragon Blast"
 "11172","3435921409","Artes Descrption","鷹爪脚の説明","Talon Strike descrption:","Talon Strike"
 "11173","3435921409","Artes Descrption","連牙弾の説明","Talon Storm descrption:","Talon Storm"
 "11174","3435921409","Artes Descrption","勢いをつけた回し蹴り。当たった相手を強引に引き寄せる。","A spinning kick with momentum.
@@ -1129,9 +1132,11 @@ Forcefully pulls in the opponent who is hit.","Whirlwind Dash"
 アッパーを繰り出し、相手を浮かせる。","Take a big step forward, close the distance, and
 uppercut from a low position to lift the opponent.","Dragon Crush"
 "11177","3435921409","Artes Descrption","爆竜拳の説明","Wyrm Rush descrption:","Wyrm Rush"
-"11178","3435921409","Artes Descrption","高速の連続蹴りから、回し蹴りにつなげる技。","","Talon Blast"
+"11178","3435921409","Artes Descrption","高速の連続蹴りから、回し蹴りにつなげる技。","A technique where you perform a barrage
+of speed kicks into a roundhouse kick.","Talon Blast"
 "11179","3435921409","Artes Descrption","ダウンしている敵をつかんで跳び上がり、
-地面に叩きつける。","","Ground Pound"
+地面に叩きつける。","A technique where you jump into the air with a downed
+enemy and then slam the enemy into the ground.","Ground Pound"
 "11180","3435921409","Artes Descrption","ダウンしている敵をつかみ、振り回して放り投げる。","","Landslide"
 "11181","3435921409","Artes Descrption","ダウンしている敵をつかみ、地面に投げ落とす。","","Avalanche Drop"
 "11182","3435921409","Artes Descrption","セネルの秘奥義","","Lord of Creation"
@@ -1640,9 +1645,7 @@ with freezing chi are shot at once.","Ice Shot"
 "11570","3435921409","Artes Descrption","フェイタルストライク緑Rの説明","Fatal Strike: Green - R description:","Fatal Strike: Green - R"
 "11571","3435921409","Artes Descrption","フェイタルストライク赤Rの説明","Fatal Strike: Red - R description:","Fatal Strike: Red - R"
 "11572","3435921409","Artes Descrption","ターゲットの左右から落雷を連続発生させ、
-最後に巨大な雷を中心に落とす。","A series of lightning strikes are generated from the left
-and right sides of the target. Finally, a huge lightning
-strike is dropped on the center of the target.","Divine Saber"
+最後に巨大な雷を中心に落とす。","A series of lightning strikes are generated from the left and right sides of the target. Finally, a huge lightning strike is dropped on the center of the target.","Divine Saber"
 "11573","3435921409","Artes Descrption","ユジンの秘奥義","Eugene Mystic Arte.",""
 "11574","3435921409","Artes Descrption","チェスター秘奥義","Chester Mystic Arte.",""
 "11575","3435921409","Artes Descrption","斜め上に飛び膝蹴りを放つ。攻撃後に後ろに跳び退く。","A flying knee kick is fired diagonally upward.
@@ -2380,7 +2383,7 @@ a hero in an ancient kingdom. Earth attributed.",""
 "13067","3435921409","Item Description ","いにしえの王国で英雄と謳われた戦士に贈られた名剣。
 土属性付与。","A famous sword given to a warrior who was declared
 a hero in an ancient kingdom. Earth attributed.",""
-"13068","3435921409","Item Description ","古代六王国時代の遺産のひとつ。","One of the heritages of the ancient Six Kingdoms period.",""
+"13068","3435921409","Item Description ","古代六王国時代の遺産のひとつ。","One of the relics of the ancient Six Kingdoms period.",""
 "13069","3435921409","Item Description ","いにしえの王国で英雄と謳われた戦士に贈られた名剣。
 土属性付与。","A famous sword given to a warrior who was declared
 a hero in an ancient kingdom. Earth attributed.",""
@@ -2642,7 +2645,7 @@ light and can be easily handled with one hand.",""
 "13171","3435921409","Item Description ","シルフの加護を受けた槍。風の力を得ることができる。
 風属性付与。","A spear with the blessing of Sylph.
 Gains the power of the wind. Wind attributed.",""
-"13172","3435921409","Item Description ","古代六王国時代の遺産のひとつ。","One of the heritages of the ancient Six Kingdoms period.",""
+"13172","3435921409","Item Description ","古代六王国時代の遺産のひとつ。","One of the relics of the ancient Six Kingdoms period.",""
 "13173","3435921409","Item Description ","イフリートの加護を受けた槍。炎の力を得ることができる。
 火属性付与。","A spear with the blessing of the Efreet.
 Gains the power of fire. Fire attributed.",""
@@ -2722,177 +2725,260 @@ that banishes the darkness. Light attributed.",""
 "13210","3435921409","Item Description ","破壊力抜群で信頼性も最高レベルの拳銃。","A pistol with outstanding destructive power
 and the highest level of reliability.",""
 "13211","3435921409","Item Description ","故郷を取り戻すために戦った獣を模した銃。","A gun modeled after the beast that fought to reclaim its homeland.",""
-"13212","3435921409","Item Description ","旅先の加護を願って作られた杖。小型の矛としても使える。","A staff made for blessings on a journey. It can also be used as a small pike.",""
+"13212","3435921409","Item Description ","旅先の加護を願って作られた杖。小型の矛としても使える。","A staff made as a blessing for one's journey.
+It can also be used as a small pike.",""
 "13213","3435921409","Item Description ","精神集中を助ける小型の杖。
-お守り代わりに持ち歩くものも多い。","A small cane that aids in mental concentration. Many carry it as a talisman.","お守り=amulet"
-"13214","3435921409","Item Description ","旅先の加護を願って作られた杖。小型の矛としても使える。","A staff made for blessings on a journey. It can also be used as a small pike.",""
-"13215","3435921409","Item Description ","旅先の加護を願って作られた杖。小型の矛としても使える。","A staff made for blessings on a journey. It can also be used as a small pike.",""
+お守り代わりに持ち歩くものも多い。","A small cane that aids in mental concentration.
+Many carry it as a talisman.","お守り=amulet"
+"13214","3435921409","Item Description ","旅先の加護を願って作られた杖。小型の矛としても使える。","A staff made as a blessing for one's journey.
+It can also be used as a small pike.",""
+"13215","3435921409","Item Description ","旅先の加護を願って作られた杖。小型の矛としても使える。","A staff made as a blessing for one's journey.
+It can also be used as a small pike.",""
 "13216","3435921409","Item Description ","赤々と輝く宝玉をはめ込んだ杖。
-不思議とポジティブな気持ちになれる。","A wand inlaid with red, shining jewels. It makes you feel strangely positive.",""
+不思議とポジティブな気持ちになれる。","A wand inlaid with red, shining jewels.
+It makes you feel strangely positive.",""
 "13217","3435921409","Item Description ","神木の枝落としの際に切り落とした枝で作られている。
-大地の魔力が秘められた杖。土属性付与。","A staff containing the magic power of the earth.  It is made from a branch cut off during the branch removal of a sacred tree. Earth attributed.",""
-"13218","3435921409","Item Description ","魔力を具現化するルーンが刻み込まれた魔法の杖。","A magic wand inscribed with runes that embody magical powers.",""
+大地の魔力が秘められた杖。土属性付与。","A staff containing the magic power of the earth. It is made from a
+branch cut off during the trimming of a sacred tree. Earth attributed.",""
+"13218","3435921409","Item Description ","魔力を具現化するルーンが刻み込まれた魔法の杖。","A magic wand inscribed with runes that contain magical powers.",""
 "13219","3435921409","Item Description ","雷の魔力を封じた宝玉をはめ込んだ杖。
-雷属性付与。","A staff inlaid with a jewel that contains the magical power of lightning. Lightning attributed.",""
+雷属性付与。","A staff inlaid with a jewel that contains the magical power of lightning.
+Lightning attributed.",""
 "13220","3435921409","Item Description ","装備者の心を強化する石がはめ込まれた杖。","A staff inlaid with stones that strengthens the mind of the wearer.",""
 "13221","3435921409","Item Description ","炎の魔力を封じた宝玉をはめ込んだ杖。
-火属性付与。","A staff inlaid with a jade that contains the magical power of fire. Fire attributed.",""
+火属性付与。","A staff inlaid with a jade that contains the magical power of fire.
+Fire attributed.",""
 "13222","3435921409","Item Description ","聖なる祝福を受けた杖。心を穏やかに保ってくれるという。
 光属性付与。","A holy blessed staff. They say it keeps the mind calm. Light attributed.",""
-"13223","3435921409","Item Description ","古代六王国時代の遺産のひとつ。","One of the heritages of the ancient Six Kingdoms period.",""
+"13223","3435921409","Item Description ","古代六王国時代の遺産のひとつ。","One of the relics of the ancient Six Kingdoms period.",""
 "13224","3435921409","Item Description ","赤々と輝く宝玉をはめ込んだ杖。
-不思議とポジティブな気持ちになれる。","A wand inlaid with red, shining jewels. It makes you feel strangely positive.",""
+不思議とポジティブな気持ちになれる。","A wand inlaid with red, shining jewels.
+It makes you feel strangely positive.",""
 "13225","3435921409","Item Description ","神木の枝落としの際に切り落とした枝で作られている。
-大地の魔力が秘められた杖。土属性付与。","A staff containing the magic power of the earth.  It is made from a branch cut off during the branch removal of a sacred tree. Earth attributed.",""
-"13226","3435921409","Item Description ","魔力を具現化するルーンが刻み込まれた魔法の杖。","A magic wand inscribed with runes that embody magical powers.",""
+大地の魔力が秘められた杖。土属性付与。","A staff containing the magic power of the earth. It is made from a
+branch cut off during the trimming of a sacred tree. Earth attributed.",""
+"13226","3435921409","Item Description ","魔力を具現化するルーンが刻み込まれた魔法の杖。","A magic wand inscribed with runes that contain magical powers.",""
 "13227","3435921409","Item Description ","雷の魔力を封じた宝玉をはめ込んだ杖。
-雷属性付与。","A staff inlaid with a jewel that contains the magical power of lightning. Lightning attributed.",""
+雷属性付与。","A staff inlaid with a jewel that contains the magical power of lightning.
+Lightning attributed.",""
 "13228","3435921409","Item Description ","装備者の心を強化する石がはめ込まれた杖。","A staff inlaid with stones that strengthens the mind of the wearer.",""
 "13229","3435921409","Item Description ","炎の魔力を封じた宝玉をはめ込んだ杖。
-火属性付与。","A staff inlaid with a jade that contains the magical power of fire. Fire attributed.",""
+火属性付与。","A staff inlaid with a jade that contains the magical power of fire.
+Fire attributed.",""
 "13230","3435921409","Item Description ","幻想の力を秘めた杖。
-各地の伝説や口伝を書物にまとめた兄弟の名が刻まれている。","A staff that holds the power of illusion. It is inscribed with the names of the brothers who compiled the legends and oral traditions of the various regions into a book.",""
+各地の伝説や口伝を書物にまとめた兄弟の名が刻まれている。","A staff that holds the power of illusion. It is inscribed with
+the names of the brothers who compiled the legends and
+oral traditions of the various regions into a book.",""
 "13231","3435921409","Item Description ","聖なる祝福を受けた杖。心を穏やかに保ってくれるという。
 光属性付与。","A holy blessed staff. They say it keeps the mind calm. Light attributed.",""
 "13232","3435921409","Item Description ","赤々と輝く宝玉をはめ込んだ杖。
-不思議とポジティブな気持ちになれる。","A wand inlaid with red, shining jewels. It makes you feel strangely positive.",""
+不思議とポジティブな気持ちになれる。","A wand inlaid with red, shining jewels.
+It makes you feel strangely positive.",""
 "13233","3435921409","Item Description ","神木の枝落としの際に切り落とした枝で作られている。
-大地の魔力が秘められた杖。土属性付与。","A staff containing the magic power of the earth.  It is made from a branch cut off during the branch removal of a sacred tree. Earth attributed.",""
-"13234","3435921409","Item Description ","魔力を具現化するルーンが刻み込まれた魔法の杖。","A magic wand inscribed with runes that embody magical powers.",""
+大地の魔力が秘められた杖。土属性付与。","A staff containing the magic power of the earth. It is made from a
+branch cut off during the trimming of a sacred tree. Earth attributed.",""
+"13234","3435921409","Item Description ","魔力を具現化するルーンが刻み込まれた魔法の杖。","A magic wand inscribed with runes that contain magical powers.",""
 "13235","3435921409","Item Description ","雷の魔力を封じた宝玉をはめ込んだ杖。
-雷属性付与。","A staff inlaid with a jewel that contains the magical power of lightning. Lightning attributed.",""
+雷属性付与。","A staff inlaid with a jewel that contains the magical power of lightning.
+Lightning attributed.",""
 "13236","3435921409","Item Description ","装備者の心を強化する石がはめ込まれた杖。","A staff inlaid with stones that strengthens the mind of the wearer.",""
 "13237","3435921409","Item Description ","炎の魔力を封じた宝玉をはめ込んだ杖。
-火属性付与。","A staff inlaid with a jade that contains the magical power of fire. Fire attributed.",""
+火属性付与。","A staff inlaid with a jade that contains the magical power of fire.
+Fire attributed.",""
 "13238","3435921409","Item Description ","幻想の力を秘めた杖。
-各地の伝説や口伝を書物にまとめた兄弟の名が刻まれている。","A staff that holds the power of illusion. It is inscribed with the names of the brothers who compiled the legends and oral traditions of the various regions into a book.",""
+各地の伝説や口伝を書物にまとめた兄弟の名が刻まれている。","A staff that holds the power of illusion. It is inscribed with
+the names of the brothers who compiled the legends and
+oral traditions of the various regions into a book.",""
 "13239","3435921409","Item Description ","自身がその手で作成した杖。相性がいいのか
-ハロルドが使うことで真価を発揮する不思議な杖。","A cane created by his own hands. A good match. A wondrous wand that shows its true value when used by Harold.",""
+ハロルドが使うことで真価を発揮する不思議な杖。","A cane crafted by Harold's own hands. A perfect fit. A wondrous
+wand that shows its true value when used by him.",""
 "13240","3435921409","Item Description ","赤々と輝く宝玉をはめ込んだ杖。
-不思議とポジティブな気持ちになれる。","A wand inlaid with red, shining jewels. It makes you feel strangely positive.",""
+不思議とポジティブな気持ちになれる。","A wand inlaid with red, shining jewels.
+It makes you feel strangely positive.",""
 "13241","3435921409","Item Description ","神木の枝落としの際に切り落とした枝で作られている。
-大地の魔力が秘められた杖。土属性付与。","A staff containing the magic power of the earth.  It is made from a branch cut off during the branch removal of a sacred tree. Earth attributed.",""
-"13242","3435921409","Item Description ","魔力を具現化するルーンが刻み込まれた魔法の杖。","A magic wand inscribed with runes that embody magical powers.",""
+大地の魔力が秘められた杖。土属性付与。","A staff containing the magic power of the earth. It is made from a
+branch cut off during the trimming of a sacred tree. Earth attributed.",""
+"13242","3435921409","Item Description ","魔力を具現化するルーンが刻み込まれた魔法の杖。","A magic wand inscribed with runes that contain magical powers.",""
 "13243","3435921409","Item Description ","雷の魔力を封じた宝玉をはめ込んだ杖。
-雷属性付与。","A staff inlaid with a jewel that contains the magical power of lightning. Lightning attributed.",""
+雷属性付与。","A staff inlaid with a jewel that contains the magical power of lightning.
+Lightning attributed.",""
 "13244","3435921409","Item Description ","装備者の心を強化する石がはめ込まれた杖。","A staff inlaid with stones that strengthens the mind of the wearer.",""
 "13245","3435921409","Item Description ","炎の魔力を封じた宝玉をはめ込んだ杖。
-火属性付与。","A staff inlaid with a jade that contains the magical power of fire. Fire attributed.",""
+火属性付与。","A staff inlaid with a jade that contains the magical power of fire.
+Fire attributed.",""
 "13246","3435921409","Item Description ","幻想の力を秘めた杖。
-各地の伝説や口伝を書物にまとめた兄弟の名が刻まれている。","A staff that holds the power of illusion. It is inscribed with the names of the brothers who compiled the legends and oral traditions of the various regions into a book.",""
+各地の伝説や口伝を書物にまとめた兄弟の名が刻まれている。","A staff that holds the power of illusion. It is inscribed with
+the names of the brothers who compiled the legends and
+oral traditions of the various regions into a book.",""
 "13247","3435921409","Item Description ","聖なる祝福を受けた杖。心を穏やかに保ってくれるという。
 光属性付与。","A holy blessed staff. They say it keeps the mind calm. Light attributed.",""
-"13248","3435921409","Item Description ","振るうと星のきらめきのような美しい軌跡を残す魔法の槌矛。","When wielded, this magic mallet spear leaves a beautiful trail like the twinkling of a star.",""
+"13248","3435921409","Item Description ","振るうと星のきらめきのような美しい軌跡を残す魔法の槌矛。","When wielded, this magic mallet spear leaves
+a beautiful trail like the twinkling of a star.",""
 "13249","3435921409","Item Description ","高名な英雄が愛用したと言われる戦闘用の杖。","A staff for combat that is said to have been used by a renowned hero.",""
 "13250","3435921409","Item Description ","正式名称は“ブルークリスタルロッド”という。
-伝説に登場する聖具。","Its official name is the Blue Crystal Rod. A sacred tool that appears in legend.",""
+伝説に登場する聖具。","Its official name is the Blue Crystal Rod.
+A sacred tool that appears in legend.",""
 "13251","3435921409","Item Description ","特殊な力を秘めた魔法の杖。
-持ち主は星の意識に触れることができるという。","A magic wand with special powers. The bearer is said to be able to touch the consciousness of the stars.",""
-"13252","3435921409","Item Description ","古代六王国時代の遺産のひとつ。","One of the heritages of the ancient Six Kingdoms period.",""
-"13253","3435921409","Item Description ","棒つきキャンディーを模した杖。なめても味はしません。","A candy cane that resembles a stick of candy. It does not taste good even if you lick it.",""
-"13254","3435921409","Item Description ","はるか東方の国に伝わる遊戯用の板。雅な装飾が施されている。","A board for games in a far eastern country. It is decorated with elegant ornaments.",""
+持ち主は星の意識に触れることができるという。","A magic wand with special powers. The bearer is said
+to be able to touch the consciousness of the stars.",""
+"13252","3435921409","Item Description ","古代六王国時代の遺産のひとつ。","One of the relics of the ancient Six Kingdoms period.",""
+"13253","3435921409","Item Description ","棒つきキャンディーを模した杖。なめても味はしません。","A cane that resembles a stick of candy.
+It tastes terrible if you want to take a lick.",""
+"13254","3435921409","Item Description ","はるか東方の国に伝わる遊戯用の板。雅な装飾が施されている。","A board for games in a far eastern country.
+It is decorated with elegant ornaments.",""
 "13255","3435921409","Item Description ","はるか東方の国に伝わるお菓子を模した槌斧。
-本物はふわふわであま～い。","A mallet-axe modeled after a confection from a far eastern land. The real thing is fluffy and sweet.",""
-"13256","3435921409","Item Description ","はるか東方の国に伝わる遊戯用の板。雅な装飾が施されている。","A board for games in a far eastern country. It is decorated with elegant ornaments.",""
+本物はふわふわであま～い。","A mallet-axe modeled after a confection from a far eastern land.
+The real thing is fluffy and sweet.",""
+"13256","3435921409","Item Description ","はるか東方の国に伝わる遊戯用の板。雅な装飾が施されている。","A board for games in a far eastern country.
+It is decorated with elegant ornaments.",""
 "13257","3435921409","Item Description ","はるか東方の国に伝わるお菓子を模した槌斧。
-本物はふわふわであま～い。","A mallet-axe modeled after a confection from a far eastern land. The real thing is fluffy and sweet.",""
-"13258","3435921409","Item Description ","はるか東方の国に伝わる遊戯用の板。雅な装飾が施されている。","A board for games in a far eastern country. It is decorated with elegant ornaments.",""
+本物はふわふわであま～い。","A mallet-axe modeled after a confection from a far eastern land.
+The real thing is fluffy and sweet.",""
+"13258","3435921409","Item Description ","はるか東方の国に伝わる遊戯用の板。雅な装飾が施されている。","A board for games in a far eastern country.
+It is decorated with elegant ornaments.",""
 "13259","3435921409","Item Description ","はるか東方の国に伝わるお菓子を模した槌斧。
-本物はふわふわであま～い。","A mallet-axe modeled after a confection from a far eastern land. The real thing is fluffy and sweet.",""
-"13260","3435921409","Item Description ","はるか東方の国に伝わる遊戯用の板。雅な装飾が施されている。","A board for games in a far eastern country. It is decorated with elegant ornaments.",""
+本物はふわふわであま～い。","A mallet-axe modeled after a confection from a far eastern land.
+The real thing is fluffy and sweet.",""
+"13260","3435921409","Item Description ","はるか東方の国に伝わる遊戯用の板。雅な装飾が施されている。","A board for games in a far eastern country.
+It is decorated with elegant ornaments.",""
 "13261","3435921409","Item Description ","はるか東方の国に伝わるお菓子を模した槌斧。
-本物はふわふわであま～い。","A mallet-axe modeled after a confection from a far eastern land. The real thing is fluffy and sweet.",""
-"13262","3435921409","Item Description ","鉄製の戦輪。特殊な武器で扱いには練習が必要。","A steel battle wheel. It is a special weapon and requires practice to handle.",""
+本物はふわふわであま～い。","A mallet-axe modeled after a confection from a far eastern land.
+The real thing is fluffy and sweet.",""
+"13262","3435921409","Item Description ","鉄製の戦輪。特殊な武器で扱いには練習が必要。","A steel battle wheel. It is a special weapon
+and requires practice to handle.",""
 "13263","3435921409","Item Description ","打撃戦に耐えうるように補強、強化した。","Reinforced and strengthened to withstand a beating.",""
 "13264","3435921409","Item Description ","軽くて使いやすい円盤。
-うまく投げれば滞空時間も長く、犬と遊ぶのに向いている。","Lightweight and easy to use disc. If thrown well, it has a long airtime and is suitable for playing with dogs.",""
+うまく投げれば滞空時間も長く、犬と遊ぶのに向いている。","Lightweight and easy to use disc. If thrown well, it has
+a long airtime and is suitable for playing with dogs.",""
 "13265","3435921409","Item Description ","ミスリルで補強した戦輪。
-その軽さからは想像できないほどの威力を見せる。","A war wheel reinforced with mithril. It shows a power that is unimaginable for its lightness.",""
+その軽さからは想像できないほどの威力を見せる。","A war wheel reinforced with mithril. It showcases
+a power that is unimaginable for its lightness.",""
 "13266","3435921409","Item Description ","光の気流をまとっている飛具。
-エアスラストに似ているため、この名を得た。光属性付与。","A flying device that is clad in an air current of light. It gets its name because it resembles an air thrust. Light attributed.",""
+エアスラストに似ているため、この名を得た。光属性付与。","A flying device that is clad in an air current of light. It gets its
+name because it resembles an air thrust. Light attributed.",""
 "13267","3435921409","Item Description ","日輪のような形状をしているリング。","This ring is shaped like a sunflower.",""
 "13268","3435921409","Item Description ","月のリング。
-軌跡が月の煌きのように見える。","A ring of the moon. The trails look like the glimmer of the moon.",""
+軌跡が月の煌きのように見える。","A ring of the moon. The trails it creates resemble its glimmer.",""
 "13269","3435921409","Item Description ","星屑のリング。
-軌跡が屑星を連想させる。","A ring of stardust. The trails are reminiscent of a garbage star.",""
+軌跡が屑星を連想させる。","A ring of stardust. The trails are reminiscent of a garbage star.","DRAGON: ""garbage star?"""
 "13270","3435921409","Item Description ","通称「コイン」。
-どういった技術のものなのか、詳細は不明。","Commonly known as 'coins'. No details on what kind of technology it is.",""
+どういった技術のものなのか、詳細は不明。","Commonly known as 'coins'. No details on what kind of technology it is.","DRAGON: ""coins?"""
 "13271","3435921409","Item Description ","天使の輪。
-神秘的な力が溢れてくる。","A ring of angels. Mystical power overflows.",""
-"13272","3435921409","Item Description ","本来は叩いて使う楽器。叩くと楽しい気持ちになれる。","Essentially a musical instrument used by tapping. It gives a joyful feeling when struck.",""
+神秘的な力が溢れてくる。","A ring of angels. Mystical power overflows from it.",""
+"13272","3435921409","Item Description ","本来は叩いて使う楽器。叩くと楽しい気持ちになれる。","Essentially a musical instrument you play by slapping it.
+It gives a joyful feeling when struck.",""
 "13273","3435921409","Item Description ","握りの付いた木の棒。主に護身に用いられる。
-使いこなすには武術の心得が必要。","A wooden stick with a grip. It is mainly used for self-defense. Requires a mastery of martial arts to use.",""
+使いこなすには武術の心得が必要。","A wooden stick with a grip. It is mainly used for self-defense.
+Requires a mastery of martial arts to use.",""
 "13274","3435921409","Item Description ","鉄で強化されたトンファー。剣や斧をはじき返す。","Iron-reinforced tonfa. Repels swords and axes.",""
 "13275","3435921409","Item Description ","水晶の飾りを埋め込んだトンファー。
-水晶の光は戦う相手の目をくらませる。","A tonfa with a crystal ornament embedded in it. The light of the crystal dazzles the opponents it fights.",""
+水晶の光は戦う相手の目をくらませる。","A tonfa with a crystal ornament embedded in it.
+The light of the crystal dazzles the opponents it fights.",""
 "13276","3435921409","Item Description ","鋼鉄製のトンファー。硬いが重い。","Steel tonfa. Hard but heavy.",""
 "13277","3435921409","Item Description ","かつて蒼獣に仕える者が使ったトンファー。
-聖殿を護るために使われた。","A tonfa once used by the servants of the blue beast. It was used to protect the Holy Temple.",""
+聖殿を護るために使われた。","A tonfa once used by the servants of the blue beast.
+It was used to protect the Holy Temple.",""
 "13278","3435921409","Item Description ","不思議な金属ミスリルのトンファー。軽くて丈夫。","Mysterious metal mithril tonfa. Light and strong.",""
 "13279","3435921409","Item Description ","謎の素材でつくられたトンファー。秘めた破壊力は未知数。","A tonfa made of a mysterious material. Its destructive power is unknown.",""
 "13280","3435921409","Item Description ","心の力を反映するトンファー。
-心が強ければ最強の武器にもなりえるという。","This tonfa reflects the power of the mind. It is said that if the heart is strong enough, it can become the most powerful weapon of all.",""
+心が強ければ最強の武器にもなりえるという。","This tonfa reflects the power of the mind. It is said that if the heart
+is strong enough, it can become the most powerful weapon of all.",""
 "13281","3435921409","Item Description ","魔物のアゴを用いたトンファー。
-魔力を秘めており、その力で持ち主の身体能力を高める。","A tonfa made from the jaw of a demon. It contains magical power, and its power enhances the physical abilities of its owner.",""
+魔力を秘めており、その力で持ち主の身体能力を高める。","A tonfa made from the jaw of a demon. It contains magical power,
+and its power enhances the physical abilities of its owner.",""
 "13282","3435921409","Item Description ","不思議な力を発するトンファー。
-誰もその起源などを知らない謎の武器。","A tonfa that emits a mysterious power. A mysterious weapon of which no one knows its origin or other details.",""
+誰もその起源などを知らない謎の武器。","A tonfa that emits a mysterious power. A mysterious weapon
+of which no one knows its origin or other details.",""
 "13283","3435921409","Item Description ","誰にでもそれなりにあつかえる。というのは吹いた時の話。
-武器としての能力は未知数。","Everyone can be handled appropriately. But that's only when it is blown. Its ability as a weapon is unknown.",""
+武器としての能力は未知数。","Everyone can be handled appropriately. But that's only
+when it is blown. Its ability as a weapon is unknown.","DRAGON: ...what?"
 "13284","3435921409","Item Description ","魔力伝導率の高い繊維で編みこまれた腰布。
-魔力の加減である程度伸縮できる。","A waist cloth woven with fibers that have a high conductivity of magic power. It can stretch to a certain extent depending on the amount of magic power.",""
+魔力の加減である程度伸縮できる。","A waist cloth woven with fibers that have a high conductivity for
+magic power. It can stretch to a certain extent depending on
+the amount of magic power.",""
 "13285","3435921409","Item Description ","ハート型の花びらをモチーフにした反物。
-染料に含まれる成分が魔力を伝達する。","An antique with a heart-shaped petal motif. The ingredients in the dye transmit magic power.",""
+染料に含まれる成分が魔力を伝達する。","An antique with a heart-shaped petal motif.
+The ingredients in the dye transmit magic power.",""
 "13286","3435921409","Item Description ","様々な植物を使った染物。その鮮やかな緑は百年の時を経ても
-色あせることがない。土属性付与。","Dyed with a variety of plants. Its vivid green color will not fade even after a hundred years. Earth attributed.",""
+色あせることがない。土属性付与。","Dyed with a variety of plants. Its vivid green color will
+not fade even after a hundred years. Earth attributed.",""
 "13287","3435921409","Item Description ","強い決意の元に集まった戦士たちの血判状。
-鬼気迫る闘志を感じさせる。","A blood stamp of warriors gathered under a strong determination. It evokes an uncanny fighting spirit.",""
+鬼気迫る闘志を感じさせる。","A blood stamp of warriors gathered under a strong determination.
+It evokes an uncanny fighting spirit.","DRAGON: is this supposed to be like... a pact or oath or something?"
 "13288","3435921409","Item Description ","パーフェクトグリーンをさらに改良、補強して作られた帯。
-土属性付与。","A belt made by further improving and reinforcing the Perfect Green. Earth attributed.",""
+土属性付与。","A belt made by further improving and reinforcing
+the Perfect Green. Earth attributed.",""
 "13289","3435921409","Item Description ","星をも召還したとされる伝説の魔術師が
-身にまとっていたといわれるマントの一部。","Part of a cloak said to have been worn by a legendary sorcerer who is said to have summoned the stars.",""
+身にまとっていたといわれるマントの一部。","Part of a cloak said to have been worn by a legendary
+sorcerer who is said to have summoned the stars.",""
 "13290","3435921409","Item Description ","海の民と呼ばれる民族の染物。航海の安全を願い舳先に
-巻いていた。思いが精霊となり宿っているという。水属性付与。","Dyed goods of a tribe called the people of the sea. It was wrapped around the bow of a ship to wish for safe voyage. It is said that their thoughts became spirits and dwelled in it. Water attributed.",""
+巻いていた。思いが精霊となり宿っているという。水属性付与。","Dyed goods of a tribe called ""the people of the sea."" It was wrapped
+around the bow of a ship to as ward for safe voyage. It is said that their
+thoughts became spirits and dwelled within it. Water attributed.",""
 "13291","3435921409","Item Description ","満天の星空のような美しい織物。
-刺繍に使われた特殊な金糸は魔力を蓄える。","A beautiful textile like a star-filled sky. The special gold thread is used for embroidery stores magical power.",""
+刺繍に使われた特殊な金糸は魔力を蓄える。","A beautiful textile resembling a star-filled sky. The special
+gold thread used for its embroidery stores magical power.",""
 "13292","3435921409","Item Description ","光と闇をモチーフにした絵画の一片とされるが詳細は不明。
-何かを封印した痕跡がある。闇属性付与。","It is believed to be a piece of a painting with a motif of light and darkness, but the details are unknown. There are traces of something sealed in it. Darkness attributed.",""
+何かを封印した痕跡がある。闇属性付与。","It is believed to be a piece of a painting with a motif of light and
+darkness, but the finer details are unknown. There are traces
+of something sealed within it. Darkness attributed.",""
 "13293","3435921409","Item Description ","特殊な加工を施された帯を適当な長さに切った武器。
-使用者によっては鉄板をも断つという。","A weapon made of a specially processed strip cut to the appropriate length. Depending on the user, it is said to cut through steel plates.",""
-"13294","3435921409","Item Description ","思いを込めた手編みのマフラーはあらゆる敵を打ち砕く？","A hand-knitted scarf that puts your heart and soul into it. Will crush all enemies?",""
+使用者によっては鉄板をも断つという。","A weapon made of a specially processed strip cut to the appropriate
+length. Depending on the user, it is said to cut through steel plates.",""
+"13294","3435921409","Item Description ","思いを込めた手編みのマフラーはあらゆる敵を打ち砕く？","A hand-knitted scarf that puts your heart and soul into it.
+Will crush all enemies?","DRAGON; Is this supposed to say that someone put  their heart and soul into making it?"
 "13295","3435921409","Item Description ","持ち主の力に呼応して必要な時だけ具現化する特殊な帯。
-光の軌跡が全てを絶つ。","A special belt that responds to its owner's power and materializes only when needed. A trail of light that cuts through everything.",""
+光の軌跡が全てを絶つ。","A special belt that responds to its owner's power and materializes
+only when needed. A trail of light that cuts through everything.",""
 "13296","3435921409","Item Description ","空飛ぶホウキ。アーチェが乗っても痛くないように
 サドルが付いている。","Flying broom. Arche can ride on it and it won't hurt her. It has a saddle.",""
-"13297","3435921409","Item Description ","銀細工の施された高級ホウキ。重くて実用には向かない。","A fine broomstick with silver work. It is heavy and not suitable for practical use.",""
+"13297","3435921409","Item Description ","銀細工の施された高級ホウキ。重くて実用には向かない。","A fine broomstick with silver work. It is
+heavy and not suitable for practical use.",""
 "13298","3435921409","Item Description ","力を示すルーンが刻まれたモップ。","A mop engraved with runes indicating power.",""
 "13299","3435921409","Item Description ","銀製の柄でできたモップ。魔を退ける効果があるが、
-なぜモップなのかは謎。","A mop made with a silver handle. It has the effect of repelling demons, but why it is a mop is a mystery.",""
-"13300","3435921409","Item Description ","別世界からやってきた魔女が乗っていたというホウキ。","A broomstick that was said to have been ridden by a witch from another world.",""
+なぜモップなのかは謎。","A mop made with a silver handle. It has the effect of
+repelling demons, but why it is a mop is a mystery.",""
+"13300","3435921409","Item Description ","別世界からやってきた魔女が乗っていたというホウキ。","A broomstick that was said to have been
+ridden by a witch from another world.",""
 "13301","3435921409","Item Description ","風の精霊が宿ったホウキ。","A broomstick inhabited by the spirit of the wind.",""
 "13302","3435921409","Item Description ","物好きの資産家が作らせた黄金のモップ。","A golden mop made by a wealthy man who loves things.",""
-"13303","3435921409","Item Description ","軽くて使いやすい。繊維部分もこだわって作られている。","Lightweight and easy to use. The fiber part is also made with care.",""
-"13304","3435921409","Item Description ","楽器のような飛行音が出る不思議なホウキ。","A mysterious broomstick that produces a flight sound like a musical instrument.",""
+"13303","3435921409","Item Description ","軽くて使いやすい。繊維部分もこだわって作られている。","Lightweight and easy to use. The fibrous part is also made with care.",""
+"13304","3435921409","Item Description ","楽器のような飛行音が出る不思議なホウキ。","A mysterious broomstick that produces
+a flight sound like a musical instrument.","DRAGON: a flight sound?"
 "13305","3435921409","Item Description ","流れ星のような軌跡を残す魔法のホウキ。","A magic broomstick that leaves a trail like a shooting star.",""
 "13306","3435921409","Item Description ","馬の頭が付いたおもちゃ。またがる姿は・・・","A toy with a horse's head on it. The figure straddling it is...",""
-"13307","3435921409","Item Description ","剣と盾が一対になったソーマ。剣は盾に収めることができる。","A pair of swords and a shield of soma. The sword can be housed in the shield.",""
-"13308","3435921409","Item Description ","剣と盾が一対になったソーマ。剣は盾に収めることができる。","A pair of swords and a shield of soma. The sword can be housed in the shield.",""
+"13307","3435921409","Item Description ","剣と盾が一対になったソーマ。剣は盾に収めることができる。","A pair of swords and a shield of soma.
+The sword can be housed in the shield.",""
+"13308","3435921409","Item Description ","剣と盾が一対になったソーマ。剣は盾に収めることができる。","A pair of swords and a shield of soma.
+The sword can be housed in the shield.",""
 "13309","3435921409","Item Description ","剣と盾が一対になったソーマ。剣は盾に収めることができる。
-光属性付与。","A pair of swords and a shield of soma. The sword can be housed in the shield. Light attributed.",""
-"13310","3435921409","Item Description ","剣と盾が一対になったソーマ。剣は盾に収めることができる。","A pair of swords and a shield of soma. The sword can be housed in the shield.",""
-"13311","3435921409","Item Description ","剣と盾が一対になったソーマ。剣は盾に収めることができる。","A pair of swords and a shield of soma. The sword can be housed in the shield.",""
-"13312","3435921409","Item Description ","剣と盾が一対になったソーマ。剣は盾に収めることができる。","A pair of swords and a shield of soma. The sword can be housed in the shield.",""
-"13313","3435921409","Item Description ","剣と盾が一対になったソーマ。剣は盾に収めることができる。","A pair of swords and a shield of soma. The sword can be housed in the shield.",""
-"13314","3435921409","Item Description ","剣と盾が一対になったソーマ。剣は盾に収めることができる。","A pair of swords and a shield of soma. The sword can be housed in the shield.",""
-"13315","3435921409","Item Description ","剣と盾が一対になったソーマ。剣は盾に収めることができる。","A pair of swords and a shield of soma. The sword can be housed in the shield.",""
-"13316","3435921409","Item Description ","剣と盾が一対になったソーマ。剣は盾に収めることができる。","A pair of swords and a shield of soma. The sword can be housed in the shield.",""
+光属性付与。","A pair of swords and a shield of soma. The sword
+can be housed in the shield. Light attributed.",""
+"13310","3435921409","Item Description ","剣と盾が一対になったソーマ。剣は盾に収めることができる。","A pair of swords and a shield of soma.
+The sword can be housed in the shield.",""
+"13311","3435921409","Item Description ","剣と盾が一対になったソーマ。剣は盾に収めることができる。","A pair of swords and a shield of soma.
+The sword can be housed in the shield.",""
+"13312","3435921409","Item Description ","剣と盾が一対になったソーマ。剣は盾に収めることができる。","A pair of swords and a shield of soma.
+The sword can be housed in the shield.",""
+"13313","3435921409","Item Description ","剣と盾が一対になったソーマ。剣は盾に収めることができる。","A pair of swords and a shield of soma.
+The sword can be housed in the shield.",""
+"13314","3435921409","Item Description ","剣と盾が一対になったソーマ。剣は盾に収めることができる。","A pair of swords and a shield of soma.
+The sword can be housed in the shield.",""
+"13315","3435921409","Item Description ","剣と盾が一対になったソーマ。剣は盾に収めることができる。","A pair of swords and a shield of soma.
+The sword can be housed in the shield.",""
+"13316","3435921409","Item Description ","剣と盾が一対になったソーマ。剣は盾に収めることができる。","A pair of swords and a shield of soma.
+The sword can be housed in the shield.",""
 "13317","3435921409","Item Description ","“ＧＩＲＬ ＮＥＸＴ ＤＯＯＲ”が意匠を凝らした剣。
-使うものの魂を響かせるという不思議な剣。","""GIRL NEXT DOOR"" has designed a sword. It is a mysterious sword that resonates with the soul of the user.",""
+使うものの魂を響かせるという不思議な剣。","""GIRL NEXT DOOR"" has designed a sword. It is a mysterious
+sword that resonates with the soul of the user.",""
 "13318","3435921409","Item Description ","長ネギの形を模した剣。とある名工の遺作。
 名工が果てに見たものとは・・・","A sword in the shape of a long green onion.
 The last work of a master craftsman.","Leek"
 "13319","3435921409","Item Description ","さる賢王が文献を基に作らせたという武器。
-扇状に広がる金属板。当たると痛いではすまない。","This weapon is said to have been made by the wise king Saru based on literature. A metal plate that spreads out like a fan. It hurts when it hits.",""
-"13320","3435921409","Item Description ","コレを片手に歩いている人にはあまり近づきたくない。","You don't want to get too close to someone walking around with this in their hand.",""
+扇状に広がる金属板。当たると痛いではすまない。","This weapon is said to have been made by the wise king Saru based on
+literature. A metal plate that spreads out like a fan. It hurts when it hits.",""
+"13320","3435921409","Item Description ","コレを片手に歩いている人にはあまり近づきたくない。","You don't want to get too close to someone
+walking around with this in their hand.",""
 "13321","3435921409","Item Description ","戦闘時にバトンを形成するアンクレット型のソーマ。
 形状を活かした攻撃は岩も砕く。","An anklet-shaped soma that forms a baton in battle.
 Attacks that utilize the shape can shatter rocks.",""
@@ -2928,7 +3014,7 @@ Attacks that utilize the shape can shatter rocks.",""
 to strengthen the body. Do not swing it around.",""
 "13332","3435921409","Item Description ","皮の手袋。打撃の衝撃から保護してくれる。","Leather gloves. They protect from the impact of a blow.",""
 "13333","3435921409","Item Description ","鉄製の武具。格闘家の必須アイテム。","Armor made of iron. An essential item for martial artists.",""
-"13334","3435921409","Item Description ","コングマンの手にしっくりなじむ愛用のナックル。","A favorite knuckle that fits comfortably in Kongman’s hand.",""
+"13334","3435921409","Item Description ","コングマンの手にしっくりなじむ愛用のナックル。","A favorite set of brass knuckles that fit comfortably in Kongman’s hands.",""
 "13335","3435921409","Item Description ","なめし皮を素材にして職人が作成したリスト。
 打撃の破壊力が増す。","A list created by artisans from tanned leather.
 It increases the destructive power of blows.",""
@@ -2939,8 +3025,8 @@ It increases the destructive power of blows.",""
 to striking, it cuts through the enemy.",""
 "13339","3435921409","Item Description ","様々な金属を連ねて作られたリスト。","A list that is made up of a series of various metals.",""
 "13340","3435921409","Item Description ","滄我の力を宿したリスト。水の力を宿す。
-水属性付与。","A list that holds the power of the Canggu. Imbued with
-the power of water. Water attributed.",""
+水属性付与。","A list that holds the power of the Canggu. Imbued
+with the power of water. Water attributed.",""
 "13341","3435921409","Item Description ","古代文明の遺跡より発掘されたリスト。
 驚異的な破壊力を生み出す。","A list excavated from the ruins of an ancient civilization. 
 It produces an extraordinary destructive force.",""
@@ -3754,7 +3840,8 @@ not stagger. SP Required 20.",""
 ダメージ軽減効果はない。　　　　　　　　　　　必要ＳＰ　２５","Critical Guard allows user to pass through enemy. 
 No damage reduction effect. SP Required 25.",""
 "15078","3435921409","Skills description","クリティカルガードが終わるときに振り向くようになる。
-　　　　　　　　　　　　　　　　　　　　　　　必要ＳＰ　２５","",""
+　　　　　　　　　　　　　　　　　　　　　　　必要ＳＰ　２５","Turns character around once critical guard ends.
+Required SP 25""",""
 "15079","3435921409","Skills description","空中でクリティカルガードの操作をすると
 前方に素早く移動することができる。　　　　　　必要ＳＰ　１５","If using a Critical Guard in the air, you can move forward quickly. 
 SP Required 15.",""
@@ -4080,9 +4167,9 @@ SP Required 50.",""
 "16183","3435921409","Title","お人好し","Softhearted",""
 "16184","3435921409","Title","純粋な魂を持つ者","Pure Soul",""
 "16185","3435921409","Title","ゴッドハンドガール","God Hand Girl",""
-"16186","3435921409","Title","みつぼしコック","",""
+"16186","3435921409","Title","みつぼしコック","3-Star Chef",""
 "16187","3435921409","Title","キッチンマスター","Kitchen Master",""
-"16188","3435921409","Title","あじむしゃ","",""
+"16188","3435921409","Title","あじむしゃ","Warrior Chef",""
 "16189","3435921409","Title","首振り女王","Queen of the Swing",""
 "16190","3435921409","Title","英雄の息子","Son of a Hero",""
 "16191","3435921409","Title","剣士","Swordsman",""
@@ -4090,15 +4177,15 @@ SP Required 50.",""
 "16193","3435921409","Title","ブレイブフェンサー","Brave Fencer",""
 "16194","3435921409","Title","ラストフェンサー","Last Fencer",""
 "16195","3435921409","Title Kyle","烈風の剣士","Swordsman of the Gale",""
-"16196","3435921409","Title Kyle","英雄の魂を受け継ぐ者","",""
+"16196","3435921409","Title Kyle","英雄の魂を受け継ぐ者","Inheritor of the Soul of a Hero",""
 "16197","3435921409","Title Kyle","疾風のカイル","Kyle of the Gale",""
 "16198","3435921409","Title Kyle","うわさの少年剣士","Rumored Boy Swordsman",""
-"16199","3435921409","Title Kyle","二つ名に憧れる少年","",""
+"16199","3435921409","Title Kyle","二つ名に憧れる少年","Yearning for Two Names",""
 "16200","3435921409","Title Kyle","暫定わがまま王","Provisional Selfish King",""
 "16201","3435921409","Title Kyle","真わがまま王","King of True Selfishness",""
 "16202","3435921409","Title Kyle","グミ好キング","Gel Loving King",""
 "16203","3435921409","Title","ゾーディアン・マズダー","Swordian Master",""
-"16204","3435921409","Title","マッハ青年","",""
+"16204","3435921409","Title","マッハ青年","Mach Youth",""
 "16205","3435921409","Title","スタンプラリーマスター","",""
 "16206","3435921409","Title","コンテナマスター","",""
 "16207","3435921409","Title","クイズ王","",""
@@ -7371,22 +7458,18 @@ justice means to him.",""
 と知り合ってからは未来の公爵
 夫人の座を狙っているらしい。","From [Tales of the Abyss]
 Height: 152cm. Weight: 42kg.
-A girl who travels with Luke,
-the protagonist of Tales of
-the Abyss.
-She is an energetic and lively
-young girl who protects the
-leader of the Order of Lorelei: 
-Fon Master Ion.
-She is a puppeteer who
-utilizes the doll on her back,
-Tokunaga. Tokunaga grows
-to a huge size and fights for her.
-She dreams of marrying into
-wealth and after meeting with
-Luke, she seems to have set 
-her sights on becoming
-the future duchess.",""
+A girl who travels with Luke, the
+protagonist of Tales of the Abyss.
+She is an energetic and lively young
+girl who protects the leader of
+the Order of Lorelei: Fon Master Ion.
+She is a puppeteer who uses the
+doll on her back, Tokunaga, who
+grows to a huge size to fight for her.
+She dreams of marrying into wealth
+and after meeting with Luke, she
+seems to have set her sights on
+becoming the future duchess.",""
 "58022","3435921409","Chara Profile","「テイルズ　オブ
 　シンフォニア」より
 身長１５８ｃｍ　体重４４ｋｇ
@@ -7486,12 +7569,11 @@ He is the champion of a fighting
 arena who travels with Stahn,
 Tales of Destiny’s protagonist.
 He is a man with a big heart and
-a muscular body. He can use all
-kinds of weapons. He is a huge man
-who can use all sorts of weapons,
-but he prefers to fight hand-to-hand
-as he is agile enough that he
-doesn’t need them.
+a muscular body.
+He is a huge man who can use all
+sorts of weapons, but he prefers to
+fight hand-to-hand as he is agile
+enough that he doesn’t need them.
 He and Stahn share a friendship
 that transcends their age gap.",""
 "58026","3435921409","Chara Profile","「テイルズ　オブ
@@ -8440,7 +8522,7 @@ now available for purchase.",""
 "61056","3435921409","Character Setup Strategy","遠距離職","Long distance",""
 "61057","3435921409","Character Setup Strategy","魔術職","Magic",""
 "61058","3435921409","Character Setup Strategy","補助魔術職","Support magic",""
-"61059","3435921409","Character Setup Strategy","まかせる","I leave it to you",""
+"61059","3435921409","Character Setup Strategy","まかせる","Do as you like",""
 "61090","3435921409","Character Setup Strategy","なし","Nothing",""
 "61091","3435921409","Character Setup Strategy","遠","Far",""
 "61092","3435921409","Character Setup Strategy","中","Middle",""
