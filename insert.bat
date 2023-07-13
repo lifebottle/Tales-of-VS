@@ -24,6 +24,7 @@ popd
 ::Build command for the asm hacks
 pushd "tools/Asm/"
 armips.exe eboot.asm
+armips.exe font.asm
 popd
 
 Pause
