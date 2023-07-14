@@ -55,10 +55,10 @@ u32 magic "RSSA"
 str fname "40-byte file name"
 u16 ssad_enum
 u16 gim_enum
-u32 fpos to ssad fpos
-u32 fpos to ssad fsize
-u32 fpos to gim fpos structure
-u32 fpos to gim fsiz structure
+u32 foffset to ssad foffset
+u32 foffset to ssad fsize
+u32 foffset to gim foffset structure
+u32 foffset to gim fsiz structure
 
 ```
 
