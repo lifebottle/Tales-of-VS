@@ -54,7 +54,12 @@ Header:
 u32 magic "RSSA"
 str fname "40-byte file name"
 u16 ssad_enum
-u16 tm2_enum
+u16 gim_enum
+u32 fpos to ssad fpos
+u32 fpos to ssad fsize
+u32 fpos to gim fpos structure
+u32 fpos to gim fsiz structure
+
 ```
 
 ## Hacker Note 5 - Text Stuff - Various Routines
