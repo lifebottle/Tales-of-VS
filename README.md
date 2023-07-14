@@ -58,7 +58,7 @@ u16 gim_enum
 u32 foffset to ssad foffset
 u32 foffset to ssad fsize
 u32 foffset to gim foffset structure
-u32 foffset to gim fsiz structure
+u32 foffset to gim fsize structure
 
 ```
 
