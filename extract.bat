@@ -98,37 +98,18 @@ python tools/CodeBase/rssatools.py 1_extracted/USRDIR/2D/menu_2d.chain
 
 
 ::extract the gim files from a rssa file--------------------------------------------
-python tools/CodeBase/gimtools.py 0_data/USRDIR/2D/copyright.rssa 1_extracted/USRDIR/2D/copyright
-python tools/CodeBase/gimtools.py 0_data/USRDIR/2D/mn_text_55_00.rssa 1_extracted/USRDIR/2D/mn_text_55_00
-python tools/CodeBase/gimtools.py 0_data/USRDIR/2D/mn_text_56_00.rssa 1_extracted/USRDIR/2D/mn_text_56_00
-python tools/CodeBase/gimtools.py 0_data/USRDIR/2D/mn_web_00_00.rssa 1_extracted/USRDIR/2D/mn_web_00_00
-python tools/CodeBase/gimtools.py 0_data/USRDIR/2D/skit_item_00_01.rssa 1_extracted/USRDIR/2D/skit_item_00_01
-python tools/CodeBase/gimtools.py 0_data/USRDIR/2D/title_bg.rssa 1_extracted/USRDIR/2D/title_bg
+@echo off
+setlocal enabledelayedexpansion
+set "gimtools=python tools\CodeBase\gimtools.py"
 
+for /r "1_extracted/USRDIR/2D" %%F in (*.rssa) do (
+    echo Processing: "%%F"
+    set "output_dir=%%~dpnF"
+    echo Output Directory: "!output_dir!"
+    call %gimtools% "%%F" "!output_dir!"
+)
 
-python tools/CodeBase/gimtools.py 1_extracted/USRDIR/2D/chara_intro_2d/mn_color_00_00.rssa 1_extracted/USRDIR/2D/chara_intro_2d/mn_color_00_00
-python tools/CodeBase/gimtools.py 1_extracted/USRDIR/2D/chara_intro_2d/mn_contents_31_00.rssa 1_extracted/USRDIR/2D/chara_intro_2d/mn_contents_31_00
-python tools/CodeBase/gimtools.py 1_extracted/USRDIR/2D/chara_intro_2d/mn_contents_60_00.rssa 1_extracted/USRDIR/2D/chara_intro_2d/mn_contents_60_00
-python tools/CodeBase/gimtools.py 1_extracted/USRDIR/2D/chara_intro_2d/mn_text_58_00.rssa 1_extracted/USRDIR/2D/chara_intro_2d/mn_text_58_00
-python tools/CodeBase/gimtools.py 1_extracted/USRDIR/2D/chara_intro_2d/mn_text_62_00.rssa 1_extracted/USRDIR/2D/chara_intro_2d/mn_text_62_00
-
-::python tools/CodeBase/gimtools.py 1_extracted/USRDIR/2D/chara_intro_00/mn_text_61_00.rssa 1_extracted/USRDIR/2D/chara_intro_00/mn_text_61_00
-::python tools/CodeBase/gimtools.py 1_extracted/USRDIR/2D/chara_intro_00/mn_text_61_00.rssa 1_extracted/USRDIR/2D/chara_intro_00/mn_text_61_00
-::python tools/CodeBase/gimtools.py 1_extracted/USRDIR/2D/chara_intro_00/mn_text_61_00.rssa 1_extracted/USRDIR/2D/chara_intro_00/mn_text_61_00
-::python tools/CodeBase/gimtools.py 1_extracted/USRDIR/2D/chara_intro_00/mn_text_61_00.rssa 1_extracted/USRDIR/2D/chara_intro_00/mn_text_61_00
-::python tools/CodeBase/gimtools.py 1_extracted/USRDIR/2D/chara_intro_00/mn_text_61_00.rssa 1_extracted/USRDIR/2D/chara_intro_00/mn_text_61_00
-::python tools/CodeBase/gimtools.py 1_extracted/USRDIR/2D/chara_intro_00/mn_text_61_00.rssa 1_extracted/USRDIR/2D/chara_intro_00/mn_text_61_00
-::python tools/CodeBase/gimtools.py 1_extracted/USRDIR/2D/chara_intro_00/mn_text_61_00.rssa 1_extracted/USRDIR/2D/chara_intro_00/mn_text_61_00
-::python tools/CodeBase/gimtools.py 1_extracted/USRDIR/2D/chara_intro_00/mn_text_61_00.rssa 1_extracted/USRDIR/2D/chara_intro_00/mn_text_61_00
-::python tools/CodeBase/gimtools.py 1_extracted/USRDIR/2D/chara_intro_00/mn_text_61_00.rssa 1_extracted/USRDIR/2D/chara_intro_00/mn_text_61_00
-::python tools/CodeBase/gimtools.py 1_extracted/USRDIR/2D/chara_intro_00/mn_text_61_00.rssa 1_extracted/USRDIR/2D/chara_intro_00/mn_text_61_00
-::python tools/CodeBase/gimtools.py 1_extracted/USRDIR/2D/chara_intro_00/mn_text_61_00.rssa 1_extracted/USRDIR/2D/chara_intro_00/mn_text_61_00
-::python tools/CodeBase/gimtools.py 1_extracted/USRDIR/2D/chara_intro_00/mn_text_61_00.rssa 1_extracted/USRDIR/2D/chara_intro_00/mn_text_61_00
-::python tools/CodeBase/gimtools.py 1_extracted/USRDIR/2D/chara_intro_00/mn_text_61_00.rssa 1_extracted/USRDIR/2D/chara_intro_00/mn_text_61_00
-::python tools/CodeBase/gimtools.py 1_extracted/USRDIR/2D/chara_intro_00/mn_text_61_00.rssa 1_extracted/USRDIR/2D/chara_intro_00/mn_text_61_00
-::python tools/CodeBase/gimtools.py 1_extracted/USRDIR/2D/chara_intro_00/mn_text_61_00.rssa 1_extracted/USRDIR/2D/chara_intro_00/mn_text_61_00
-::python tools/CodeBase/gimtools.py 1_extracted/USRDIR/2D/chara_intro_00/mn_text_61_00.rssa 1_extracted/USRDIR/2D/chara_intro_00/mn_text_61_00
-
-
+::converter to png with gimconv------------------------------------------------------
+python tools/CodeBase/gim_automation.py
 
 pause
