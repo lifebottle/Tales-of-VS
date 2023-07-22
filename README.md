@@ -34,7 +34,7 @@ bytes zlib "compressed data"
 ```
 
 ## Hacker Note 3
-1. MGZ files are commonly used on `*.chain` files that contains `*.rssa` files.
+1. MGZ files are commonly used on `*.chain` files that contains various things like `*.gim`, `*.gmo`, `*.efp`, and `*.rssa` files.
 2. Format are as follows;
 ```
 Header:
