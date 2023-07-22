@@ -34,6 +34,7 @@ def extract_rssa_files(chain_file):
             file.seek(file_offset)
             file_data = file.read(file_size)
             
+            """
             # Extract the file name from the chain file
             #file_name = str(i) + '.rssa'
             file_name = ""
@@ -41,11 +42,19 @@ def extract_rssa_files(chain_file):
                 if x == 0: break;
                 file_name += chr(x)
             file_name = file_name + '.rssa'
+            """
+            # Extract the file name from the chain file
+
+            file_name = str(i)  # If no name is found, use the number 'i' instead
+            file_name = file_name + '.rssa'
+            
+            
 
             # Write the file data to the output directory
             output_file_path = os.path.join(output_directory, file_name)
             with open(output_file_path, 'wb') as output_file:
                 output_file.write(file_data)
+
 
     print(f"All .rssa files extracted to {output_directory}.")
 
