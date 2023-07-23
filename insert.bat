@@ -21,6 +21,10 @@ pushd "tools/GimConv/"
 gimconv ../../2_translated/USRDIR/CLIMAX/data/bg/title.png --image_format index8 -o ../../3_patched/USRDIR/CLIMAX/data/bg/title.gim
 popd
 
+::Compress the file back to mgz
+
+python tools/CodeBase/zlibtools.py -c 2_translated/USRDIR/tod.fat 3_patched/USRDIR/tod.fat.mgz
+
 ::Build command for the asm hacks
 pushd "tools/Asm/"
 armips.exe eboot.asm

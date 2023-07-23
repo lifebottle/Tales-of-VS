@@ -4078,7 +4078,7 @@ SP Required 25."
 中断した所から詠唱ができる。　　　　　　　　　必要ＳＰ　３５","Interrupted casting will resume where left off if used again. 
 SP Required 35."
 "15097","3435921409","Skills description","下級術に限り、詠唱が終了しても×ボタンを押し続けることで、
-発動待機状態で自由に動ける。　　　　　　　　　必要ＳＰ　２０","Holding x button after low tier magic casting ends allows moving 
+発動待機状態で自由に動ける。　　　　　　　　　必要ＳＰ　２０","Holding × button after low tier magic casting ends allows moving 
 during activation. SP Required 20."
 "15098","3435921409","Skills description","詠唱中に攻撃を受けてものけぞらなくなる。
 （ダメージは受ける）　　　　　　　　　　　　　必要ＳＰ２００","User won’t be staggered while casting. (Damage will be taken.) 
@@ -6180,10 +6180,10 @@ This title is for those who want to defend fiercely as Richter."
 He says sadistic things and, somehow, this increases his P.ATK?"
 "17703","3435921409","titles descriptions","モバイル連動でゲット！
 旅人は足腰が強くないと！　…ということで移動速度がアップ。","Purchase through Tales of VS. for Mobile!
-Travelers must have strong legs… So, movement speed increases."
+Travelers must have strong legs…! So, movement speed increases."
 "17704","3435921409","titles descriptions","モバイル連動でゲット！
 復讐を果たすための執念か…？　ＨＰと物理攻撃力がアップ。","Purchase through Tales of VS. for Mobile!
-He’s obsessed with revenge…? His HP and P.ATK increase."
+He’s obsessed with revenge…? His HP and P.ATK raise."
 "17705","3435921409","titles descriptions","モバイル連動でゲット！
 リタでガンガン攻めたいアナタに贈る称号。","Purchase through Tales of VS. for Mobile!
 This title is for those who want to attack fiercely as Rita."
@@ -6191,14 +6191,14 @@ This title is for those who want to attack fiercely as Rita."
 リタでガッチリ守りたいアナタに贈る称号。","Purchase through Tales of VS. for Mobile!
 This title is for those who want to defend fiercely as Rita."
 "17707","3435921409","titles descriptions","モバイル連動でゲット！　術発動時に帯をはためかすその姿！
-…クルクルクル～…　あ、術攻撃力がアップします。","Purchase through Tales of VS. for Mobile!
-She starts twirling her obi. ~Spin, spin, spin~ …Oh, M.ATK goes up, too."
+…クルクルクル～…　あ、術攻撃力がアップします。","Purchase through Tales of VS. for Mobile! She starts twirling
+her obi. ~Spin, spin, spin~ …Oh, M.ATK goes up, too."
 "17708","3435921409","titles descriptions","モバイル連動でゲット！　彼女の興味が尽きることは無い！
-それのお陰か、ＯＶＬ時間と物理攻撃力がアップ。","Purchase through Tales of VS. for Mobile!
-Her curiosity is endless. Thanks to that, her P.ATK and OVL.D improve."
+それのお陰か、ＯＶＬ時間と物理攻撃力がアップ。","Purchase through Tales of VS. for Mobile! Her curiosity is endless.
+Thanks to that, her P.ATK and OVL.D improve."
 "17709","3435921409","titles descriptions","モバイル連動でゲット！
 リタの深い知識が術攻撃力と詠唱速度をアップさせる！","Purchase through Tales of VS. for Mobile!
-Rita’s wide breadth of knowledge increases her M.ATK and C.SPD."
+Rita’s wide breadth of knowledge raises her M.ATK and C.SPD."
 "17710","3435921409","titles descriptions","モバイル連動でゲット！
 ロイドでガンガン攻めたいアナタに贈る称号。","Purchase through Tales of VS. for Mobile!
 This title is for those who want to attack fiercely as Lloyd."
@@ -6207,13 +6207,13 @@ This title is for those who want to attack fiercely as Lloyd."
 This title is for those who want to defend fiercely as Lloyd."
 "17712","3435921409","titles descriptions","モバイル連動でゲット！　居眠り中に先生から放たれる
 黒板消しをガードする能力が、物理防御力アップに繋がった！？","Purchase through Tales of VS. for Mobile!
-Guarding against the teacher's projectiles has increased P.DEF!?"
+Guarding against the teacher's projectiles has raised P.DEF!?"
 "17713","3435921409","titles descriptions","モバイル連動でゲット！
 コンボ練習にうってつけ？　ガード耐久・物理防御力がアップ！","Purchase through Tales of VS. for Mobile!
-Perfect combo practice? Increases P.DEF and G.STA!"
+Perfect combo practice? Raises P.DEF and G.STA!"
 "17714","3435921409","titles descriptions","モバイル連動でゲット！　この剣は、あいつを守るための剣だ！
 ガード耐久・物理防御力がアップ！","Purchase through Tales of VS. for Mobile!
-These swords are for protecting her! Increased G.STA and P.DEF!"
+These swords are for protecting her! Raises G.STA and P.DEF!"
 "17715","3435921409","titles descriptions","モバイル連動でゲット！
 プレセアでガンガン攻めたいアナタに贈る称号。","Purchase through Tales of VS. for Mobile!
 This title is for those who want to attack fiercely as Presea."
@@ -6222,13 +6222,13 @@ This title is for those who want to attack fiercely as Presea."
 This title is for those who want to defend fiercely as Presea."
 "17717","3435921409","titles descriptions","モバイル連動でゲット！　ふにふにふにふに…
 癒しの効果？でＴＰ回復力がアップ。","Purchase through Tales of VS. for Mobile!
-Squish, squish, squish... oh, a healing effect? Increases TP.RC."
+Squish, squish, squish... oh, a healing effect? Raises TP.RC."
 "17718","3435921409","titles descriptions","モバイル連動でゲット！
 成長をしないその身体、その実年齢は…。ガード耐久力がアップ。","Purchase through Tales of VS. for Mobile!
-A body that doesn't grow, her true age is... Increases G.STA."
+A body that doesn't grow, her true age is... Raises G.STA."
 "17719","3435921409","titles descriptions","モバイル連動でゲット！　移動速度と攻撃力がアップ。
-言葉を発することもなくひたすらに作業を遂行する者の称号。","Purchase through Tales of VS. for Mobile!
-Increases movement speed and P.ATK. A title for one who works in silence."
+言葉を発することもなくひたすらに作業を遂行する者の称号。","Purchase through Tales of VS. for Mobile! Raises P.ATK and movement
+speed. A title for one who works in silence."
 "17720","3435921409","titles descriptions","モバイル連動でゲット！
 アーチェでガンガン攻めたいアナタに贈る称号。","Purchase through Tales of VS. for Mobile!
 This title is for those who want to attack fiercely as Arche."
@@ -6236,13 +6236,14 @@ This title is for those who want to attack fiercely as Arche."
 アーチェでガッチリ守りたいアナタに贈る称号。","Purchase through Tales of VS. for Mobile!
 This title is for those who want to defend fiercely as Arche."
 "17722","3435921409","titles descriptions","モバイル連動でゲット！　ＯＶＬ時間がアップ！
-今度は一体、どんな破壊料理を作ってしまったのか…","Purchase through Tales of VS. for Mobile!
-OVL.D increases! Now, what the hell have you cooked up this time...?"
+今度は一体、どんな破壊料理を作ってしまったのか…","Purchase through Tales of VS. for Mobile! Raises OVL.D!
+Now, what the hell have you cooked up this time...?"
 "17723","3435921409","titles descriptions","モバイル連動でゲット！
 ホウキで空を翔る！　移動速度短縮・術攻撃力がアップ。","Purchase through Tales of VS. for Mobile!
 A flying broomstick! Movement speed decreases, but M.ATK increases."
 "17724","3435921409","titles descriptions","モバイル連動でゲット！　ＴＰ回復・術攻撃力アップ。
-その血が他人に疎まれても、誰とでも打ち解ける、明るい娘。","Purchase through Tales of VS. for Mobile! Ups TP and M.ATK. A cheerful girl who can open up to anyone, even if others dislike her heritage."
+その血が他人に疎まれても、誰とでも打ち解ける、明るい娘。","Purchase through Tales of VS. for Mobile! Raises TP and M.ATK. A
+cheerful girl who can open up to anyone, even if others dislike her heritage."
 "17725","3435921409","titles descriptions","モバイル連動でゲット！
 クラトスでガンガン攻めたいアナタに贈る称号。","Purchase through Tales of VS. for Mobile!
 This title is for those who want to attack fiercely as Kratos."
@@ -6250,11 +6251,13 @@ This title is for those who want to attack fiercely as Kratos."
 クラトスでガッチリ守りたいアナタに贈る称号。","Purchase through Tales of VS. for Mobile!
 This title is for those who want to defend fiercely as Kratos."
 "17727","3435921409","titles descriptions","モバイル連動でゲット！　ガード耐久力がアップ。
-「…せめて言葉に重みがある、と解釈して貰いたいが、な…」",""
+「…せめて言葉に重みがある、と解釈して貰いたいが、な…」","Purchase through Tales of VS. for Mobile! Raises G.STA.
+“I would hope that my words would carry weight, but…”"
 "17728","3435921409","titles descriptions","モバイル連動でゲット！　物理攻撃・ＯＶＬ時間がアップ。
-おいしいからって食べ過ぎると、動けなくなるかも…！！",""
+おいしいからって食べ過ぎると、動けなくなるかも…！！","Purchase through Tales of VS. for Mobile! Raises P.ATK and OVL.D.
+Even though it tastes good, you’ll get sick if you eat too much…!!"
 "17729","3435921409","titles descriptions","モバイル連動でゲット！　物理攻撃力・術攻撃力アップ！
-天からの啓示…それを体現する者に贈る称号。",""
+天からの啓示…それを体現する者に贈る称号。","Purchase through Tales of VS. for Mobile! Increases P.ATK and M.ATK. A title for one who embodies a divine revelation from heaven."
 "17730","3435921409","titles descriptions","モバイル連動でゲット！
 スタンでガンガン攻めたいアナタに贈る称号。","Purchase through Tales of VS. for Mobile!
 This title is for those who want to attack fiercely as Stahn."
@@ -6262,11 +6265,14 @@ This title is for those who want to attack fiercely as Stahn."
 スタンでガッチリ守りたいアナタに贈る称号。","Purchase through Tales of VS. for Mobile!
 This title is for those who want to defend fiercely as Stahn."
 "17732","3435921409","titles descriptions","モバイル連動でゲット！　物理攻撃力がアップ。
-高揚のあまり、戦闘終了後に「イヤッホォォウ！」と叫ぶことも。",""
+高揚のあまり、戦闘終了後に「イヤッホォォウ！」と叫ぶことも。","Purchase through Tales of VS. for Mobile! Raises P.ATK.
+Battle is so exhilarating that he sometimes yells “Wahoo!” when it’s over."
 "17733","3435921409","titles descriptions","モバイル連動でゲット！　移動速度短縮・ＴＰ回復力がアップ。
-自分が信じた道を貫き通す、その決意が見える。",""
+自分が信じた道を貫き通す、その決意が見える。","Purchase through Tales of VS. for Mobile! Lowers movement speed
+and raises TP.RC. Determination to stick to your beliefs."
 "17734","3435921409","titles descriptions","モバイル連動でゲット！　物理防御力・ＯＶＬ時間がアップ！
-怒りの炎は、その目的を達するまで…消えない。",""
+怒りの炎は、その目的を達するまで…消えない。","Purchase through Tales of VS. for Mobile! Raises P.DEF and OVL.D!
+Your anger will not be extinguished until you’ve achieved your goals…"
 "17735","3435921409","titles descriptions","モバイル連動でゲット！
 チェスターでガンガン攻めたいアナタに贈る称号。","Purchase through Tales of VS. for Mobile!
 This title is for those who want to attack fiercely as Chester."
@@ -6274,11 +6280,14 @@ This title is for those who want to attack fiercely as Chester."
 チェスターでガッチリ守りたいアナタに贈る称号。","Purchase through Tales of VS. for Mobile!
 This title is for those who want to defend fiercely as Chester."
 "17737","3435921409","titles descriptions","モバイル連動でゲット！　ＨＰがアップ。
-初代とは、永遠に語り継がれるものです。…のぞきはダメよ？",""
+初代とは、永遠に語り継がれるものです。…のぞきはダメよ？","Purchase through Tales of VS. for Mobile! Raises HP.
+The first one is the one everyone remembers... No peeking, okay?"
 "17738","3435921409","titles descriptions","モバイル連動でゲット！　ガード耐久・物理防御力がアップ。
-「あいつ…アーチェと行動すると、確かに苦労が絶えないぜ…」",""
+「あいつ…アーチェと行動すると、確かに苦労が絶えないぜ…」","Purchase through Tales of VS. for Mobile! Raises P.DEF and G.STA.
+“That girl…working with Arche is such a pain in the ass…”"
 "17739","3435921409","titles descriptions","モバイル連動でゲット！　移動速度・ＯＶＬ時間がアップ！
-弓の腕を磨くため、夜な夜な鍛錬を行っているとか…？",""
+弓の腕を磨くため、夜な夜な鍛錬を行っているとか…？","Purchase through Tales of VS. for Mobile! Raises OVL.D and movement
+speed! Are you up training with your bow every night…?"
 "17740","3435921409","titles descriptions","モバイル連動でゲット！
 ダオスでガンガン攻めたいアナタに贈る称号。","Purchase through Tales of VS. for Mobile!
 This title is for those who want to attack fiercely as Dhaos."
@@ -6289,9 +6298,9 @@ This title is for those who want to defend fiercely as Dhaos."
 かつて世界を救った英雄が口にしたと言われる、究極のダジャレ。","Purchase through Tales of VS. for Mobile!
 The ultimate pun, said to have been uttered by a hero who once saved the world."
 "17743","3435921409","titles descriptions","モバイル連動により贈られた称号。とある時間軸で
-封印されし魔王。よく寝たお陰でＴＰ回復・術攻撃力アップ！","A title given by mobile interlocking. A demon king who was sealed in a certain timeline. Thanks to good sleep, TP.RC and M.ATK are increased!"
+封印されし魔王。よく寝たお陰でＴＰ回復・術攻撃力アップ！","A title given by mobile interlocking. A demon king who was sealed in a certain timeline. TP.RC and M.ATK are raised thanks to a good nap!"
 "17744","3435921409","titles descriptions","モバイル連動により贈られた称号。あるところで登場した時の
-通り名。ＴＰ回復・ＯＶＬ時間アップ！","A title given by mobile interlocking. A certain popular story about time. Increases OVL.D and TP.RC!"
+通り名。ＴＰ回復・ＯＶＬ時間アップ！","A title for connecting on mobile. A certain popular story about time. Raises OVL.D and TP.RC!"
 "17745","3435921409","titles descriptions","モバイル連動でゲット！
 クレスでガンガン攻めたいアナタに贈る称号。","Purchase through Tales of VS. for Mobile!
 This title is for those who want to attack fiercely as Cress."
@@ -6299,11 +6308,14 @@ This title is for those who want to attack fiercely as Cress."
 クレスでガッチリ守りたいアナタに贈る称号。","Purchase through Tales of VS. for Mobile!
 This title is for those who want to defend fiercely as Cress."
 "17747","3435921409","titles descriptions","モバイル連動でゲット！　ＯＶＬ時間がアップ！
-「…この木、動きませんでしたか？」「キのせいです」も有名。",""
+「…この木、動きませんでしたか？」「キのせいです」も有名。","Purchase through Tales of VS. for Mobile! Raises OVL.D!
+ “Does this tree look off?” “Yeah, it’s shady.” A well-known pun."
 "17748","3435921409","titles descriptions","モバイル連動でゲット！　ＯＶＬ時間・物理防御力がアップ！
-剣術だけでなく、その心をも伝承していく者への称号。",""
+剣術だけでなく、その心をも伝承していく者への称号。","Purchase through Tales of VS. for Mobile! Raises OVL.D and P.ATK.
+A title for one who passes down spirit as well as swordsmanship."
 "17749","3435921409","titles descriptions","モバイル連動でゲット！　移動速度・物理攻撃力がアップ。
-僕が決意を込めた剣…そうやすやすと敵に見切れるはずがない！",""
+僕が決意を込めた剣…そうやすやすと敵に見切れるはずがない！","Purchase through Tales of VS. for Mobile! Raises P.ATK and movement
+speed. My determined blade…there’s no way my enemy will see it coming!"
 "17750","3435921409","titles descriptions","モバイル連動でゲット！
 リオンでガンガン攻めたいアナタに贈る称号。","Purchase through Tales of VS. for Mobile!
 This title is for those who want to attack fiercely as Leon."
@@ -6311,11 +6323,13 @@ This title is for those who want to attack fiercely as Leon."
 リオンでガッチリ守りたいアナタに贈る称号。","Purchase through Tales of VS. for Mobile!
 This title is for those who want to defend fiercely as Leon."
 "17752","3435921409","titles descriptions","モバイル連動でゲット！　ＨＰがアップ。
-特に生クリームを添えたものが、彼のお気に入りらしい。",""
+特に生クリームを添えたものが、彼のお気に入りらしい。","Purchase through Tales of VS. for Mobile! Raises HP.
+He seems to especially like it with whipped cream."
 "17753","3435921409","titles descriptions","モバイル連動でゲット！　ＨＰ・ＴＰがアップ。
-甘いマスクで甘いものが好き。スウィート過ぎるあなたへの称号。",""
+甘いマスクで甘いものが好き。スウィート過ぎるあなたへの称号。","Purchase through Tales of VS. for Mobile! Raises HP and TP.
+One with a sweet face and likes sweet things. A sweet title for such a boy."
 "17754","3435921409","titles descriptions","モバイル連動でゲット！　移動速度・物理攻撃力がアップ。
-彼を女性と間違える人が後を絶たない…誰に似たの？？",""
+彼を女性と間違える人が後を絶たない…誰に似たの？？","Purchase through Tales of VS. for Mobile! P.ATK and movement speed up. He is endlessly mistaken for a woman…does he resemble someone??"
 "17755","3435921409","titles descriptions","モバイル連動でゲット！
 ユージーンでガンガン攻めたいアナタに贈る称号。","Purchase through Tales of VS. for Mobile!
 This title is for those who want to attack fiercely as Eugene."
@@ -6323,11 +6337,14 @@ This title is for those who want to attack fiercely as Eugene."
 ユージーンでガッチリ守りたいアナタに贈る称号。","Purchase through Tales of VS. for Mobile!
 This title is for those who want to defend fiercely as Eugene."
 "17757","3435921409","titles descriptions","モバイル連動でゲット！　ＴＰ回復がアップ。
-「俺はかつて黒豹と呼ばれた男だ…！　ニャンコではない！」",""
+「俺はかつて黒豹と呼ばれた男だ…！　ニャンコではない！」","Purchase through Tales of VS. for Mobile! TP.RC increases.
+“I used to be known as the Black Panther…! I am not a kitty cat!”"
 "17758","3435921409","titles descriptions","モバイル連動でゲット！　ＨＰと物理攻撃力がアップ！
-ダンディたるものお洒落は必須。しっぽのカバーがその証。",""
+ダンディたるものお洒落は必須。しっぽのカバーがその証。","Purchase through Tales of VS. for Mobile! HP and P.ATK increases!
+A dandy must be stylish. His tail cover is proof of that."
 "17759","3435921409","titles descriptions","モバイル連動でゲット！　ＯＶＬ時間と物理攻撃力がアップ。
-黒豹と呼ばれた彼の咆哮は、大地をも揺るがす！！",""
+黒豹と呼ばれた彼の咆哮は、大地をも揺るがす！！","Purchase through Tales of VS. for Mobile! OVL.D and P.ATK increase.
+He is the Black Panther and his roar will shake the earth itself!!"
 "17760","3435921409","titles descriptions","モバイル連動でゲット！
 セネルでガンガン攻めたいアナタに贈る称号。","Purchase through Tales of VS. for Mobile!
 This title is for those who want to attack fiercely as Senel."
@@ -6335,11 +6352,12 @@ This title is for those who want to attack fiercely as Senel."
 セネルでガッチリ守りたいアナタに贈る称号。","Purchase through Tales of VS. for Mobile!
 This title is for those who want to defend fiercely as Senel."
 "17762","3435921409","titles descriptions","モバイル連動でゲット！　ＴＰ回復力がアップ。
-自然にそうなっているのか、時間をかけてセットするのか…謎。",""
+自然にそうなっているのか、時間をかけてセットするのか…謎。","Purchase through Tales of VS. for Mobile! TP.RC increases.
+Is it natural or does it take time to set…? It’s a mystery."
 "17763","3435921409","titles descriptions","モバイル連動でゲット！　移動速度と物理攻撃力がアップ。
-肉体の限界を超えて戦う！　…休憩はちゃんと取りましょうね。",""
+肉体の限界を超えて戦う！　…休憩はちゃんと取りましょうね。","Purchase through Tales of VS. for Mobile! Ups P.ATK and movement speed. Fight beyond your physical limits! …Just make sure to take breaks."
 "17764","3435921409","titles descriptions","モバイル連動でゲット！　移動速度と物理攻撃力がアップ。
-格闘術で威力とスピードを求める者へと授けられる称号。",""
+格闘術で威力とスピードを求める者へと授けられる称号。","Purchase through Tales of VS. for Mobile! Ups P.ATK and movement speed. A title for those who seek power and speed in martial arts."
 "17765","3435921409","titles descriptions","モバイル連動でゲット！
 ルークでガンガン攻めたいアナタに贈る称号。","Purchase through Tales of VS. for Mobile!
 This title is for those who want to attack fiercely as Luke."
@@ -6347,11 +6365,14 @@ This title is for those who want to attack fiercely as Luke."
 ルークでガッチリ守りたいアナタに贈る称号。","Purchase through Tales of VS. for Mobile!
 This title is for those who want to defend fiercely as Luke."
 "17767","3435921409","titles descriptions","モバイル連動でゲット！　ＯＶＬ時間がアップ。
-髪を切ると、まるで別人のようになる…という噂。",""
+髪を切ると、まるで別人のようになる…という噂。","Purchase through Tales of VS. for Mobile! OVL.D increases. There’s
+a rumor that if you cut your hair…you'll become a different person."
 "17768","3435921409","titles descriptions","モバイル連動でゲット！　ＴＰ・物理防御力がアップ。
-当たり前だった自分の居場所が、もし、無くなってしまったら…？",""
+当たり前だった自分の居場所が、もし、無くなってしまったら…？","Purchase through Tales of VS. for Mobile! Ups TP and P.DEF. What if you
+suddenly lost your place in the world after taking it for granted…?"
 "17769","3435921409","titles descriptions","モバイル連動により贈られた称号。ＨＰ・物理攻撃力がアップ。
-内に秘めたる聖なる焔、それを消すことは誰にも出来ない！",""
+内に秘めたる聖なる焔、それを消すことは誰にも出来ない！","A title gained from mobile connection. Ups HP and P.ATK.
+No one can extinguish the sacred flame inside of you!"
 "17770","3435921409","titles descriptions","モバイル連動でゲット！
 ティアでガンガン攻めたいアナタに贈る称号。","Purchase through Tales of VS. for Mobile!
 This title is for those who want to attack fiercely as Tear."
@@ -6359,11 +6380,14 @@ This title is for those who want to attack fiercely as Tear."
 ティアでガッチリ守りたいアナタに贈る称号。","Purchase through Tales of VS. for Mobile!
 This title is for those who want to defend fiercely as Tear."
 "17772","3435921409","titles descriptions","モバイル連動でゲット！　ＴＰがアップ。普段クールな彼女の
-意外な一面を見たいなら、かわいいものを見せてみよう！",""
+意外な一面を見たいなら、かわいいものを見せてみよう！","Purchase through Tales of VS. for Mobile! TP increases.
+If you want to see another side of this cool girl, show her something cute!"
 "17773","3435921409","titles descriptions","モバイル連動により贈られた称号。ＴＰ・物理攻撃力がアップ！
-彼女の武器は音素の弾だけじゃない、ナイフだってあるんです。",""
+彼女の武器は音素の弾だけじゃない、ナイフだってあるんです。","A title gained from mobile connection. Raises TP and P.ATK!
+She has more weapons than just fonons, she also has a knife."
 "17774","3435921409","titles descriptions","モバイル連動により贈られた称号。その美しい声は聞く者に
-安らぎを与える。詠唱速度が短縮し、ガード耐久がアップ！",""
+安らぎを与える。詠唱速度が短縮し、ガード耐久がアップ！","A title gained from mobile connection. Her beautiful voice grants
+peace to whoever hears it. Raises C.SPD and G.STA!"
 "17775","3435921409","titles descriptions","モバイル連動でゲット！
 バルバトスでガンガン攻めたいアナタに贈る称号。","Purchase through Tales of VS. for Mobile!
 This title is for those who want to attack fiercely as Barbatos."
@@ -6371,11 +6395,14 @@ This title is for those who want to attack fiercely as Barbatos."
 バルバトスでガッチリ守りたいアナタに贈る称号。","Purchase through Tales of VS. for Mobile!
 This title is for those who want to defend fiercely as Barbatos."
 "17777","3435921409","titles descriptions","モバイル連動でゲット！　ＴＰがアップ。
-「アイテムなんぞ、使ってんじゃ、ねえぇぇぇえ！」は名台詞。",""
+「アイテムなんぞ、使ってんじゃ、ねえぇぇぇえ！」は名台詞。","Purchase through Tales of VS. for Mobile! Raises TP.
+""No items, EVEEER!!!"" is a famous line of his."
 "17778","3435921409","titles descriptions","モバイル連動でゲット！　物理攻撃力がアップ。
-強い者と戦うことだけを望む、武の化身。",""
+強い者と戦うことだけを望む、武の化身。","Purchase through Tales of VS. for Mobile! Raises P.ATK.
+The incarnation of martial arts who only seeks battle with strong people."
 "17779","3435921409","titles descriptions","モバイル連動でゲット！　物理攻撃力・ＯＶＬ時間がアップ。
-「この俺を満足させてみせろ！　貴様の死をもってな！！」",""
+「この俺を満足させてみせろ！　貴様の死をもってな！！」","Purchase through Tales of VS. for Mobile! Raises P.ATK and OVL.D.
+""I'll be satisfied once I've strangled the life from you!!"""
 "17780","3435921409","titles descriptions","モバイル連動でゲット！
 ファラでガンガン攻めたいアナタに贈る称号。","Purchase through Tales of VS. for Mobile!
 This title is for those who want to attack fiercely as Farah."
@@ -6383,11 +6410,14 @@ This title is for those who want to attack fiercely as Farah."
 ファラでガッチリ守りたいアナタに贈る称号。","Purchase through Tales of VS. for Mobile!
 This title is for those who want to defend fiercely as Farah."
 "17782","3435921409","titles descriptions","モバイル連動でゲット！　物理攻撃力がアップ。
-非常に前向きでプラス思考な、彼女らしい口癖。",""
+非常に前向きでプラス思考な、彼女らしい口癖。","Purchase through Tales of VS. for Mobile! Raises P.ATK.
+The favorite saying of an extremely positive girl."
 "17783","3435921409","titles descriptions","モバイル連動でゲット！　移動速度がアップ。
-鉄砲玉とも言える彼女の行動パターンは、思いついたら、即実行！",""
+鉄砲玉とも言える彼女の行動パターンは、思いついたら、即実行！","Purchase through Tales of VS. for Mobile! Raises movement speed.
+She commits to things as soon as they come to her mind."
 "17784","3435921409","titles descriptions","モバイル連動でゲット！　物理攻撃力・移動速度がアップ。
-橙色のスカートを翻し、繰り出す技は舞踏のよう。",""
+橙色のスカートを翻し、繰り出す技は舞踏のよう。","Purchase through Tales of VS. for Mobile! Raises P.ATK and movement
+speed. The way her skirt flares as she moves looks like she's dancing."
 "17785","3435921409","titles descriptions","モバイル連動でゲット！
 アッシュでガンガン攻めたいアナタに贈る称号。","Purchase through Tales of VS. for Mobile!
 This title is for those who want to attack fiercely as Asch."
@@ -6395,11 +6425,14 @@ This title is for those who want to attack fiercely as Asch."
 アッシュでガッチリ守りたいアナタに贈る称号。","Purchase through Tales of VS. for Mobile!
 This title is for those who want to defend fiercely as Asch."
 "17787","3435921409","titles descriptions","モバイル連動でゲット！　ＴＰ回復力がアップ。
-「べ…別に、突っ張ってなんかねえよ！」",""
+「べ…別に、突っ張ってなんかねえよ！」","Purchase through Tales of VS. for Mobile! Raises TP.C.
+""D-Don't push yourself like that!"""
 "17788","3435921409","titles descriptions","モバイル連動により贈られた称号。ＨＰ・ＴＰがアップ。
-自分を皮肉り呼んだ時の悲しい言葉…。",""
+自分を皮肉り呼んだ時の悲しい言葉…。","Purchase through Tales of VS. for Mobile! Raises HP and TP.
+The self-depreciating words you use to refer to yourself."
 "17789","3435921409","titles descriptions","モバイル連動でゲット！　移動速度がアップ。
-誰にも従わず、媚びない男へと贈られる称号。",""
+誰にも従わず、媚びない男へと贈られる称号。","Purchase through Tales of VS. for Mobile! Raises movement speed.
+A title given to a man who doesn't obey or suck up to anyone."
 "17790","3435921409","titles descriptions","モバイル連動でゲット！
 カイウスでガンガン攻めたいアナタに贈る称号。","Purchase through Tales of VS. for Mobile!
 This title is for those who want to attack fiercely as Caius."
@@ -6407,11 +6440,14 @@ This title is for those who want to attack fiercely as Caius."
 カイウスでガッチリ守りたいアナタに贈る称号。","Purchase through Tales of VS. for Mobile!
 This title is for those who want to defend fiercely as Caius."
 "17792","3435921409","titles descriptions","モバイル連動でゲット！　ＨＰがアップ。獣人化能力をもつ
-レイモーンの民…それだけで生まれながら差別を受ける運命に。",""
+レイモーンの民…それだけで生まれながら差別を受ける運命に。","Purchase through Tales of VS. for Mobile! Raises HP. The Raymon
+people, who can transform into beasts, are destined for discrimination."
 "17793","3435921409","titles descriptions","モバイル連動により贈られた称号。子ども扱いされると怒る
-所はまだまだ子どもかも？　物理攻撃力・移動速度がアップ！",""
+所はまだまだ子どもかも？　物理攻撃力・移動速度がアップ！","A title gained through mobile connection. Is a child who gets angry at
+being treated like a child still a child? Raises P.ATK and movement speed."
 "17794","3435921409","titles descriptions","モバイル連動でゲット！　移動速度・物理攻撃力がアップ。
-獣人化したその姿を形容するならば、若く猛々しい、狼。",""
+獣人化したその姿を形容するならば、若く猛々しい、狼。","Purchase through Tales of VS. for Mobile! Raises P.ATK and movement
+speed. His beastman form is that of a young, ferocious wolf."
 "17795","3435921409","titles descriptions","モバイル連動でゲット！
 ルカでガンガン攻めたいアナタに贈る称号。","Purchase through Tales of VS. for Mobile!
 This title is for those who want to attack fiercely as Ruca."
@@ -6419,11 +6455,14 @@ This title is for those who want to attack fiercely as Ruca."
 ルカでガッチリ守りたいアナタに贈る称号。","Purchase through Tales of VS. for Mobile!
 This title is for those who want to defend fiercely as Ruca."
 "17797","3435921409","titles descriptions","モバイル連動でゲット！　いつもオドオドしてしまう子に捧げる
-称号。「ホットドッグ、買ってきます…」…物理防御力がアップ。",""
+称号。「ホットドッグ、買ってきます…」…物理防御力がアップ。","Purchase through Tales of VS. for Mobile! A title for a child
+who is always timid. ""I'll buy you a hot dog..."" Raises P.DEF."
 "17798","3435921409","titles descriptions","モバイル連動でゲット！　物理攻撃力・防御がアップ。
-突如力に目覚めた少年。行く道は険しく、果てしない…。",""
+突如力に目覚めた少年。行く道は険しく、果てしない…。","Purchase through Tales of VS. for Mobile! Raises P.DEF and P.ATK.
+A boy who suddenly awoke to power. His road is steep and endless..."
 "17799","3435921409","titles descriptions","モバイル連動でゲット！　ＯＶＬ時間・物理攻撃力アップ。
-例え過去の記憶が何者のものであろうと、…僕は、僕なんだ！",""
+例え過去の記憶が何者のものであろうと、…僕は、僕なんだ！","Purchase through Tales of VS. for Mobile! Raises OVL.D and P.ATK.
+No matter who my past memories belong to...I am me!"""
 "17800","3435921409","titles descriptions","モバイル連動でゲット！
 ユーリでガンガン攻めたいアナタに贈る称号。","Purchase through Tales of VS. for Mobile!
 This title is for those who want to attack fiercely as Yuri."
@@ -6431,11 +6470,14 @@ This title is for those who want to attack fiercely as Yuri."
 ユーリでガッチリ守りたいアナタに贈る称号。","Purchase through Tales of VS. for Mobile!
 This title is for those who want to defend fiercely as Yuri."
 "17802","3435921409","titles descriptions","モバイル連動でゲット！　ＯＶＬ時間がアップ。
-綺麗な黒髪の持ち主へ贈る称号…日々のお手入れが大変そう…。",""
+綺麗な黒髪の持ち主へ贈る称号…日々のお手入れが大変そう…。","Purchase through Tales of VS. for Mobile! Raises OVL.D. A title given
+to the owner of luscious, black hair...must be hard to take care of..."
 "17803","3435921409","titles descriptions","モバイル連動でゲット！　移動速度・物理攻撃力がアップ。
-見た目は普通の青年…しかし色々なところで知られている。",""
+見た目は普通の青年…しかし色々なところで知られている。","Purchase through Tales of VS. for Mobile! Raises P.ATK and movement
+speed. He appears to be a normal young man...but he's very well-known."
 "17804","3435921409","titles descriptions","モバイル連動でゲット！　ＯＶＬ時間・物理攻撃力アップ。
-おまえとは違ったやり方で、オレの決めた道を行かせてもらうぜ。",""
+おまえとは違ったやり方で、オレの決めた道を行かせてもらうぜ。","Purchase through Tales of VS. for Mobile! Raises OVL.D and P.ATK.
+My path is my own, even if it is different than yours."
 "17805","3435921409","titles descriptions","モバイル連動でゲット！
 アニスでガンガン攻めたいアナタに贈る称号。","Purchase through Tales of VS. for Mobile!
 This title is for those who want to attack fiercely as Anise."
@@ -6443,11 +6485,14 @@ This title is for those who want to attack fiercely as Anise."
 アニスでガッチリ守りたいアナタに贈る称号。","Purchase through Tales of VS. for Mobile!
 This title is for those who want to defend fiercely as Anise."
 "17807","3435921409","titles descriptions","モバイル連動でゲット！　移動速度がアップ！
-「マスター」だもん、トクナガで何でもできちゃいます☆",""
+「マスター」だもん、トクナガで何でもできちゃいます☆","Purchase through Tales of VS. for Mobile! Raises movement speed!
+A master who can accomplish anything with Tokunaga~☆"
 "17808","3435921409","titles descriptions","モバイル連動でゲット！　ＴＰ・物理防御力がアップ。
-玉の輿を狙って日々花嫁修業にもいそしむ、おませさんへの称号。",""
+玉の輿を狙って日々花嫁修業にもいそしむ、おませさんへの称号。","Purchase through Tales of VS. for Mobile! Raises TP and P.DEF.
+A title for a precocious child who trains every day to be a rich housewife."
 "17809","3435921409","titles descriptions","モバイル連動でゲット！　ＯＶＬ時間・物理攻撃力がアップ！
-彼女の秘奥義「殺劇舞荒拳」発動時、キケンな台詞と共に出る。",""
+彼女の秘奥義「殺劇舞荒拳」発動時、キケンな台詞と共に出る。","Purchase through Tales of VS. for Mobile! Raises P.ATK and OVL.D!
+When she uses her Final Fury mystic arte, a vulgar line may come out."
 "17810","3435921409","titles descriptions","モバイル連動でゲット！
 コレットでガンガン攻めたいアナタに贈る称号。","Purchase through Tales of VS. for Mobile!
 This title is for those who want to attack fiercely as Colette."
@@ -6455,11 +6500,14 @@ This title is for those who want to attack fiercely as Colette."
 コレットでガッチリ守りたいアナタに贈る称号。","Purchase through Tales of VS. for Mobile!
 This title is for those who want to defend fiercely as Colette."
 "17812","3435921409","titles descriptions","モバイル連動でゲット！　ＴＰ回復がアップ！
-他人への気遣いや慈しみの心が、とても深い者へと与えられる。",""
+他人への気遣いや慈しみの心が、とても深い者へと与えられる。","Purchase through Tales of VS. for Mobile! Raises TP.RC!
+One who possesses deep concern and compassion for others."
 "17813","3435921409","titles descriptions","モバイル連動でゲット！　詠唱速度短縮・術攻撃力がアップ。
-転んで家の壁に穴をあけてしまうという、ドジさ（？）も炸裂。",""
+転んで家の壁に穴をあけてしまうという、ドジさ（？）も炸裂。","Purchase through Tales of VS. for Mobile! Lowers C.SPD and raises
+M.ATK. A clumsy (?) person who can punch a hole through a wall by falling."
 "17814","3435921409","titles descriptions","モバイル連動でゲット！　ＴＰ回復・術攻撃力がアップ。
-神から「色々」な意味で愛されている者へ贈る称号。",""
+神から「色々」な意味で愛されている者へ贈る称号。","Purchase through Tales of VS. for Mobile! Raises TP.RC and M.ATK.
+A title given to those who are beloved by the gods."
 "17815","3435921409","titles descriptions","モバイル連動でゲット！
 ミントでガンガン攻めたいアナタに贈る称号。","Purchase through Tales of VS. for Mobile!
 This title is for those who want to attack fiercely as Mint."
@@ -6467,11 +6515,14 @@ This title is for those who want to attack fiercely as Mint."
 ミントでガッチリ守りたいアナタに贈る称号。","Purchase through Tales of VS. for Mobile!
 This title is for those who want to defend fiercely as Mint."
 "17817","3435921409","titles descriptions","モバイル連動でゲット！　ＴＰがアップ！
-ボインちゃんとも称される、とてもグラマーな彼女への称号。",""
+ボインちゃんとも称される、とてもグラマーな彼女への称号。","Purchase through Tales of VS. for Mobile! Raises TP!
+A title for a woman with a voluptuous bosom."
 "17818","3435921409","titles descriptions","モバイル連動でゲット！　詠唱硬直時間短縮・術攻撃力アップ。
-心身共に清らかな女性の呼称。",""
+心身共に清らかな女性の呼称。","Purchase through Tales of VS. for Mobile! Lowers C.STA and raises
+M.ATK. A title for a woman who is pure in mind and body."
 "17819","3435921409","titles descriptions","モバイル連動でゲット！　物理・術防御力がアップ。
-己を二の次にしてでも、世界の平和を祈る者。",""
+己を二の次にしてでも、世界の平和を祈る者。","Purchase through Tales of VS. for Mobile! Raises P.DEF and M.DEF.
+A person who prays for world peace and puts others before herself."
 "17820","3435921409","titles descriptions","モバイル連動でゲット！
 フィリアでガンガン攻めたいアナタに贈る称号。","Purchase through Tales of VS. for Mobile!
 This title is for those who want to attack fiercely as Philia."
@@ -6479,11 +6530,14 @@ This title is for those who want to attack fiercely as Philia."
 フィリアでガッチリ守りたいアナタに贈る称号。","Purchase through Tales of VS. for Mobile!
 This title is for those who want to defend fiercely as Philia."
 "17822","3435921409","titles descriptions","モバイル連動でゲット！　移動速度がアップ。
-どうやら彼女は研究熱心。特に分野が爆薬関連になると…？",""
+どうやら彼女は研究熱心。特に分野が爆薬関連になると…？","Purchase through Tales of VS. for Mobile! Raises movement speed.
+She's apparently enthusiastic about her research... specially explosives?"
 "17823","3435921409","titles descriptions","モバイル連動でゲット！　ＴＰ回復・術攻撃力がアップ。
-自分の名をつけた爆薬…「ボム」をいかに改良するかを日々研究。",""
+自分の名をつけた爆薬…「ボム」をいかに改良するかを日々研究。","Purchase through Tales of VS. for Mobile! Raises TP.RC and M.ATK.
+There are explosives named after her... She is always researching bombs."
 "17824","3435921409","titles descriptions","モバイル連動でゲット！　詠唱硬直短縮・術攻撃力アップ。
-コレットに同じく世界樹に奉じ、次代の神子を志す者として…。",""
+コレットに同じく世界樹に奉じ、次代の神子を志す者として…。","Purchase through Tales of VS. for Mobile! Lowers C.STA and raises
+M.ATK. Someone like Colette, who is devoted to the World Tree..."
 "17825","3435921409","titles descriptions","モバイル連動でゲット！
 コングマンでガンガン攻めたいアナタに贈る称号。","Purchase through Tales of VS. for Mobile!
 This title is for those who want to attack fiercely as Kongman."
@@ -6491,11 +6545,14 @@ This title is for those who want to attack fiercely as Kongman."
 コングマンでガッチリ守りたいアナタに贈る称号。","Purchase through Tales of VS. for Mobile!
 This title is for those who want to defend fiercely as Kongman."
 "17827","3435921409","titles descriptions","モバイル連動でゲット！　ＨＰがアップ！
-見よ！　この極限まで鍛えられし肉体を！！　…おい、見ろって！",""
+見よ！　この極限まで鍛えられし肉体を！！　…おい、見ろって！","Purchase through Tales of VS. for Mobile! Raises HP!
+Behold! A body trained to it's limit!! ...Hey, look at me!"
 "17828","3435921409","titles descriptions","モバイル連動でゲット！　ＯＶＬ時間・ＨＰがアップ！
-普通の人にとって、出しっぱなしはハズカシイが…常にオープン。",""
+普通の人にとって、出しっぱなしはハズカシイが…常にオープン。","Purchase through Tales of VS. for Mobile! Raises OVL.D and HP!
+Most people would be shy having so much exposed like that."
 "17829","3435921409","titles descriptions","モバイル連動でゲット！　ＯＶＬ時間・ＨＰがアップ！
-これ以上一体どこが覚醒してしまうのか！　想像すると怖い称号。",""
+これ以上一体どこが覚醒してしまうのか！　想像すると怖い称号。","Purchase through Tales of VS. for Mobile! Raises OVL.D and HP!
+Where could you find a more rousing sight than this!? A scary title."
 "17830","3435921409","titles descriptions","モバイル連動でゲット！
 ナナリーでガンガン攻めたいアナタに贈る称号。","Purchase through Tales of VS. for Mobile!
 This title is for those who want to attack fiercely as Nanaly."
@@ -6503,11 +6560,14 @@ This title is for those who want to attack fiercely as Nanaly."
 ナナリーでガッチリ守りたいアナタに贈る称号。","Purchase through Tales of VS. for Mobile!
 This title is for those who want to defend fiercely as Nanaly."
 "17832","3435921409","titles descriptions","モバイル連動でゲット！　物理攻撃力がアップ。
-普段曲がらない方向へ、身体の関節がネジ曲がる、と評判。",""
+普段曲がらない方向へ、身体の関節がネジ曲がる、と評判。","Purchase through Tales of VS. for Mobile! Raises P.ATK.
+She has a reputation for bending her joints in ways normally impossible."
 "17833","3435921409","titles descriptions","モバイル連動でゲット！　ＯＶＬ時間・ＴＰ回復がアップ。
-どんな環境でも、たくましく生きるアネゴへと贈る称号。",""
+どんな環境でも、たくましく生きるアネゴへと贈る称号。","Purchase through Tales of VS. for Mobile! Raises TP.RC.
+A title given to one who can survive in any environment."
 "17834","3435921409","titles descriptions","モバイル連動により贈られた称号。ＴＰ・物理攻撃力がアップ！
-戦闘で弓を引く姿はまさに戦乙女！",""
+戦闘で弓を引く姿はまさに戦乙女！","Purchase through Tales of VS. for Mobile! Raises TP and P.ATK!
+Behold, the battle maiden who draws her war bow!"
 "17835","3435921409","titles descriptions","モバイル連動でゲット！
 ハロルドでガンガン攻めたいアナタに贈る称号。","Purchase through Tales of VS. for Mobile!
 This title is for those who want to attack fiercely as Harold."
@@ -6515,7 +6575,8 @@ This title is for those who want to attack fiercely as Harold."
 ハロルドでガッチリ守りたいアナタに贈る称号。","Purchase through Tales of VS. for Mobile!
 This title is for those who want to defend fiercely as Harold."
 "17837","3435921409","titles descriptions","モバイル連動でゲット！　ＯＶＬ時間アップ！
-「データ取らせなさ～いっ☆」いつでも彼女はハイテンション。",""
+「データ取らせなさ～いっ☆」いつでも彼女はハイテンション。","Purchase through Tales of VS. for Mobile! Raises OVL.D!
+""I'll be getting data~☆"" Her spirits are always high."
 "17838","3435921409","titles descriptions","モバイル連動でゲット！　詠唱時間・硬直時間が短縮。
 「飛べ～、飛べ～、ロケット～♪」一度聞いたら、忘れられない。",""
 "17839","3435921409","titles descriptions","モバイル連動でゲット！　ＯＶＬ時間・術攻撃力アップ。
@@ -6604,22 +6665,22 @@ This title is for those who want to defend fiercely as Kyle."
 噂では、「つむじ風の～」と称される兄貴分もいるらしい。",""
 "17874","3435921409","titles descriptions","モバイル連動でゲット！　物理攻撃力・防御がアップ！
 オレも父さんみたいな英雄になるんだ！！",""
-"18000","3435921409","Strategy Menu","ＨＰ回復アイテム優先","Priority toward using HP recovery items."
-"18001","3435921409","Strategy Menu","ＴＰ回復アイテム優先","Priority toward using TP recovery items."
+"18000","3435921409","Strategy Menu","ＨＰ回復アイテム優先","Prioritize using HP recovery items."
+"18001","3435921409","Strategy Menu","ＴＰ回復アイテム優先","Prioritize using TP recovery items."
 "18002","3435921409","Strategy Menu","攻撃アイテム優先",""
-"18003","3435921409","Strategy Menu","アイテム優先",""
-"18004","3435921409","Strategy Menu","相手のアイテムを奪え",""
-"18005","3435921409","Strategy Menu","補助を怠るな",""
-"18006","3435921409","Strategy Menu","回復を怠るな",""
-"18007","3435921409","Strategy Menu","補助と回復を怠るな",""
-"18008","3435921409","Strategy Menu","適度に回復しろ",""
-"18009","3435921409","Strategy Menu","いざとなったら回復",""
+"18003","3435921409","Strategy Menu","アイテム優先","Prioritize using items."
+"18004","3435921409","Strategy Menu","相手のアイテムを奪え","Prioritize stealing items."
+"18005","3435921409","Strategy Menu","補助を怠るな","Prioritize assisting."
+"18006","3435921409","Strategy Menu","回復を怠るな","Prioritize recovery."
+"18007","3435921409","Strategy Menu","補助と回復を怠るな","Prioritize assistance and recovery."
+"18008","3435921409","Strategy Menu","適度に回復しろ","Only prioritize recovery in moderation."
+"18009","3435921409","Strategy Menu","いざとなったら回復","Only prioritize recovery in a pinch."
 "18010","3435921409","Strategy Menu","補助で対抗しろ",""
 "18011","3435921409","Strategy Menu","コンボをきめろ",""
 "18012","3435921409","Strategy Menu","コンボは適度に",""
 "18013","3435921409","Strategy Menu","コンボは使うな",""
-"18014","3435921409","Strategy Menu","術技を使いまくれ",""
-"18015","3435921409","Strategy Menu","ＴＰを温存しろ",""
+"18014","3435921409","Strategy Menu","術技を使いまくれ","Prioritize using artes."
+"18015","3435921409","Strategy Menu","ＴＰを温存しろ","Prioritize conserving TP."
 "18016","3435921409","Strategy Menu","防御に徹しろ",""
 "18017","3435921409","Strategy Menu","逃げ回れ",""
 "18018","3435921409","Strategy Menu","詠唱中守れ",""
@@ -9020,7 +9081,7 @@ Disconnecting network connection."
 "61004","3435921409","Character Setup Strategy","自由","Free"
 "61005","3435921409","Character Setup Strategy","攻撃","Attack"
 "61006","3435921409","Character Setup Strategy","防衛","Defense"
-"61007","3435921409","Character Setup Strategy","逃走","Evasion"
+"61007","3435921409","Character Setup Strategy","逃走","Evade"
 "61008","3435921409","Character Setup Strategy","攻撃頻度","ATK Freqency"
 "61009","3435921409","Character Setup Strategy","ＴＰ消費","TP Usage"
 "61010","3435921409","Character Setup Strategy","間合い","Spacing"
@@ -9108,18 +9169,18 @@ Disconnecting network connection."
 "61404","3435921409","Results Screen","ＷＩＮ","WIN"
 "61405","3435921409","Results Screen","ＬＯＳＥ","LOSE"
 "61406","3435921409","Results Screen","合計","TOTAL"
-"61407","3435921409","Results Screen","倒した数","Defeated"
-"61408","3435921409","Results Screen","倒された","Life Left"
+"61407","3435921409","Results Screen","倒した数","Life Taken"
+"61408","3435921409","Results Screen","倒された","Life Lost"
 "61409","3435921409","Results Screen","拾った",""
 "61410","3435921409","Results Screen","落とした",""
 "61411","3435921409","Results Screen","移した",""
 "61412","3435921409","Results Screen","移された",""
-"61413","3435921409","Results Screen","残ライフ",""
+"61413","3435921409","Results Screen","残ライフ","Life Left"
 "61414","3435921409","Results Screen","タイム","Time"
 "61415","3435921409","Results Screen","×","×"
-"61416","3435921409","Results Screen","基本ＧＰ",""
+"61416","3435921409","Results Screen","基本ＧＰ","Base GP"
 "61417","3435921409","Results Screen","総ＧＰ：","Unused GP:"
-"61418","3435921409","Results Screen","つぎの成長：",""
+"61418","3435921409","Results Screen","つぎの成長：","Next Level:"
 "61419","3435921409","Results Screen","獲得ＧＰ","Obtained GP"
 "61420","3435921409","Results Screen","の",""
 "61421","3435921409","Results Screen","が",""
@@ -9138,7 +9199,7 @@ Disconnecting network connection."
 "61460","3435921409","Results Screen","オーバーリミッツ持続時間",""
 "61461","3435921409","Results Screen","移動速度",""
 "61462","3435921409","Results Screen",":",":"
-"61463","3435921409","Results Screen","獲得ガルド",""
+"61463","3435921409","Results Screen","獲得ガルド","Gald Earned"
 "61464","3435921409","Results Screen","残ＧＰ：","Total GP:"
 "61465","3435921409","Results Screen","／","/"
 "61466","3435921409","Results Screen","$CL002$","$CL002$"
@@ -9322,7 +9383,7 @@ The fate of Dailantia is in your hands!!"
 "62520","3435921409","Customize menu","デフォルト設定に戻す","Return to defaults"
 "62521","3435921409","Customize menu","設定を反映させる","Apply settings"
 "62530","3435921409","Customize menu","○ボタンに割り当てる操作を設定してください。","Change setting for the ○ button."
-"62531","3435921409","Customize menu","×ボタンに割り当てる操作を設定してください。","Change setting for the x button."
+"62531","3435921409","Customize menu","×ボタンに割り当てる操作を設定してください。","Change setting for the × button."
 "62532","3435921409","Customize menu","△ボタンに割り当てる操作を設定してください。","Change setting for the △ button."
 "62533","3435921409","Customize menu","□ボタンに割り当てる操作を設定してください。","Change setting for the □ button."
 "62534","3435921409","Customize menu","Ｌボタンに割り当てる操作を設定してください。","Change setting for the L button."
@@ -9813,14 +9874,14 @@ of combos depends on the character. Try various combos."
 術技が発動します。
 術技は方向キーとの組み合わせで
 最大４つまで設定することができます。","""Artes Tutorial""
-Pressing the x button to set the Artes attack. Up to
+Pressing the × button to set the Artes attack. Up to
 four techniques can be set in combination with the
 directional keys."
 "72031","3435921410","Tutorial Text","【術技のチュートリアル２】
 それでは、×ボタンを押して
 術技を相手に当ててみましょう。","""Artes Tutorial 2""
 Now, let's try to hit the opponent with a
-artes attack by pressing the x button."
+artes attack by pressing the × button."
 "72040","3435921409","Tutorial Text","【物理防御のチュートリアル】
 □ボタンを押すことで防御体勢になります。
 この状態は物理的な攻撃を防ぐことができ
@@ -9998,7 +10059,7 @@ Arte will cancel the overlimit state."
 ○ボタンを押し続けて秘奥義を
 発動してみましょう。","""Mystic Artes Tutorial 3""
 Press the L + R buttons to enter the overlimit state.
-Then, press the down directional key + X button to
+Then, press the down directional key + × button to
 display a mystic arte, and hold down the ○ button
 to perform the mystic arte. Let's activate it."
 "72120","3435921409","Tutorial Text","【オーバーリミッツ×のチュートリアル】
