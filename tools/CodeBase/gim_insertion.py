@@ -12,10 +12,10 @@ def insert_gim_files(rssa_file, gim_directory):
             temp.write(header)
 
             # Get the original gim_count and update the header
-            gim_count = struct.unpack_from('<H', header, 0x2E)[0]
-            new_gim_count = gim_count + len(os.listdir(gim_directory))
-            temp.seek(0x2E)
-            temp.write(struct.pack('<H', new_gim_count))
+            #gim_count = struct.unpack_from('<H', header, 0x2E)[0]
+            #new_gim_count = gim_count + len(os.listdir(gim_directory))
+            #temp.seek(0x2E)
+            #temp.write(struct.pack('<H', new_gim_count))
 
             # Get the original gim_pos_foffset and update the header
             gim_pos_foffset = struct.unpack_from('<I', header, 0x38)[0]
