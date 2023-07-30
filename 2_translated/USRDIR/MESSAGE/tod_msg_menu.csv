@@ -1313,7 +1313,8 @@ form an attack field and inflict damage."
 forward, to attack the target."
 "11292","3435921409","Artes Descrption","空中から３本のナイフを投げ、攻撃フィールドを形成する技。","An arte in which three knives are thrown from the air to form an attack 
 field."
-"11293","3435921409","Artes Descrption","斬り上げと斬り下ろしの２段攻撃。空中でも技を出せる。","A two-stage attack with a slash up and a slash down. The arte can be performed in the air."
+"11293","3435921409","Artes Descrption","斬り上げと斬り下ろしの２段攻撃。空中でも技を出せる。","A two-stage attack with a slash up and a slash down. The arte can be 
+performed in the air."
 "11294","3435921409","Artes Descrption","袈裟斬りから、ジャンプ斬り上げにつなげる連続斬り。","A continuous slash from a kesa zari to a jump slash up."
 "11295","3435921409","Artes Descrption","刹月華の説明","Moonlight Raven description:"
 "11296","3435921409","Artes Descrption","鬼炎斬の説明","Thrashing Devil description:"
@@ -1339,7 +1340,8 @@ maintain distance."
 forward from the weapon."
 "11314","3435921409","Artes Descrption","二段斬りで敵を浮かせて、空中で突きを放つ。","A two-stage slash launches the target and pierces them in mid-air."
 "11315","3435921409","Artes Descrption","跳び上がって斜め下へ真空波を放つ。","Leap up and shoot a vacuum wave diagonally downward."
-"11316","3435921409","Artes Descrption","臥竜閃のあと、空中でさらに続けて真空波を放つ。","After a Glimmer Dragon, follow it up in the air and release a vacuum wave."
+"11316","3435921409","Artes Descrption","臥竜閃のあと、空中でさらに続けて真空波を放つ。","After a Glimmer Dragon, follow it up in the air and release a 
+vacuum wave."
 "11317","3435921409","Artes Descrption","一瞬背中を向けて敵の攻撃を受け流した後、
 急反転して敵をすり抜ける突進斬りを放つ。","After turning your back for a moment to parry the target's attack, you 
 suddenly reverse and unleash a rushing slash that slips past the target."
@@ -1394,7 +1396,7 @@ the target in two."
 落雷をともなう虎牙破斬を繰り出す。","After generating a vacuum wave in the forward direction with a side 
 stroke, the Tiger Blade is executed with a lightning bolt."
 "11345","3435921409","Artes Descrption","２連ジャンプ蹴りで敵を空中に蹴り上げ、そのまま鳳凰天駆を繰り出す。","Double jump kick the target up into the air and then continue to perform 
-the Phoenix Tengoku."
+the Rising Phoenix."
 "11346","3435921409","Artes Descrption","次元斬の後に虚空蒼破斬の闘気を打ち出す時空奥義。","This is a time-space depth arte that launches the fighting spirit of 
 the void Chaos Blade after a Distortion Blade."
 "11347","3435921409","Artes Descrption","瞬間移動後、連続で斬撃を繰り出し
@@ -1438,7 +1440,8 @@ up and down arc moon flashes."
 "11365","3435921409","Artes Descrption","蒼破刃を放った後、突進斬りで追い討ちをかける。","After releasing an aobaku blade, follow it up with a thrusting slash."
 "11366","3435921409","Artes Descrption","高速の踏み込み斬りを３回行う。","Perform three high-speed step slashes."
 "11367","3435921409","Artes Descrption","散葉塵の後に後ろに下がりながら斬りつける。","Slash while falling back after scattering leaf dust."
-"11368","3435921409","Artes Descrption","その場で垂直に跳び上がっての兜割り。","The Kabuto-wari (helmet-splitting) is done by jumping up vertically on the spot."
+"11368","3435921409","Artes Descrption","その場で垂直に跳び上がっての兜割り。","The Kabuto-wari (helmet-splitting) is done by jumping up vertically on 
+the spot."
 "11369","3435921409","Artes Descrption","空翔斬の後にアッパーで敵を打ち上げ、逃げられないところに
 突きで追い討ちをかける連続技。","An arte in which an uppercut is used to launch the target after a 
 kuusho zan, and then a thrust is used to catch up with the target where 
@@ -1837,7 +1840,8 @@ opponent’s body."
 "11577","3435921409","Artes Descrption","両手を広げての高速回転アタックから、
 勢いを利用してフックを叩き込む。","Unleashes a fast spinning attack with both hands outstretched with 
 momentum, and then slams a hook into the ground."
-"11578","3435921409","Artes Descrption","ボディアッパーで相手を浮かせ、ジャンピングアッパーを叩き込む。","Launch your opponent with a body uppercut and then hit them with a jumping uppercut."
+"11578","3435921409","Artes Descrption","ボディアッパーで相手を浮かせ、ジャンピングアッパーを叩き込む。","Launch your opponent with a body uppercut and then hit them with a 
+jumping uppercut."
 "11579","3435921409","Artes Descrption","空中から斜め下に向かってヒップアタックを繰り出す。","A hip attack is performed from the air diagonally downward."
 "11580","3435921409","Artes Descrption","両拳を打ち合わせ、雷撃を発生させる。
 さらに雷をまとった拳でストレートを打ち込む。","Both fists strike each other and generate a lightning strike. User then 
@@ -2435,21 +2439,29 @@ and strength. It is easy for anyone to handle."
 "13014","3435921409","Item Description ","職人の手によって鍛え上げられた鋼の剣。","A steel sword forged by the hands of craftsmen."
 "13015","3435921409","Item Description ","職人の手によって鍛え上げられた鋼の剣。","A steel sword forged by the hands of craftsmen."
 "13016","3435921409","Item Description ","薄く研ぎ澄まされた曲刀。切れ味には定評がある。
-水属性付与。","A thinly sharpened curved sword. Has a reputation for sharpness. Water attributed."
+水属性付与。","A thinly sharpened curved sword. Has a reputation for sharpness. 
+Water attributed."
 "13017","3435921409","Item Description ","薄く研ぎ澄まされた曲刀。切れ味には定評がある。
-水属性付与。","A thinly sharpened curved sword. Has a reputation for sharpness. Water attributed."
+水属性付与。","A thinly sharpened curved sword. Has a reputation for sharpness. 
+Water attributed."
 "13018","3435921409","Item Description ","薄く研ぎ澄まされた曲刀。切れ味には定評がある。
-水属性付与。","A thinly sharpened curved sword. Has a reputation for sharpness. Water attributed."
+水属性付与。","A thinly sharpened curved sword. Has a reputation for sharpness. 
+Water attributed."
 "13019","3435921409","Item Description ","薄く研ぎ澄まされた曲刀。切れ味には定評がある。
-水属性付与。","A thinly sharpened curved sword. Has a reputation for sharpness. Water attributed."
+水属性付与。","A thinly sharpened curved sword. Has a reputation for sharpness. 
+Water attributed."
 "13020","3435921409","Item Description ","薄く研ぎ澄まされた曲刀。切れ味には定評がある。
-水属性付与。","A thinly sharpened curved sword. Has a reputation for sharpness. Water attributed."
+水属性付与。","A thinly sharpened curved sword. Has a reputation for sharpness. 
+Water attributed."
 "13021","3435921409","Item Description ","薄く研ぎ澄まされた曲刀。切れ味には定評がある。
-水属性付与。","A thinly sharpened curved sword. Has a reputation for sharpness. Water attributed."
+水属性付与。","A thinly sharpened curved sword. Has a reputation for sharpness. 
+Water attributed."
 "13022","3435921409","Item Description ","薄く研ぎ澄まされた曲刀。切れ味には定評がある。
-水属性付与。","A thinly sharpened curved sword. Has a reputation for sharpness. Water attributed."
+水属性付与。","A thinly sharpened curved sword. Has a reputation for sharpness. 
+Water attributed."
 "13023","3435921409","Item Description ","薄く研ぎ澄まされた曲刀。切れ味には定評がある。
-水属性付与。","A thinly sharpened curved sword. Has a reputation for sharpness. Water attributed."
+水属性付与。","A thinly sharpened curved sword. Has a reputation for sharpness. 
+Water attributed."
 "13024","3435921409","Item Description ","細身で切れ味が鋭い、匠の一振り。","A slim, sharp, and artisanal swing."
 "13025","3435921409","Item Description ","細身で切れ味が鋭い、匠の一振り。","A slim, sharp, and artisanal swing."
 "13026","3435921409","Item Description ","細身で切れ味が鋭い、匠の一振り。","A slim, sharp, and artisanal swing."
@@ -2601,7 +2613,8 @@ Difficult for ordinary people to handle."
 of a sacred tree. Do not hit people with it."
 "13081","3435921409","Item Description ","カイウスネタ武器の説明","Caius Neta Weapon description:"
 "13082","3435921409","Item Description ","凛々の明星の究極決戦兵器。
-人類の未来を背負い、希望の光となり得るか！？","The ultimate decisive weapon of Rinri no Meisei. Can it carry the future of humanity and be a beacon of hope!"
+人類の未来を背負い、希望の光となり得るか！？","The ultimate decisive weapon of Rinri no Meisei. 
+Can it carry the future of humanity and be a beacon of hope!"
 "13083","3435921409","Item Description ","“ＧＩＲＬ ＮＥＸＴ ＤＯＯＲ”が意匠を凝らした剣。
 使うものの魂を響かせるという不思議な剣。","""GIRL NEXT DOOR"" has designed a sword. It’s a mysterious
 sword that resonates with the soul of the user."
@@ -2651,37 +2664,45 @@ The last work of a master craftsman."
 名工が果てに見たものとは・・・","A sword in the shape of a long green onion.
 The last work of a master craftsman."
 "13099","3435921409","Item Description ","さる賢王が文献を基に作らせたという武器。
-扇状に広がる金属板。当たると痛いではすまない。","This weapon is said to have been made by the wise king Saru based on
-literature. A metal plate that spreads out like a fan. It hurts when it hits."
+扇状に広がる金属板。当たると痛いではすまない。","This weapon is said to have been made by the wise Monkey king.
+A metal plate that spreads out like a fan. It hurts when it hits."
 "13100","3435921409","Item Description ","さる賢王が文献を基に作らせたという武器。
-扇状に広がる金属板。当たると痛いではすまない。","This weapon is said to have been made by the wise king Saru based on
-literature. A metal plate that spreads out like a fan. It hurts when it hits."
+扇状に広がる金属板。当たると痛いではすまない。","This weapon is said to have been made by the wise Monkey king.
+A metal plate that spreads out like a fan. It hurts when it hits."
 "13101","3435921409","Item Description ","さる賢王が文献を基に作らせたという武器。
-扇状に広がる金属板。当たると痛いではすまない。","This weapon is said to have been made by the wise king Saru based on
-literature. A metal plate that spreads out like a fan. It hurts when it hits."
+扇状に広がる金属板。当たると痛いではすまない。","This weapon is said to have been made by the wise Monkey king.
+A metal plate that spreads out like a fan. It hurts when it hits."
 "13102","3435921409","Item Description ","さる賢王が文献を基に作らせたという武器。
-扇状に広がる金属板。当たると痛いではすまない。","This weapon is said to have been made by the wise king Saru based on
-literature. A metal plate that spreads out like a fan. It hurts when it hits."
+扇状に広がる金属板。当たると痛いではすまない。","This weapon is said to have been made by the wise Monkey king.
+A metal plate that spreads out like a fan. It hurts when it hits."
 "13103","3435921409","Item Description ","さる賢王が文献を基に作らせたという武器。
-扇状に広がる金属板。当たると痛いではすまない。","This weapon is said to have been made by the wise king Saru based on
-literature. A metal plate that spreads out like a fan. It hurts when it hits."
+扇状に広がる金属板。当たると痛いではすまない。","This weapon is said to have been made by the wise Monkey king.
+A metal plate that spreads out like a fan. It hurts when it hits."
 "13104","3435921409","Item Description ","さる賢王が文献を基に作らせたという武器。
-扇状に広がる金属板。当たると痛いではすまない。","This weapon is said to have been made by the wise king Saru based on
-literature. A metal plate that spreads out like a fan. It hurts when it hits."
+扇状に広がる金属板。当たると痛いではすまない。","This weapon is said to have been made by the wise Monkey king.
+A metal plate that spreads out like a fan. It hurts when it hits."
 "13105","3435921409","Item Description ","さる賢王が文献を基に作らせたという武器。
-扇状に広がる金属板。当たると痛いではすまない。","This weapon is said to have been made by the wise king Saru based on
-literature. A metal plate that spreads out like a fan. It hurts when it hits."
+扇状に広がる金属板。当たると痛いではすまない。","This weapon is said to have been made by the wise Monkey king.
+A metal plate that spreads out like a fan. It hurts when it hits."
 "13106","3435921409","Item Description ","さる賢王が文献を基に作らせたという武器。
-扇状に広がる金属板。当たると痛いではすまない。","This weapon is said to have been made by the wise king Saru based on
-literature. A metal plate that spreads out like a fan. It hurts when it hits."
-"13107","3435921409","Item Description ","コレを片手に歩いている人にはあまり近づきたくない。","You don't want to get too close to someone walking around with this in their hand."
-"13108","3435921409","Item Description ","コレを片手に歩いている人にはあまり近づきたくない。","You don't want to get too close to someone walking around with this in their hand."
-"13109","3435921409","Item Description ","コレを片手に歩いている人にはあまり近づきたくない。","You don't want to get too close to someone walking around with this in their hand."
-"13110","3435921409","Item Description ","コレを片手に歩いている人にはあまり近づきたくない。","You don't want to get too close to someone walking around with this in their hand."
-"13111","3435921409","Item Description ","コレを片手に歩いている人にはあまり近づきたくない。","You don't want to get too close to someone walking around with this in their hand."
-"13112","3435921409","Item Description ","コレを片手に歩いている人にはあまり近づきたくない。","You don't want to get too close to someone walking around with this in their hand."
-"13113","3435921409","Item Description ","コレを片手に歩いている人にはあまり近づきたくない。","You don't want to get too close to someone walking around with this in their hand."
-"13114","3435921409","Item Description ","コレを片手に歩いている人にはあまり近づきたくない。","You don't want to get too close to someone walking around with this in their hand."
+扇状に広がる金属板。当たると痛いではすまない。","This weapon is said to have been made by the wise Monkey king.
+A metal plate that spreads out like a fan. It hurts when it hits."
+"13107","3435921409","Item Description ","コレを片手に歩いている人にはあまり近づきたくない。","You don't want to get too close to someone walking around with this 
+in their hand."
+"13108","3435921409","Item Description ","コレを片手に歩いている人にはあまり近づきたくない。","You don't want to get too close to someone walking around with this 
+in their hand."
+"13109","3435921409","Item Description ","コレを片手に歩いている人にはあまり近づきたくない。","You don't want to get too close to someone walking around with this 
+in their hand."
+"13110","3435921409","Item Description ","コレを片手に歩いている人にはあまり近づきたくない。","You don't want to get too close to someone walking around with this 
+in their hand."
+"13111","3435921409","Item Description ","コレを片手に歩いている人にはあまり近づきたくない。","You don't want to get too close to someone walking around with this 
+in their hand."
+"13112","3435921409","Item Description ","コレを片手に歩いている人にはあまり近づきたくない。","You don't want to get too close to someone walking around with this 
+in their hand."
+"13113","3435921409","Item Description ","コレを片手に歩いている人にはあまり近づきたくない。","You don't want to get too close to someone walking around with this 
+in their hand."
+"13114","3435921409","Item Description ","コレを片手に歩いている人にはあまり近づきたくない。","You don't want to get too close to someone walking around with this 
+in their hand."
 "13115","3435921409","Item Description ","棒アイスの王道を模した武器。
 合わせても紫のアイスにはなりません。","A weapon that mimics the royal road of ice cream on a stick.
 It will not make purple ice cream even if it is combined."
@@ -2721,7 +2742,8 @@ ordinary person to handle. Quite destructive."
 大きな刃は重装備相手にも有効。光属性付与。","A battle axe with a crescent shape.
 Effective against heavily armed opponents. 
 Light attributed."
-"13130","3435921409","Item Description ","幅広い刀身が特徴的な斧。一薙ぎで周囲を刈り倒す。","An axe with a broad blade. It mows down its surroundings with a single cleave."
+"13130","3435921409","Item Description ","幅広い刀身が特徴的な斧。一薙ぎで周囲を刈り倒す。","An axe with a broad blade. It mows down its surroundings with a single
+cleave."
 "13131","3435921409","Item Description ","炎を思わせる刀身を持った魔斧。
 火属性付与。","A magic axe with a blade reminiscent of fire.
 Fire attributed."
@@ -2853,7 +2875,8 @@ bad when people point at me with it."
 一筋の光となって飛んでゆく。光属性付与。","This bow is called a light bow. The arrow that is
 released flies as a ray of light. Light attributed."
 "13185","3435921409","Item Description ","無敵を誇る弓使いが愛用した弓。放たれた矢が、
-天を裂いたという伝説が残っている。風属性付与。","This bow was the favorite of a bowman who boasted of his invincibility. Legend has it that the arrow that was shot from the bow split the heavens. Wind attributed."
+天を裂いたという伝説が残っている。風属性付与。","This bow was the favorite of a bowman who boasted of his invincibility. 
+Legend has it that the arrow split the heavens. Wind attributed."
 "13186","3435921409","Item Description ","複数の素材で構成された弓。合成弓とも呼ばれる。","A bow composed of multiple materials. Also called a synthetic bow."
 "13187","3435921409","Item Description ","流水の魔力が秘められた弓。
 水属性付与。","A bow with the magic of running water. Water attributed."
@@ -2897,7 +2920,8 @@ killing urge if you are not careful. Fire attributed."
 "13204","3435921409","Item Description ","標準的な自動式拳銃。弾詰まりも少なく扱いが容易。","Standard automatic pistol. It is easy to handle with few jammed bullets."
 "13205","3435921409","Item Description ","風をまとった弾丸を撃ちだす魔法の銃。
 風属性付与。","A magic gun that shoots bullets covered with wind. Wind attributed."
-"13206","3435921409","Item Description ","とある地方の職人たちが協力して作り上げた一品。","This product is the result of the cooperation of artisans in a certain region."
+"13206","3435921409","Item Description ","とある地方の職人たちが協力して作り上げた一品。","This product is the result of the cooperation of artisans in a certain 
+region."
 "13207","3435921409","Item Description ","光の銃。裁きの銃といわれ、闇を打ち抜く。
 光属性付与。","The gun of light. It is said to be the gun of judgment
 that banishes the darkness. Light attributed."
@@ -3157,10 +3181,10 @@ sword that resonates with the soul of the user."
 名工が果てに見たものとは・・・","A sword in the shape of a long green onion.
 The last work of a master craftsman."
 "13319","3435921409","Item Description ","さる賢王が文献を基に作らせたという武器。
-扇状に広がる金属板。当たると痛いではすまない。","This weapon is said to have been made by the wise king Saru based on
-literature. A metal plate that spreads out like a fan. It hurts when it hits."
-"13320","3435921409","Item Description ","コレを片手に歩いている人にはあまり近づきたくない。","You don't want to get too close to someone
-walking around with this in their hand."
+扇状に広がる金属板。当たると痛いではすまない。","This weapon is said to have been made by the wise Monkey king.
+A metal plate that spreads out like a fan. It hurts when it hits."
+"13320","3435921409","Item Description ","コレを片手に歩いている人にはあまり近づきたくない。","You don't want to get too close to someone walking around with this 
+in their hand."
 "13321","3435921409","Item Description ","戦闘時にバトンを形成するアンクレット型のソーマ。
 形状を活かした攻撃は岩も砕く。","An anklet-shaped soma that forms a baton in battle.
 Attacks that utilize the shape can shatter rocks."
@@ -3460,7 +3484,8 @@ Does not  repel magic, but it is very solid."
 防御力を高めた魔法の鎧。","A magical armor based on Mithril Armor that has been
 enchanted with magic to increase its defensive power."
 "13431","3435921409","Item Description ","名工が魂を込めて作った無二の傑作。あらゆる攻撃を通さず、
-身につけるものに重さを感じさせないという。","A masterpiece made by a master craftsman with his soul. Said to be impervious to all attacks and weightless on the wearer."
+身につけるものに重さを感じさせないという。","A masterpiece made by a master craftsman with his soul. Said to be 
+impervious to all attacks and weightless on the wearer."
 "13432","3435921409","Item Description ","“要塞”という名前にふさわしい堅牢な重鎧。
 大斧の一撃もはじき返すといわれる。","A heavy, sturdy suit of armor worthy of the name ’fortress’.
 Said to repel even a blow from a great axe."
@@ -3989,13 +4014,14 @@ SP Required 10."
 ジャンプ攻撃、特技を出すと無敵は切れる。　　　必要ＳＰ　１５","Become invincible when starting to jump. Expires after 
 a jump attack or special move. SP Required 15."
 "15067","3435921409","Skills description","ジャンプ中、□ボタン＋方向キーの上を押すことで空中浮遊が
-できる。浮遊中はＴＰを消費していく。　　　　　必要ＳＰ１００","Float in the air while using TP by pressing □ + the up button while jumping. SP Required 100."
+できる。浮遊中はＴＰを消費していく。　　　　　必要ＳＰ１００","Float in the air while using TP by pressing □ + the up button while 
+jumping. SP Required 100."
 "15068","3435921409","Skills description","ジャンプ中、□ボタン＋方向キーの上を押すことで空中浮遊が
-できる。浮遊中はＴＰを消費していく。　　　　　必要ＳＰ１００","Float in the air while using TP by pressing □ + the up button while jumping. SP Required 100."
+できる。浮遊中はＴＰを消費していく。　　　　　必要ＳＰ１００","Float in the air while using TP by pressing □ + the up button while 
+jumping. SP Required 100."
 "15069","3435921409","Skills description","クリティカルガードで軽減されるダメージが
 さらに５０％減少する。　　　　　　　　　　　　必要ＳＰ　　５","The damage reduced by the Critical Guard is reduced by an 
-additional 50%. 
-SP Required 5."
+additional 50%. SP Required 5."
 "15070","3435921409","Skills description","クリティカルガードのダメージ軽減値が５％アップする。
 　　　　　　　　　　　　　　　　　　　　　　　必要ＳＰ　　５","Critical Guard damage reduction value is increased by 5%. 
 SP Required 5."
@@ -4159,7 +4185,7 @@ Can be linked with Combo Plus 2. SP Required 15."
 　　　　　　　　　　　　　　　　　　　　　　　必要ＳＰ　５０　",""
 "15135","3435921409","Skills description","特技の硬直をキャンセルして、クリティカルガードができる。
 ＴＰを最大値の５％消費する。　　　　　　　　　必要ＳＰ　５０　　","Cancels the animation of a special move and allows critical guarding, 
-consuming 5% of the maximum TP.　　　　　SP Required 50."
+consuming 5% of the maximum TP. SP Required 50."
 "15136","3435921409","Skills description","床抜けの落下中に空中行動が可能になる。
 　　　　　　　　　　　　　　　　　　　　　　　必要ＳＰ　５０　","Allows aerial action while falling through the floor.
 SP Required 50."
@@ -5946,12 +5972,14 @@ within 20 seconds."
 "17539","3435921409","titles descriptions","基本的な銃器の扱いを習得した者に贈られた称号。","A title bestowed on someone who has mastered the basics of firearm 
 handling."
 "17540","3435921409","titles descriptions","累計ＧＰ１０００以上を達成！
-二丁の拳銃から絶え間なく打ち込まれる弾丸や、音速の如し。","Achieved a cumulative GP of over 1000! Bullets are constantly being fired from two pistols, and they are as fast as the speed of sound."
+二丁の拳銃から絶え間なく打ち込まれる弾丸や、音速の如し。","Achieved a cumulative GP of over 1000! Bullets are constantly being 
+fired from two pistols, and they are as fast as the speed of sound."
 "17541","3435921409","titles descriptions","累計ＧＰ１００００以上を達成！
 二丁銃を極めた者に与えられる称号。","Achieve a cumulative GP of 10000 or more! This title is given to those 
 who have mastered two guns."
 "17542","3435921409","titles descriptions","累計ＧＰ２００００以上を達成！
-…ああ、せっかく可愛いのに、口を開けば悪魔のような言葉が…","Total GP over 20,000! ...Oh, so cute, but when she opens her mouth, she speaks like the devil..."
+…ああ、せっかく可愛いのに、口を開けば悪魔のような言葉が…","Total GP over 20,000! ...Oh, so cute, but when she opens her mouth, 
+she speaks like the devil..."
 "17543","3435921409","titles descriptions","累計ＧＰ３００００以上を達成！
 普段も半端ねェけど、ルカいじりはもっとスゲェぜ…（友人談）","He achieved a total GP of over 30000! He's always great, but his 
 tinkering with Luke is even better... (according to his friend)"
@@ -6492,7 +6520,7 @@ A master who can accomplish anything with Tokunaga~☆"
 A title for a precocious child who trains every day to be a rich housewife."
 "17809","3435921409","titles descriptions","モバイル連動でゲット！　ＯＶＬ時間・物理攻撃力がアップ！
 彼女の秘奥義「殺劇舞荒拳」発動時、キケンな台詞と共に出る。","Purchase through Tales of VS. for Mobile! Raises P.ATK and OVL.D!
-When she uses her Final Fury mystic arte, a vulgar line may come out."
+When she uses her Final Fury mystic arte, she may say something vulgar."
 "17810","3435921409","titles descriptions","モバイル連動でゲット！
 コレットでガンガン攻めたいアナタに贈る称号。","Purchase through Tales of VS. for Mobile!
 This title is for those who want to attack fiercely as Colette."
@@ -6576,11 +6604,13 @@ This title is for those who want to attack fiercely as Harold."
 This title is for those who want to defend fiercely as Harold."
 "17837","3435921409","titles descriptions","モバイル連動でゲット！　ＯＶＬ時間アップ！
 「データ取らせなさ～いっ☆」いつでも彼女はハイテンション。","Purchase through Tales of VS. for Mobile! Raises OVL.D!
-""I'll be getting data~☆"" Her spirits are always high."
+""I'll be gathering data~☆"" Her spirits are always high."
 "17838","3435921409","titles descriptions","モバイル連動でゲット！　詠唱時間・硬直時間が短縮。
-「飛べ～、飛べ～、ロケット～♪」一度聞いたら、忘れられない。",""
+「飛べ～、飛べ～、ロケット～♪」一度聞いたら、忘れられない。","Purchase through Tales of VS. for Mobile! Lowers casting time and
+recovery time after casting an arte. “Fly, my pretties, fly~!”"
 "17839","3435921409","titles descriptions","モバイル連動でゲット！　ＯＶＬ時間・術攻撃力アップ。
-「備えあれば、ロケットランチャー撃ち放題！」この感覚が独特？",""
+「備えあれば、ロケットランチャー撃ち放題！」この感覚が独特？","Purchase through Tales of VS. for Mobile! Raises OVL.D and M.ATK.
+“I’m ready to let these rockets rip!” Is this feeling unique?"
 "17840","3435921409","titles descriptions","モバイル連動でゲット！
 マオでガンガン攻めたいアナタに贈る称号。","Purchase through Tales of VS. for Mobile!
 This title is for those who want to attack fiercely as Mao."
@@ -6588,11 +6618,14 @@ This title is for those who want to attack fiercely as Mao."
 マオでガッチリ守りたいアナタに贈る称号。","Purchase through Tales of VS. for Mobile!
 This title is for those who want to defend fiercely as Mao."
 "17842","3435921409","titles descriptions","モバイル連動でゲット！　ＴＰ回復がアップ！
-「マオつまみ食いした瞬間に料理を覚えるの巻！」…メモいらず。",""
+「マオつまみ食いした瞬間に料理を覚えるの巻！」…メモいらず。","Purchase through Tales of VS. for Mobile! Raises TP.RC. 
+“The moment you eat my snacks, you’ll learn to cook!” …Don’t take notes."
 "17843","3435921409","titles descriptions","モバイル連動でゲット！　術防御力がアップ。
-術使いは多く居れど、彼ほどの炎のエキスパートは数少ない。",""
+術使いは多く居れど、彼ほどの炎のエキスパートは数少ない。","Purchase through Tales of VS. for Mobile! Raises M.DEF.
+Many are capable of using artes, but few can wield fire like he can."
 "17844","3435921409","titles descriptions","モバイル連動により贈られた称号。詠唱時間・硬直時間が短縮！
-世界から愛されるかわいい子供に贈る称号。",""
+世界から愛されるかわいい子供に贈る称号。","A title gained from mobile connection. Lowers cast time and
+recovery time after casting an arte! A title given to a cute, beloved child."
 "17845","3435921409","titles descriptions","モバイル連動でゲット！
 ジェイドでガンガン攻めたいアナタに贈る称号。","Purchase through Tales of VS. for Mobile!
 This title is for those who want to attack fiercely as Jade."
@@ -6600,11 +6633,14 @@ This title is for those who want to attack fiercely as Jade."
 ジェイドでガッチリ守りたいアナタに贈る称号。","Purchase through Tales of VS. for Mobile!
 This title is for those who want to defend fiercely as Jade."
 "17847","3435921409","titles descriptions","モバイル連動でゲット！　ガード耐久力がアップ。
-「怪しい」とよく称される人…もう一人いたね、そんなおっさん。",""
+「怪しい」とよく称される人…もう一人いたね、そんなおっさん。","Purchase through Tales of VS. for Mobile! Increases G.STA.
+A person called “shady” often…another old man, huh?"
 "17848","3435921409","titles descriptions","モバイル連動でゲット！　ＴＰ回復・術攻撃力がアップ。
-とうとう魔界からも任命？　どこまで偉いの！？",""
+とうとう魔界からも任命？　どこまで偉いの！？","Purchase through Tales of VS. for Mobile! Raises TP.RC and M.ATK.
+Did he finally get nominated by hell? How amazing!?"
 "17849","3435921409","titles descriptions","モバイル連動でゲット！　術攻撃力・詠唱速度アップ！
-…その頭脳は、並大抵の人間が量れるものではない。",""
+…その頭脳は、並大抵の人間が量れるものではない。","Purchase through Tales of VS. for Mobile! Raises M.ATK and C.SPD!
+…His brain is completely beyond human comprehension."
 "17850","3435921409","titles descriptions","モバイル連動でゲット！
 イリアでガンガン攻めたいアナタに贈る称号。","Purchase through Tales of VS. for Mobile!
 This title is for those who want to attack fiercely as Illia."
@@ -6612,11 +6648,14 @@ This title is for those who want to attack fiercely as Illia."
 イリアでガッチリ守りたいアナタに贈る称号。","Purchase through Tales of VS. for Mobile!
 This title is for those who want to defend fiercely as Illia."
 "17852","3435921409","titles descriptions","モバイル連動でゲット！　ＯＶＬ時間がアップ！
-「ウシシシシ…」等パターンあり。…決して可愛いとは言えない。",""
+「ウシシシシ…」等パターンあり。…決して可愛いとは言えない。","Purchase through Tales of VS. for Mobile! Raises OVL.D!
+“Uhihihihi!” There’s a pattern here. You can’t say it’s not cute."
 "17853","3435921409","titles descriptions","モバイル連動でゲット！　移動速度・物理防御力がアップ。
-強引に人を引っ張り行動する様子が、超強力な暴風そのもの？",""
+強引に人を引っ張り行動する様子が、超強力な暴風そのもの？","Purchase through Tales of VS. for Mobile! Raises P.DEF and movement
+speed. The way she drags people along, isn’t she like a storm?"
 "17854","3435921409","titles descriptions","モバイル連動でゲット！　移動速度・物理攻撃力がアップ！
-二丁の拳銃から撃ち出される弾丸、その速さや、烈風のごとし！",""
+二丁の拳銃から撃ち出される弾丸、その速さや、烈風のごとし！","Purchase through Tales of VS. for Mobile! Raises P.ATK and movement
+speed! Bullets from her two pistols fly through the air like a hurricane."
 "17855","3435921409","titles descriptions","モバイル連動でゲット！
 シングでガンガン攻めたいアナタに贈る称号。","Purchase through Tales of VS. for Mobile!
 This title is for those who want to attack fiercely as Shing."
@@ -6624,11 +6663,14 @@ This title is for those who want to attack fiercely as Shing."
 シングでガッチリ守りたいアナタに贈る称号。","Purchase through Tales of VS. for Mobile!
 This title is for those who want to defend fiercely as Shing."
 "17857","3435921409","titles descriptions","モバイル連動でゲット！　ＴＰ回復上昇。「シングはずぇ～ったい
-ノーテン菌に感染してると思うよっ！！」（友人談）",""
+ノーテン菌に感染してると思うよっ！！」（友人談）","Purchase through Tales of VS. for Mobile! Raises TP.RC. “I think Shing’s
+been infected with nooten fever~” (according to a friend)."
 "17858","3435921409","titles descriptions","モバイル連動でゲット！　物理攻撃力・移動速度がアップ！
-目にもとまらぬ動き、光の筋を残す剣先…閃く流星の如し。",""
+目にもとまらぬ動き、光の筋を残す剣先…閃く流星の如し。","Purchase through Tales of VS. for Mobile! Raises P.ATK and movement
+speed! Invisibly fast, his sword leaves trails of light…like a meteor."
 "17859","3435921409","titles descriptions","モバイル連動でゲット！　ＯＶＬ時間・移動速度がアップ！
-コハクのために！　その「心」の強さが、ソーマの力を引き出す！",""
+コハクのために！　その「心」の強さが、ソーマの力を引き出す！","Purchase through Tales of VS. for Mobile! Raises OVL.D and movement
+speed! For Kohaku! The strength of her heart draws out Soma's power!"
 "17860","3435921409","titles descriptions","モバイル連動でゲット！
 ジュディスでガンガン攻めたいアナタに贈る称号。","Purchase through Tales of VS. for Mobile!
 This title is for those who want to attack fiercely as Judith."
@@ -6636,11 +6678,14 @@ This title is for those who want to attack fiercely as Judith."
 ジュディスでガッチリ守りたいアナタに贈る称号。","Purchase through Tales of VS. for Mobile!
 This title is for those who want to defend fiercely as Judith."
 "17862","3435921409","titles descriptions","モバイル連動でゲット！　ＴＰ回復力がアップ。
-「そうかしら？　いつも通りだと思うのだけれど。私」",""
+「そうかしら？　いつも通りだと思うのだけれど。私」","Purchase through Tales of VS. for Mobile! Raises TP.RC.
+“Oh, really? I think I’m the same as usual.”"
 "17863","3435921409","titles descriptions","モバイル連動でゲット！　物理防御力・術防御力アップ。
-どんなことにも表情を変えない彼女…でも実はやせ我慢かも？",""
+どんなことにも表情を変えない彼女…でも実はやせ我慢かも？","Purchase through Tales of VS. for Mobile! Raises P.DEF and M.DEF.
+Her expression never changes…but maybe she’s trying to lose weight?"
 "17864","3435921409","titles descriptions","モバイル連動でゲット！　移動速度と物理攻撃力アップ。
-彼女の繰り出す槍の空中技は、華麗に咲く華そのもの。",""
+彼女の繰り出す槍の空中技は、華麗に咲く華そのもの。","Purchase through Tales of VS. for Mobile! Raises P.ATK and movement
+speed. Her aerial spear artes look like a flower in bloom."
 "17865","3435921409","titles descriptions","モバイル連動でゲット！
 コハクでガンガン攻めたいアナタに贈る称号。","Purchase through Tales of VS. for Mobile!
 This title is for those who want to attack fiercely as Kohaku."
@@ -6648,11 +6693,14 @@ This title is for those who want to attack fiercely as Kohaku."
 コハクでガッチリ守りたいアナタに贈る称号。","Purchase through Tales of VS. for Mobile!
 This title is for those who want to defend fiercely as Kohaku."
 "17867","3435921409","titles descriptions","モバイル連動でゲット！　物理攻撃力がアップ！
-嬢ちゃん…イイ蹴り、してるじゃねえか…！（コングマン談）",""
+嬢ちゃん…イイ蹴り、してるじゃねえか…！（コングマン談）","Purchase through Tales of VS. for Mobile! Raises P.ATK!
+“Miss…you have a great kick, don’t you…!” (The words of Kongman)"
 "17868","3435921409","titles descriptions","モバイル連動でゲット！　ＴＰ回復力がアップ。
-流れるような黒髪に、すらりと伸びた美脚の持ち主への称号。",""
+流れるような黒髪に、すらりと伸びた美脚の持ち主への称号。","Purchase through Tales of VS. for Mobile! Raises TP.RC.
+A title given to someone with glossy black hair, and slender, beautiful legs."
 "17869","3435921409","titles descriptions","モバイル連動でゲット！　物理攻撃力アップ・詠唱時間短縮。
-「コハクに蹴られっぞ」彼女の故郷の住人は、この一言で黙る。",""
+「コハクに蹴られっぞ」彼女の故郷の住人は、この一言で黙る。","Purchase through Tales of VS. for Mobile! Raises P.ATK and shortens
+casting time. “Kohaku will kick you” is all it takes to silence her hometown."
 "17870","3435921409","titles descriptions","モバイル連動でゲット！
 カイルでガンガン攻めたいアナタに贈る称号。","Purchase through Tales of VS. for Mobile!
 This title is for those who want to attack fiercely as Kyle."
@@ -6660,11 +6708,13 @@ This title is for those who want to attack fiercely as Kyle."
 カイルでガッチリ守りたいアナタに贈る称号。","Purchase through Tales of VS. for Mobile!
 This title is for those who want to defend fiercely as Kyle."
 "17872","3435921409","titles descriptions","モバイル連動でゲット！　熱血スタンの息子は、超熱血！！
-その熱さで、物理攻撃力がアップ！",""
+その熱さで、物理攻撃力がアップ！","Purchase through Tales of VS. for Mobile! Hot-blooded Stahn has even more hot-blooded kid!! The heat raises your P.ATK!"
 "17873","3435921409","titles descriptions","モバイル連動でゲット！　移動速度とＯＶＬ時間がアップ！
-噂では、「つむじ風の～」と称される兄貴分もいるらしい。",""
+噂では、「つむじ風の～」と称される兄貴分もいるらしい。","Purchase through Tales of VS. for Mobile! Raises OVL.D and movement
+speed! Apparently there’s a guy out there called The Whirlwind."
 "17874","3435921409","titles descriptions","モバイル連動でゲット！　物理攻撃力・防御がアップ！
-オレも父さんみたいな英雄になるんだ！！",""
+オレも父さんみたいな英雄になるんだ！！","Purchase through Tales of VS. for Mobile! Raises P.ATK and DEF!
+I’m going to become a hero, just like my dad!!"
 "18000","3435921409","Strategy Menu","ＨＰ回復アイテム優先","Prioritize using HP recovery items."
 "18001","3435921409","Strategy Menu","ＴＰ回復アイテム優先","Prioritize using TP recovery items."
 "18002","3435921409","Strategy Menu","攻撃アイテム優先",""
@@ -6785,7 +6835,7 @@ This title is for those who want to defend fiercely as Kyle."
 "21008","3435921409","Custom Battle Desc","武器系のアイテムが出現するようになります。","Weapon items will appear."
 "21009","3435921409","Custom Battle Desc","ＴＰを消費する行動をしてもＴＰが減らなくなります。","TP will no longer decrease when performing actions that consume TP."
 "21010","3435921409","Custom Battle Desc","オーバーリミッツで復活しなくなります。","Overlimits will no longer revive you."
-"21011","3435921409","Custom Battle Desc","奈落に落ちるとＨＰが０になります。","HP will be reduced to 0 when falling down into pits"
+"21011","3435921409","Custom Battle Desc","奈落に落ちるとＨＰが０になります。","HP will be reduced to 0 when falling down into pits."
 "21012","3435921409","Custom Battle Desc","吹っ飛ぶ値が２倍になります。","The value of knock backs be doubled."
 "21013","3435921409","Custom Battle Desc","壁でバウンドする値が増えます。","The value of bouncing on walls will be increased."
 "21014","3435921409","Custom Battle Desc","バトルカスタム15の説明","Custom Battle 15 Description"
@@ -7016,7 +7066,7 @@ The fate of Dailantia is in your hands!!"
 "28013","3435921409","Tutorial Descripton","リミッツボールのチュートリアルができます。","Tutorial on Limit Ball"
 "28014","3435921409","Tutorial Descripton","床抜けのチュートリアルができます。","Tutorial on Recovery"
 "28015","3435921409","Tutorial Descripton","受身のチュートリアルができます。","Tutorial on Passive"
-"28016","3435921409","Tutorial Descripton","バックステップのチュートリアルができます。","Tutorial on Backsteping"
+"28016","3435921409","Tutorial Descripton","バックステップのチュートリアルができます。","Tutorial on Backstepping"
 "28017","3435921409","Tutorial Descripton","クリティカルガードのチュートリアルができます。","Tutorial on Critical Guard"
 "28018","3435921409","Tutorial Descripton","移動起き上がりのチュートリアルができます。",""
 "28019","3435921409","Tutorial Descripton","チュートリアルバトル20の説明","Tutorial Battle 20 description:"
@@ -7302,8 +7352,8 @@ battles and other events."
 "51702","3435921409","","お知らせ","Notice"
 "51703","3435921409","","ひとりで遊ぶ","Single"
 "51704","3435921409","","みんなで遊ぶ","Multiplayer"
-"52000","3435921409","Select Number of Player desc.","１人で遊びます。","Play with CPU"
-"52001","3435921409","Select Number of Player desc.","アドホックモードでみんなと遊びます。","Multiplayer in ad hoc mode"
+"52000","3435921409","Select Number of Player desc.","１人で遊びます。","Play with CPU."
+"52001","3435921409","Select Number of Player desc.","アドホックモードでみんなと遊びます。","Multiplayer in ad hoc mode."
 "53000","3435921409","","Ｌ、Ｒボタンでカーソルを他プレイヤーへ移動できます。",""
 "53001","3435921409","","キャラクターを選択してください。",""
 "53002","3435921409","","参加するチームの選択、参加の取り消しを設定できます。",""
@@ -8901,7 +8951,7 @@ Battle!"
 "60003","3435921409","Multiplayer Battle","ロビーへ戻ってもよろしいですか？","Return to the lobby?"
 "60050","3435921409","Multiplayer Battle","ネットワークから切断されました。
 モードセレクトへ戻ります。","Disconnected from network.
-Returning to mode select."
+Returning to Mode Selection."
 "60051","3435921409","Multiplayer Battle","１Ｐ(ホスト)との接続が切れました。
 モードセレクトへ戻ります。","Connection with 1P (host) has been lost.
 Returning to mode select."
@@ -9039,7 +9089,8 @@ now available for purchase."
 "60127","3435921409","Multiplayer Battle","他のプレイヤーを待っています。",""
 "60128","3435921409","Multiplayer Battle","ルームが満員の為、参加できませんでした。",""
 "60129","3435921409","Multiplayer Battle","接続エラーが発生しました。
-($SCC001$)",""
+($SCC001$)","A connection error occurred.
+($SCC001$)"
 "60130","3435921409","Multiplayer Battle","メモリースティック™が抜かれました。
 ネットワーク連動を終了します。",""
 "60131","3435921409","Multiplayer Battle","スリープ機能が使用されました。
@@ -9087,7 +9138,7 @@ Disconnecting network connection."
 "61010","3435921409","Character Setup Strategy","間合い","Spacing"
 "61011","3435921409","Character Setup Strategy","ターゲット","Target"
 "61012","3435921409","Character Setup Strategy","通常攻撃をする頻度を設定できます。","Set the frequency of normal attacks."
-"61013","3435921409","Character Setup Strategy","術技の使用頻度を設定できます。","Set the frequency of artes"
+"61013","3435921409","Character Setup Strategy","術技の使用頻度を設定できます。","Set the frequency of artes."
 "61014","3435921409","Character Setup Strategy","ターゲットとの距離を設定できます。","Set the distance from the target."
 "61015","3435921409","Character Setup Strategy","ターゲットする敵の優先を設定できます。","Set the priority of enemies to be targeted."
 "61020","3435921409","Character Setup Strategy","なし","None"
@@ -9318,10 +9369,10 @@ The fate of Dailantia is in your hands!!"
 "61700","3435921409","Quick Battle menu desc.","ＣＰＵを相手に勝ち抜いていくモードです。","In this mode, you play against the CPU."
 "61701","3435921409","Quick Battle menu desc.","ただひたすら敵を倒し、何戦勝ち抜けるか競うモードです。","In this mode, players compete to see how many battles they can win."
 "61702","3435921409","Quick Battle menu desc.","特定のシチュエーションで課題をクリアするモードです。","In this mode, you must complete assignments in specific situations."
-"61703","3435921409","Quick Battle menu desc.","形式を自由に選択してバトルができます。","In This mode, you can freely choose the type of match."
-"61800","3435921409","","一度見たイベントを閲覧できます。","This enables you to rewached past events"
+"61703","3435921409","Quick Battle menu desc.","形式を自由に選択してバトルができます。","In this mode, you can freely choose the type of match."
+"61800","3435921409","","一度見たイベントを閲覧できます。","This enables you to rewatch past events."
 "61801","3435921409","","テイルズキャラクターのプロフィールを見ることができます。","View profiles of Tales characters."
-"61802","3435921409","","各種記録を確認することができます。","View your all time Tales of VS records"
+"61802","3435921409","","各種記録を確認することができます。","View your all time Tales of VS records."
 "61803","3435921409","","インフラストラクチャーモードを利用した連動を行います。","Synchronize using the PSP infrared mode."
 "61804","3435921409","","ユグドラシルバトルで獲得したカードを閲覧できます。","View character cards acquired in Yggdrasil Battles."
 "61805","3435921409","","「テイルズ オブ ウォールブレイカー」を遊ぶことができます。","Play [Tales of Wallbreaker]"
@@ -9354,10 +9405,10 @@ The fate of Dailantia is in your hands!!"
 "62206","3435921409","Customize menu","オートセーブ機能をオンにします。","Turn On Auto-Save Feature."
 "62207","3435921409","Customize menu","オートセーブ機能をオフにします。","Turn Off Auto-Save Feature."
 "62208","3435921409","Customize menu","ユグドラシルバトルが難しく感じる方はこの難易度。","Difficulty for those who find Yggdrasil Battle difficult."
-"62209","3435921409","Customize menu","ユグドラシルバトルを普通に楽しむならこの難易度。","Difficulty for those who enjoy the Yggdrasil Battle."
+"62209","3435921409","Customize menu","ユグドラシルバトルを普通に楽しむならこの難易度。","Difficulty for those who enjoy Yggdrasil Battle."
 "62210","3435921409","Customize menu","ユグドラシルバトルの敵が弱いと感じたらこの難易度。","Difficulty for those who find Yggdrasil Battle easy."
-"62211","3435921409","Customize menu","ユグドラシルバトルで地獄を見たい人はこの難易度。","Difficulty for those who want Punished in the Yggdrasil Battle"
-"62212","3435921409","Customize menu","ユグドラシルバトルマスターを目指すならこの難易度。","Difficulty for a Yggdrasil Battle Master"
+"62211","3435921409","Customize menu","ユグドラシルバトルで地獄を見たい人はこの難易度。","Difficulty for those who want to be punished in Yggdrasil Battle."
+"62212","3435921409","Customize menu","ユグドラシルバトルマスターを目指すならこの難易度。","Difficulty for a Yggdrasil Battle Master."
 "62300","3435921409","Customize menu","聴いたことのあるＢＧＭを再度聴くことができます。","Previously Heard BGM Playback"
 "62301","3435921409","Customize menu","メニューのＳＥやバトルのＳＥを聴くことができます。","Sound Effect Playback"
 "62302","3435921409","Customize menu","解放されたキャラクターの声を聴くことができます。","Character Voice Playback"
@@ -9390,7 +9441,7 @@ The fate of Dailantia is in your hands!!"
 "62535","3435921409","Customize menu","Ｒボタンに割り当てる操作を設定してください。","Change setting for the R button."
 "62536","3435921409","Customize menu","デフォルトの設定に戻すことができます。","Restore the default settings."
 "62537","3435921409","Customize menu","設定を反映させるにはこのボタンを押してください。","Press to accept changes."
-"62538","3435921409","Customize menu","方向キー上に割り当てる操作を設定してください。","Use the arrow buttons to change the settings"
+"62538","3435921409","Customize menu","方向キー上に割り当てる操作を設定してください。","Use the arrow buttons to change the settings."
 "62540","3435921409","Customize menu","設定されていない
 アクションがあります。
 よろしいですか？","No Changes Made.
@@ -9448,9 +9499,9 @@ of Cress. "
 リオン、カイルそれぞれが願いを
 叶えるため、大いなる実りを目指す物語。
 　－━騎士国家フレスヴェルグ所属━－","[Leon & Kyle Arc]
-This is the story of Leon and Kyle, each of 
-whom aims for the Great Seed in order to 
-fulfill their wishes."
+This is the story of Leon and Kyle, each 
+of whom aims for the Great Seed in order 
+to fulfill their wishes."
 "63003","3435921409","Yggdrasil Arc Description","【スタン編】
 ディムロスの仇をとるため
 手がかりを求め世界中を旅する物語。
@@ -9463,8 +9514,8 @@ Dymlos's death. "
 大いなる実りを持ち帰るため旅する物語。
 　－━新帝国ニーズホッグ所属━－","[Luke & Tear Arc]
 Luke, a candidate to become the next king,
-and his guard, Tear travel to bring back the 
-great seed."
+and his guard, Tear travel to bring back 
+the Great Seed."
 "63005","3435921409","Yggdrasil Arc Description","【ジェイド＆アニス編】
 ジェイドの知られざる過去が
 あきらかにされる物語。
@@ -9502,20 +9553,20 @@ Please wait."
 "65003","3435921409","In Battle Menu","３Ｐの行動変更","3P Behavior Change"
 "65004","3435921409","In Battle Menu","４Ｐの行動変更","4P Behavior Change"
 "65005","3435921409","In Battle Menu","ゲージ回復：","Gauge Recovery:"
-"65006","3435921409","In Battle Menu","キャラクターセレクトに戻る","Return to Character Selection"
-"65007","3435921409","In Battle Menu","モードセレクトに戻る","Return to Mode Selection"
-"65008","3435921409","In Battle Menu","ゲームに戻る","Return to Current Game"
+"65006","3435921409","In Battle Menu","キャラクターセレクトに戻る","Return to Character Selection."
+"65007","3435921409","In Battle Menu","モードセレクトに戻る","Return to Mode Selection."
+"65008","3435921409","In Battle Menu","ゲームに戻る","Return to Current Game."
 "65009","3435921409","In Battle Menu","キャラクターセレクト画面に戻りますか？","Do you want to go back
 to Character Selection?"
 "65010","3435921409","In Battle Menu","モードセレクト画面に戻りますか？","Do you want to return
 to mode selection?"
-"65011","3435921409","In Battle Menu","初期状態に戻す","Returning to Initial state"
+"65011","3435921409","In Battle Menu","初期状態に戻す","Return to Initial state."
 "65012","3435921409","In Battle Menu","初期状態に戻しますか？","Do you want to return
 to the initial state?"
-"65013","3435921409","In Battle Menu","チュートリアルクリア条件","Tutorial clear conditions"
+"65013","3435921409","In Battle Menu","チュートリアルクリア条件","Tutorial clear conditions."
 "65014","3435921409","In Battle Menu","チュートリアルセレクト画面に戻りますか？","Would you like to return
 to the tutorial selection?"
-"65015","3435921409","In Battle Menu","チュートリアルセレクトに戻る","Returning to tutorial selection."
+"65015","3435921409","In Battle Menu","チュートリアルセレクトに戻る","Return to tutorial selection."
 "65016","3435921409","In Battle Menu","バトルから離脱する","Leave the battle?"
 "65017","3435921409","In Battle Menu","負けたことになります。
 バトルから離脱してよろしいですか？","You lost.
@@ -9727,82 +9778,83 @@ Network Link will now end."
 "69136","3435921409","","スリープ機能が使用されました。
 セーブを中止しますか？","Sleep function has been activated.
 Do you want to cancel saving?"
-"70000","3435921409","","モバイル連動をするには、
+"70000","3435921409","Mobile Game VS","モバイル連動をするには、
 携帯ｻｲﾄ「ﾃｲﾙｽﾞ ｵﾌﾞ ﾓﾊﾞｲﾙ」で
 登録する必要があります。","To connect with mobile, please go to the
 mobile site ""Tales of Mobile"" to register."
-"70001","3435921409","","モバイル連動ＩＤとパスワードを
+"70001","3435921409","Mobile Game VS","モバイル連動ＩＤとパスワードを
 入力してください。","Please enter your Mobile-linked ID and password"
-"70002","3435921409","","ＩＤを入力してください","Please enter your ID"
-"70003","3435921409","","パスワードを入力してください","Please enter your password"
-"70010","3435921409","","通信中．　　","Connecting."
-"70011","3435921409","","通信中．．　","Connecting.."
-"70012","3435921409","","通信中．．．","Connecting..."
-"70013","3435921409","","ＤＬする","Starting Download"
-"70014","3435921409","","ＤＬしない","Couldn’t Download"
-"70015","3435921409","","ダウンロード中．","Downloading."
-"70016","3435921409","","ダウンロード中．．","Downloading.."
-"70017","3435921409","","ダウンロード中．．．","Downloading..."
-"70018","3435921409","","データのＤＬが完了しました。
+"70002","3435921409","Mobile Game VS","ＩＤを入力してください","Please enter your ID"
+"70003","3435921409","Mobile Game VS","パスワードを入力してください","Please enter your password"
+"70010","3435921409","Mobile Game VS","通信中．　　","Connecting."
+"70011","3435921409","Mobile Game VS","通信中．．　","Connecting.."
+"70012","3435921409","Mobile Game VS","通信中．．．","Connecting..."
+"70013","3435921409","Mobile Game VS","ＤＬする","Starting Download"
+"70014","3435921409","Mobile Game VS","ＤＬしない","Couldn’t Download"
+"70015","3435921409","Mobile Game VS","ダウンロード中．","Downloading."
+"70016","3435921409","Mobile Game VS","ダウンロード中．．","Downloading.."
+"70017","3435921409","Mobile Game VS","ダウンロード中．．．","Downloading..."
+"70018","3435921409","Mobile Game VS","データのＤＬが完了しました。
 　
 クイックバトル→スペシャルバトル
 から挑戦してください！","Data download has completed.
 　
 Quick Battle -> Special Battle
 to challenge!"
-"70019","3435921409","","モバイル連動通信が
-正常に終了しました。","Mobile Link Communication has completed successfully"
-"70021","3435921409","","アイテム倉庫には何もありませんでした。","Item Warehouse is empty."
-"70022","3435921409","","$SCC001$を
+"70019","3435921409","Mobile Game VS","モバイル連動通信が
+正常に終了しました。","Mobile Link Communication 
+has completed successfully"
+"70021","3435921409","Mobile Game VS","アイテム倉庫には何もありませんでした。","Item Warehouse is empty."
+"70022","3435921409","Mobile Game VS","$SCC001$を
 $SCC002$個入手しました。",""
-"70023","3435921409","","$SCC001$を入手しました。","$SCC001$ acquired."
-"70024","3435921409","","エディットやショップで
+"70023","3435921409","Mobile Game VS","$SCC001$を入手しました。","$SCC001$ acquired."
+"70024","3435921409","Mobile Game VS","エディットやショップで
 キャラクターカスタマイズをしましょう。","Customize your character in the edit and store menus."
-"70025","3435921409","","＿＿＿＿＿＿＿＿","________"
-"70026","3435921409","","連動内容をセーブしますか？","Do you want to save Link Contents?"
-"70030","3435921409","","モバイルユーザー確認ができませんでした。
+"70025","3435921409","Mobile Game VS","＿＿＿＿＿＿＿＿","________"
+"70026","3435921409","Mobile Game VS","連動内容をセーブしますか？","Do you want to save Link Contents?"
+"70030","3435921409","Mobile Game VS","モバイルユーザー確認ができませんでした。
 パスワードかモバイルＩＤが間違えている恐れがあります。","Mobile user cannot be verified. Password 
 or Mobile I.D. might be incorrect."
-"70031","3435921409","","モバイルユーザー確認ができませんでした。
+"70031","3435921409","Mobile Game VS","モバイルユーザー確認ができませんでした。
 パスワードかモバイルＩＤが間違えている恐れがあります。","Mobile user cannot be verified. Password 
 or Mobile I.D. might be incorrect."
-"70032","3435921409","","このモバイルユーザーは既に登録されております。
+"70032","3435921409","Mobile Game VS","このモバイルユーザーは既に登録されております。
 携帯ｻｲﾄ「ﾃｲﾙｽﾞ ｵﾌﾞ ﾓﾊﾞｲﾙ」の
 「ﾃｲﾙｽﾞ ｵﾌﾞ ﾊﾞｰｻｽ ﾓﾊﾞｲﾙ」ｺｰﾅｰ内にて
 変更する必要があります。","This mobile user is already registered In the ""Tales of Versus Mobile""
 section of the ""Tales of Mobile"" mobile site, Please choose a different 
 mobile user."
-"70033","3435921409","","ただいまサーバーメンテナンスを行っております。
+"70033","3435921409","Mobile Game VS","ただいまサーバーメンテナンスを行っております。
 恐れ入りますが、しばらく待ってから接続してください。","We are currently performing server maintenance.
 Please wait for a while before connecting."
-"70034","3435921409","","ネットワークエラーが発生しました。","A network error has occurred."
-"70035","3435921409","","連動サービスは終了しました。","The linked service has ended."
-"70036","3435921409","","ただいまサーバーメンテナンスを行っております。
+"70034","3435921409","Mobile Game VS","ネットワークエラーが発生しました。","A network error has occurred."
+"70035","3435921409","Mobile Game VS","連動サービスは終了しました。","The linked service has ended."
+"70036","3435921409","Mobile Game VS","ただいまサーバーメンテナンスを行っております。
 恐れ入りますが、しばらく待ってから接続してください。","We are currently performing server maintenance.
 Please wait for a while before connecting."
-"70037","3435921409","","アイテム通信時のデータが
+"70037","3435921409","Mobile Game VS","アイテム通信時のデータが
 正常に確認できませんでした。
 もう一度接続し直して下さい。","Could not connect to the server to validate data.
 Please reconnect and try again."
-"70040","3435921409","","ただいまサーバーメンテナンスを行っております。
+"70040","3435921409","Mobile Game VS","ただいまサーバーメンテナンスを行っております。
 恐れ入りますが、しばらく待ってから接続してください。","We are currently performing server maintenance.
 Please wait for a while before connecting."
-"70041","3435921409","","ネットワークエラーが発生しました。","A network error has occurred."
-"70042","3435921409","","連動サービスは終了しました。","The linked service has ended."
-"70043","3435921409","","パスワードが間違っているか、
+"70041","3435921409","Mobile Game VS","ネットワークエラーが発生しました。","A network error has occurred."
+"70042","3435921409","Mobile Game VS","連動サービスは終了しました。","The linked service has ended."
+"70043","3435921409","Mobile Game VS","パスワードが間違っているか、
 既に使用されている可能性があります。
 再度ご確認の上入力してください。","Your password may be incorrect or already in use. 
 Please check your password and enter it again."
-"70044","3435921409","","パスワードが間違っている可能性があります。
+"70044","3435921409","Mobile Game VS","パスワードが間違っている可能性があります。
 再度ご確認の上入力してください。","Your password may be incorrect. Please check
 your password before trying again."
-"70045","3435921409","","パスワードの連続入力はできません。
+"70045","3435921409","Mobile Game VS","パスワードの連続入力はできません。
 時間を置いてから、再度ご確認の上入力してください。","You cannot enter your password repeatedly. 
 Please wait a while and try again."
-"70046","3435921409","","モバイルユーザーを確認できませんでした。
+"70046","3435921409","Mobile Game VS","モバイルユーザーを確認できませんでした。
 モバイル連動から登録を行う必要がございます。","Failed to verify mobile user. It is necessary
 to register from the mobile link. "
-"70047","3435921409","","ただいまサーバーメンテナンスを行っております。
+"70047","3435921409","Mobile Game VS","ただいまサーバーメンテナンスを行っております。
 恐れ入りますが、しばらく待ってから接続してください。","We are currently performing server maintenance.
 Please wait for a while before connecting."
 "71000","3435921409","","相手を倒してポイントゲット!!","Defeat your opponent and get points!"
@@ -10077,7 +10129,7 @@ the overlimit x will successfully activate."
 戦うことができます。","""Overlimit X Tutorial 2""
 During the overlimit x state, you will be granted 
 advantageous conditions. You will fight with no TP
-consumption, no artes stiffening, and no knockback."
+consumption, no artes recovery, and no knockback."
 "72122","3435921409","Tutorial Text","【オーバーリミッツ×のチュートリアル３】
 オーバーリミッツ×は通常の
 オーバーリミッツ状態と同じように
@@ -12102,11 +12154,14 @@ But how will he get out!?"
 "110807","3435921409","Event Descriptions","ユージーンを倒したダオス。そのとき、胸に走る
 悪い予感。何かが起ころうとしている。","Dhaos defeated Eugene. At that moment, a bad feeling runs through his chest. A bad premonition. Something was about to happen."
 "110808","3435921409","Event Descriptions","世界樹に何かが起きている予感に急ぐダオス。
-だがまたしても行く手を阻む者が現れる。","Dhaos rushed to the World Tree with a hunch that something was happening to it. But once again, someone blocked his way."
+だがまたしても行く手を阻む者が現れる。","Dhaos rushed to the World Tree with a hunch that something was 
+happening to it. But once again, someone blocked his way."
 "110809","3435921409","Event Descriptions","クレスとミントを倒し、去っていくダオス。
-ミントが感じたダオスの光と闇とは……","Dhaos left after defeating Cress and Mint. What was the light and darkness of Dhaos that Mint felt?......"
+ミントが感じたダオスの光と闇とは……","Dhaos left after defeating Cress and Mint. What was the light and 
+darkness of Dhaos that Mint felt?......"
 "110810","3435921409","Event Descriptions","世界樹の間に到着したダオス。その光景に唖然とする。
-バルバトスが暴れ、神殿が破壊されていたのだ。","Dhaos arrived at the World Tree Chamber. He was stunned by the sight. Barbatos had gone berserk and the temple had been destroyed."
+バルバトスが暴れ、神殿が破壊されていたのだ。","Dhaos arrived at the World Tree Chamber. He was stunned by the sight. 
+Barbatos had gone berserk and the temple had been destroyed."
 "110811","3435921409","Event Descriptions","狂戦士と化したバルバトスはダオスの怒りを買うため
 世界樹を傷つけるのだった。","Barbatos, turned into a mad warrior, was determined to provoke the wrath of Dhaos. He was aiming to injure the World Tree."
 "110812","3435921409","Event Descriptions","百年の歳月をかけ熟した『真の大いなる実り』を
@@ -12827,7 +12882,7 @@ But how will he get out!?"
 "160302","3435921409","Credit Roll","メインプログラマ","Main Programmer"
 "160303","3435921409","Credit Roll","竹内　渉","竹内　渉"
 "160304","3435921409","Credit Roll","サブプログラマ","Sub Programmer"
-"160305","3435921409","Credit Roll","杉浦　祐輝","杉浦　祐輝"
+"160305","3435921409","Credit Roll","杉浦　祐輝","Sugiura Yuki"
 "160306","3435921409","Credit Roll","近田　和也","近田　和也"
 "160307","3435921409","Credit Roll","石川　孝一","石川　孝一"
 "160308","3435921409","Credit Roll","プログラムサポート","Program Support"
