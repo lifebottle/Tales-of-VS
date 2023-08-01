@@ -34,7 +34,7 @@ bytes zlib "compressed data"
 ```
 
 ## Hacker Note 3
-1. MGZ files are commonly used on `*.chain` files that contains `*.rssa` files.
+1. MGZ files are commonly used on `*.chain` files that contains various things like `*.gim`, `*.gmo`, `*.efp`, and `*.rssa` files.
 2. Format are as follows;
 ```
 Header:
@@ -54,10 +54,21 @@ Header:
 u32 magic "RSSA"
 str fname "40-byte file name"
 u16 ssad_enum
-u16 tm2_enum
+u16 gim_enum
+u32 foffset to ssad foffset
+u32 foffset to ssad fsize
+u32 foffset to gim foffset structure
+u32 foffset to gim fsize structure
+
 ```
 
-## Hacker Note 5 - Text Stuff - Various Routines
+## Hacker Note 5
+1. when converting the `*.png` back `*.gim` the gimconv.exe tool settings for the one found in the normal game (not wall breaker) need to --pixel_order faster. the one for wall breaker need to be --image_format index8.
+
+They both need to be brought back to 8bpp if they aren't to use this we use pngquant.exe with this setting --force --verbose 256 --ext .png
+
+
+## Hacker Note 6 - Text Stuff - Various Routines
 1. 0x088C0C5C is what copies text from wherever the text is originally loaded from rom into the ram location the prev function uses, basically a memcpy. Likely not important but here for reference. If we were to change the game to use ASCII over UTF-16, this is one place we'd make those adjustments. (see all the addiu +2/-2's) I do not think that is necessary, though.
 ```
 a0: source address

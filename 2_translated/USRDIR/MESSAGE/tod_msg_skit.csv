@@ -155,7 +155,7 @@ the source of mana ""The Great Seed."""
 "200058","3435921409","Mieu","わかったですか、ご主人様？","Do you understand, master?"
 "200059","3435921409","Mieu","フラッグへの案内は
 ナビミュウにお任せですの♪","With the flag search. 
-You can leave it to Meiu!"
+ You can leave it to Me-ieu! ♪"
 "200060","3435921409","Mieu","みゅうぅぅ……
 もう一回、説明するですの。","Meiu~~~...
 One more time, Can you explain it again."
@@ -173,9 +173,9 @@ make it to the final exam!"
 "300003","3435921409","Colette","ご、ごめんね。","S-sorry."
 "300004","3435921409","Colette","ロイドに力をつけてもらおうと思って、
 配給のお肉でお弁当を作ってたら
-遅くなっちゃったの……","I thought of helping Lloyd in my own way, so 
+遅くなっちゃったの……","I thought of helping you in my own way, so 
 I decided to make a bento of the meat rations 
-that we had, before I knew it, it was already late......"
+that we had, before I knew it, I was already late..."
 "300005","3435921409","Lloyd","うっひょー、マジかよ!?
 肉なんて久しぶりだぜ♪","Heck yeah, really!? It’s been a while since 
 I had meat! ~♪"
@@ -192,44 +192,43 @@ Wait!"
 "300011","3435921409","Lloyd","おい、そいつを捕まえてくれ！","Hey! Grab that guy!"
 "300012","3435921409","Man","み、見逃してください……
 腹をすかせた子どもたちが
-待ってるんです。","P-please let me go! The children... they 
+待ってるんです。","P-please let me go! My children...they 
 are hungry and are waiting for me."
 "300013","3435921409","Kratos","……神聖王国（ヘイズル）の王都まで
-このありさまとはな。",""
-"300014","3435921409","Lloyd","観念しろ、この肉泥棒め！","Hold it right there! You meat stealer!"
+このありさまとはな。","....So even the Capital of the Holy Kingdom is also in this state."
+"300014","3435921409","Lloyd","観念しろ、この肉泥棒め！","Hold it right there! You meat thief!"
 "300015","3435921409","Colette","待って、ロイド！
-この人も困ってるんだよ。","Wait Llyod! This person is also in trouble."
+この人も困ってるんだよ。","Wait Lloyd! This person is also in trouble."
 "300016","3435921409","Colette","マナが足りないせいで
 世界中の自然がおかしくなって、
-食べ物が足りなくなってるんだもん。","As the world’s mana began to decline
-The natural resources of this world too has 
-began, there’s just not enough food for everyone."
-"300017","3435921409","Lloyd","…………！","…………！"
+食べ物が足りなくなってるんだもん。","Thanks to the decline in mana
+ the nature of the world has become weird,
+ and the food is running out."
+"300017","3435921409","Lloyd","…………！","...!"
 "300018","3435921409","Colette","私たちが、シグルスになって
 『大いなる実り』を手に入れようとしている
-のは、困ってる人を救うためでしょ？","As Sigurds
-The reason we are fighting for the ""Great seed""
-Wasn’t it to help those who are in need."
-"300019","3435921409","Lloyd","……わかったよ、コレット。","... I understand, Colette"
+のは、困ってる人を救うためでしょ？","Didn't we want to become Sigurds,
+ so that we could obtain the ""Great Seed""
+ to help/save the people who are in need?"
+"300019","3435921409","Lloyd","……わかったよ、コレット。","…I get it already, Colette."
 "300020","3435921409","Lloyd","おっちゃん。そのサンドイッチを
-子どもたちに食べさせてやってくれよ。","Uncle, those sandwiches.
-Go ahead and give it to those kids!"
+子どもたちに食べさせてやってくれよ。","Old man, give these sandwiches to
+ the children to let them eat."
 "300021","3435921409","Man","あ、ありがとうございます！","T-Thank you very much!"
-"300022","3435921409","Colette","ありがと、ロイド。","Thanks for understanding, Lloyd."
+"300022","3435921409","Colette","ありがと、ロイド。","Thanks, Lloyd."
 "300023","3435921409","Lloyd","いいさ。ドワーフの誓い第二番
 『困っている人を見かけたら
-必ず力を貸そう』だ！","It’s alright! Dwarf’s Oath Clause 2
-""If you ever see someone in trouble,
-be sure to help without fail!"""
+必ず力を貸そう』だ！","It's fine. Dwarven Vows #2:
+ Never abandon someone in need."
 "300024","3435921409","Kratos","ロイド……コレット……
 そうか、おまえたちが――","Lloyd... Colette...
-I see, so you two are—"
+I see, so you two are--"
 "300025","3435921409","Lloyd","ああ、あんた。
-巻き込んじまって悪かったな。","Ah, you!
+巻き込んじまって悪かったな。","Ah, it's you!
 Sorry you had to get involved."
 "300026","3435921409","Kratos","かまわん。だが……","It’s nothing. However..."
 "300027","3435921409","Kratos","戦場では、今のような甘さは命取りになる。
-覚えておくことだ。","In the battlefield, this display of
+覚えておくことだ。","On the battlefield, this display of
 kindness will endanger your lives. Remember that."
 "300028","3435921409","Lloyd","なんだぁ、あいつ？
 えらそうな奴だなぁ。","What’s up with him?
@@ -243,237 +242,304 @@ over to the test site on Reller’s Temple!"
 We were late!"
 "300032","3435921409","Kratos","来たか、ロイド・アーヴィング。","So you’ve arrived, Lloyd Irving"
 "300033","3435921409","Kratos","だが、おまえは
-シグルスとしては失格だな。","However, you are already
-disqualified on being a Sigurd."
-"300034","3435921409","Colette","あなたは、さっきの……!?","Just now, you! What you said...!?"
+シグルスとしては失格だな。","However, you have already
+ failed as a Sigurd."
+"300034","3435921409","Colette","あなたは、さっきの……!?","You're… that person from earlier?!"
 "300035","3435921409","Lloyd","俺が『シグルス失格』って
-どういうことだ？","Us being disqualified as a Sigurd,
-What do you mean by that?"
+どういうことだ？","What do you mean I ""failed as a Sigurd""?"
 "300036","3435921409","Kratos","言葉通りの意味だ。","It is just as I said."
 "300037","3435921409","Kratos","一瞬の『機』が生死をわかつと
 知っている戦士は、決して時間を
-おろそかにしないものだ。",""
+おろそかにしないものだ。","A moment's ""opportunity"" between life and death
+ And a warrior who knows it are never
+ Things that would neglect time."
 "300038","3435921409","Kratos","ましてや『シグルス』は、一国の命運を
 背負ってユグドラシルバトルに出場する
 選ばれし戦士――","Furthermore, We as Sigurds
 We carry on the fate of the country we represent
-As we are Yggdrasil Battle’s chosen warriors——"
+As we are Yggdrasil Battle’s chosen warriors--"
 "300039","3435921409","Kratos","時間も守れぬ未熟者に、
-名乗る資格があると思うか？",""
+名乗る資格があると思うか？","You think the unskilled who can not even
+ keep track of time be able to qualify?"
 "300040","3435921409","Lloyd","くっ……","Urgh..."
 "300041","3435921409","Colette","待ってください！
 ロイドは、私のせいで遅刻したんです。
-失格なのは私だけです！",""
+失格なのは私だけです！","Please wait! 
+ Lloyd was only late because of me.
+ I should be the only one who fails!"
 "300042","3435921409","Kratos","コレット・ブルーネル……
-次代の世界樹の神子（みこ）候補だったな。",""
+次代の世界樹の神子（みこ）候補だったな。","Colette Brunel… candidate to be the
+ next generation World Tree Priestess."
 "300043","3435921409","Kratos","だが、『優しさ』と『なれあい』は違う。
 その区別を知らなければ、おまえの夢も
-夢のままに終わることになるぞ。",""
+夢のままに終わることになるぞ。","However, ""kindness"" and ""friendship"" are not
+ the same. If you can't understand that,
+ your dream will continue to be just a dream."
 "300044","3435921409","Colette","は、はい……","Y-yes..."
 "300045","3435921409","Lloyd","おい、あんたっ！
 俺だけならともかく、
-コレットの夢まで侮辱する気かっ!!",""
+コレットの夢まで侮辱する気かっ!!","Hey, you!
+ Do whatever you want with just me,
+ But don't insult Colette's dream like that!!"
 "300046","3435921409","Kratos","侮辱したつもりはない。
-忠告をしたまでだ。",""
+忠告をしたまでだ。","It wasn't an insult.
+ It was just a warning."
 "300047","3435921409","Cress","いやぁ～、寝坊しちゃったよ！
 ロイド、コレット、クラトスさん。
-待たせて悪かったね。",""
+待たせて悪かったね。","Oof~, I overslept!
+ Lloyd, Colette, Mr. Kratos.
+ Sorry to keep you all waiting."
 "300048","3435921409","Lloyd","クレス！
-こいつを知ってるのか？",""
-"300049","3435921409","Cress","ああ、紹介するよ。",""
+こいつを知ってるのか？","Cress!
+ Do you know this guy?"
+"300049","3435921409","Cress","ああ、紹介するよ。","Oh yeah, I'll introduce you."
 "300050","3435921409","Cress","この人は、傭兵のクラトス・アウリオン。
-前回のユグドラシルバトルで知り合ったんだ。",""
+前回のユグドラシルバトルで知り合ったんだ。","This person is the merc known as Kratos Aurion.
+ I met him in the previous Yggdrasil Battle."
 "300051","3435921409","Kratos","久しぶりだな。
 神聖王国（ヘイズル）筆頭騎士
-クレス・アルベイン。",""
+クレス・アルベイン。","Long time no see.
+ Head Knight of the Heidr Kingdom,
+ Cress Albane."
 "300052","3435921409","Kratos","遅刻のふりまでして、
 このふたりを今回のシグルスに
 選ぶ気なのか？",""
 "300053","3435921409","Cress","ははは、選ぶ気もなにも、
 それをこれから試すんじゃないですか。",""
-"300054","3435921409","Kratos","……相変わらず甘い奴だ。",""
-"300055","3435921409","Lloyd","あんた、クレスまで馬鹿にする気か！",""
+"300054","3435921409","Kratos","……相変わらず甘い奴だ。","… You've always been such a softie."
+"300055","3435921409","Lloyd","あんた、クレスまで馬鹿にする気か！","You… you're making a fool of Cress too!"
 "300056","3435921409","Cress","おっと。ロイド、コレット。
 クラトスさんとケンカする前に
-君たちには、やることがあるんだよ。",""
-"300057","3435921409","Cress","僕と戦おう……本気、でね。","By fighting... seriously, of course."
+君たちには、やることがあるんだよ。","Whoa there. Lloyd, Colette.
+ Before you guys pick a fight with Kratos,
+ there's something you have to do first."
+"300057","3435921409","Cress","僕と戦おう……本気、でね。","Fight me… seriously, at least."
 "300058","3435921409","Lloyd","い、いきなりなんだよ!?
 師匠のクレスと戦うなんて
-できるはずが――",""
+できるはずが――","Wh-Why all of a sudden?!
+ As if I could actually fight
+ with Cress, my own master--"
 "300059","3435921409","Cress","僕を叩きのめすことが
-シグルスになる最終試験なのさ。",""
+シグルスになる最終試験なのさ。","Defeating me is the final test
+ to become a Sigurd, you know."
 "300060","3435921409","Cress","少なくとも、前回大会で敗北した
 僕より弱い戦士は必要ないからね。",""
-"300061","3435921409","Colette","でも……",""
+"300061","3435921409","Colette","でも……","But..."
 "300062","3435921409","Cress","構えるんだ、コレット。
 まさか筆記試験だと
-思っていた訳じゃないだろう？",""
+思っていた訳じゃないだろう？","Hold up, Colette.
+ You didn't actually think this was
+ going to be a written exam, did you?"
 "300063","3435921409","Cress","なによりもまず『強い』ことが
 シグルスの条件なんだよ！","First and, most notably ""Strength"" that is
-the prime condition of becoming a Sigurd."
+ the prime condition of becoming a Sigurd."
 "300064","3435921409","Lloyd","……戦おう、コレット。
-クレスに俺たちの力を見せるんだ！","... Together, Colette!
-Let’s show Cress what we can do!"
+クレスに俺たちの力を見せるんだ！","Let's fight, Colette.
+ We'll show Cress what we're made of!"
 "300065","3435921409","Colette","……うん。
-わかったよ、ロイド！","... Yeah. Got it, Lloyd!"
+わかったよ、ロイド！","...Yeah. Got it, Lloyd!"
 "300066","3435921409","Cress","さぁ来い、ロイド！
-コレット!!","Very well, come!
-Lloyd! Colette!"
-"300067","3435921409","Lloyd","クレスに……勝った！",""
+コレット!!","Now come, Lloyd!
+ Colette!!"
+"300067","3435921409","Lloyd","クレスに……勝った！","I won… against Cress!"
 "300068","3435921409","Cress","ははは……合格だよ。
-君たちを『シグルス』と認めよう。",""
-"300069","3435921409","Cress","クラトスさんも文句はないですよね？",""
+君たちを『シグルス』と認めよう。","Hahaha… you passed.
+ You are both recognized as Sigurds now."
+"300069","3435921409","Cress","クラトスさんも文句はないですよね？","Kratos, you have something to say too?"
 "300070","3435921409","Kratos","雇い主のおまえが、そう判断するなら
-私に異存はない。",""
+私に異存はない。","If the employer has already made a judgement,
+ then I have no objections."
 "300071","3435921409","Colette","クレスさんが
-クラトスさんの雇い主？",""
+クラトスさんの雇い主？","Mister Cress is Mister
+ Kratos's employer?"
 "300072","3435921409","Cress","そうだよ。
 クラトスさんには、僕のパートナーとして
-ユグドラシルバトルに参戦してもらう。",""
-"300073","3435921409","Lloyd","クレス、なんでそんな奴と組むんだよ!?",""
+ユグドラシルバトルに参戦してもらう。","That's right.
+ Kratos is my partner as well as in the
+ Yggdrasil Battle competition."
+"300073","3435921409","Lloyd","クレス、なんでそんな奴と組むんだよ!?","Cress, why the Hell team up with this guy?!"
 "300074","3435921409","Cress","クラトスさんが、本当の強さをもった
-戦士だからさ。",""
+戦士だからさ。","Because Sir Kratos here is a
+ warrior of true strength."
 "300075","3435921409","Cress","僕たちは、今回こそユグドラシルバトルを
 勝ち抜き、『大いなる実り』を
-持ち帰らなければならないんだ。",""
+持ち帰らなければならないんだ。","This time in the Yggdrasil Battle,
+ we want to win no matter what,
+ and bring back with us the ""Great Seed."""
 "300076","3435921409","Cress","知っての通り、前回大会で
 僕は『大いなる実り』を持ち帰ることが
-できなかった……",""
+できなかった……","You already know this… that in the
+ competition last time, I was unable
+ to obtain the ""Great Seed."""
 "300077","3435921409","Lloyd","けど、前回の大会は、事故が起こって、
 どの国も『大いなる実り』を
-取れなかったんだろ？",""
+取れなかったんだろ？","But, in the last competition, there
+ was an accident, so none of the other
+ countries obtained the ""Great Seed,"" right?"
 "300078","3435921409","Cress","……そのせいで、全世界は
-深刻なマナ不足に陥ってしまった。",""
+深刻なマナ不足に陥ってしまった。","Because of that, the mana of the entire
+ world has plummeted to its lowest."
 "300079","3435921409","Kratos","ゆえに、今度の大会は
 各国が存亡を賭けて挑む
-過酷な戦いとなるだろう。",""
+過酷な戦いとなるだろう。","Therefore, this competition will be a
+ harsh battle for survival to
+ challenge the other countries."
 "300080","3435921409","Lloyd","ふん、未熟者は出るだけ無駄って
-言いたそうだな？",""
+言いたそうだな？","Hmph, I thought you said it was
+ useless for the unskilled to join?"
 "300081","3435921409","Colette","どんなに辛い戦いでも
-私たちは勝ち抜いてみせます！",""
+私たちは勝ち抜いてみせます！","No matter how hard we have
+ to fight, we will win!"
 "300082","3435921409","Colette","それが、私の憧れる
-『世界樹の神子（みこ）』の使命だから。",""
+『世界樹の神子（みこ）』の使命だから。","That is my mission as
+ the ""World Tree Priestess."""
 "300083","3435921409","Lloyd","ああ、そうだぜ！
-俺もコレットも負けたりしない!!",""
-"300084","3435921409","Kratos","気後れする心配はなさそうだな。",""
+俺もコレットも負けたりしない!!","Yeah, that's right!
+ Neither Colette or I are going to lose!"
+"300084","3435921409","Kratos","気後れする心配はなさそうだな。","You don't seem to be worried about this at all."
 "300085","3435921409","Cress","ロイド、コレット。
-その想いを忘れるなよ。",""
+その想いを忘れるなよ。","Lloyd, Colette.
+ Don't ever forget that feeling."
 "300086","3435921409","Cress","大会のルールや進行は、
-このナビミュウが教えてくれるんだ。",""
+このナビミュウが教えてくれるんだ。","As for the rules of the competition,
+ This navi Mieu will tell you all about it."
 "300087","3435921409","Mieu","ナビミュウですの。
-よろしくですの。",""
-"300088","3435921409","Colette","こちらこそよろしくね、ナビミュウ。",""
+よろしくですの。","Navi Mieu here desu.
+ Nice to meet you desu."
+"300088","3435921409","Colette","こちらこそよろしくね、ナビミュウ。","Same here, Navi Mieu."
 "300089","3435921409","Cress","では、ロイド、コレット。
 バトル開始に備えて
-しっかり準備を頼むよ！",""
+しっかり準備を頼むよ！","Well then, Lloyd, Colette.
+ Get yourselves ready in prep
+ for the start of the battle!"
 "300090","3435921409","Lloyd, Colette","　ロイド：おう！
-コレット：はい！",""
+コレット：はい！","Lloyd: Oh, yeah!
+ Colette: Yes!"
 "300091","3435921409","Lloyd","クレス。
-俺……クレスと一緒に戦えて嬉しいよ。",""
-"300092","3435921409","Cress","僕もだよ、ロイド。",""
+俺……クレスと一緒に戦えて嬉しいよ。","Cress.
+ I'm… glad to be able to fight with Cress."
+"300092","3435921409","Cress","僕もだよ、ロイド。","Me too, Lloyd."
 "300093","3435921409","Question","ユグドラシルバトルに関する説明を
-聞きますか？",""
-"300094","3435921409","Choice","はい",""
-"300095","3435921409","Choice","いいえ",""
+聞きますか？","Would you like an explanation
+ on Yggdrasil Battles?"
+"300094","3435921409","Choice","はい","Yes"
+"300095","3435921409","Choice","いいえ","No"
 "300096","3435921409","System","　　　操作キャラクターを
-　　　選択してください。",""
-"300097","3435921409","Choice","ロイド",""
-"300098","3435921409","Choice","コレット",""
+　　　選択してください。","Please select the character 
+you want to play."
+"300097","3435921409","Choice","ロイド","Lloyd"
+"300098","3435921409","Choice","コレット","Colette"
 "300099","3435921409","Choice","ロイド
-（プレイヤーキャラクターでバトル）",""
+（プレイヤーキャラクターでバトル）","Lloyd (Battle with the Player Character)"
 "300100","3435921409","Choice","コレット
-（パートナーキャラクターでバトル）",""
+（パートナーキャラクターでバトル）","Colette (Battle with the Partner Character)"
 "300101","3435921409","System","コレットは
 　　称号　『こころやさしき娘』
-を手に入れました。",""
+を手に入れました。","Colette has earned the
+ ""Kindhearted Maiden"" title."
 "300150","3435921409","Lloyd","さぁて、まずは
-腹ごしらえでもするか……",""
+腹ごしらえでもするか……","Well then, first off
+ let's go and get some food…"
 "300151","3435921409","Mieu","感じたですの！
 たった今、ユグドラシルバトルの
-スタートが告知されたですの!!",""
+スタートが告知されたですの!!","I felt it! Just now,
+ the start of the Yggdrasil
+ Battle was announced!!"
 "300152","3435921409","Mieu","全世界に『スクルドフラッグ』出現中！
-一番近いフラッグは……",""
-"300153","3435921409","","神聖王国（ヘイズル）王都レラーズ！
-ここですの!!",""
-"300154","3435921409","","なにぃ、ここにフラッグが!?
+一番近いフラッグは……","""Skuld Flags"" appeared around the
+ World! The closest one is…"
+"300153","3435921409","Mieu","神聖王国（ヘイズル）王都レラーズ！
+ここですの!!","Leraz of Heidr Kingdom!
+It's right here!!"
+"300154","3435921409","Lloyd","なにぃ、ここにフラッグが!?
 しかも、今、スタートって
-急すぎだろ？",""
-"300155","3435921409","","ロイド！　きっと、あの旗が
-『スクルドフラッグ』だよ!!",""
-"300156","3435921409","","とおぉーーーうっ!!",""
-"300157","3435921409","","やりましたよ、フィリアさん!!",""
-"300158","3435921409","","このコングマンが、
+急すぎだろ？","What, there's a flag here?!
+Moreover, just now, isn't it
+starting a little too soon?"
+"300155","3435921409","Colette","ロイド！　きっと、あの旗が
+『スクルドフラッグ』だよ!!","Lloyd, that must be the
+ ""Skuld Flag,"" I'm sure of it!!"
+"300156","3435921409","???","とおぉーーーうっ!!","Tohhhhhhh!!"
+"300157","3435921409","Kongman","やりましたよ、フィリアさん!!","We did it, Miss Philia!!"
+"300158","3435921409","Kongman","このコングマンが、
 なぜか道端に落ちていた
-『スクルドフラッグ』をゲットしました!!",""
-"300159","3435921409","","あっ!?",""
-"300160","3435921409","","ぶほへぇっ!?",""
-"300161","3435921409","","痛てて……あっ！",""
-"300162","3435921409","","見て、見て、ロイド！
-『スクルドフラッグ』を取っちゃった♪",""
-"300163","3435921409","","ナイス、コレット!!",""
-"300164","3435921409","","あなたは……
-コレット・ブルーネルさんですね？",""
-"300165","3435921409","","気をつけてください、フィリアさん！
+『スクルドフラッグ』をゲットしました!!","Somehow I, Kongman, was
+able to get the ""Skuld Flag""
+that was just lying on the roadside!!"
+"300159","3435921409","Colette","あっ!?","Ah?!"
+"300160","3435921409","Kongman","ぶほへぇっ!?","Buhoeeeh?!"
+"300161","3435921409","Colette","痛てて……あっ！","Ouchie… Ah!"
+"300162","3435921409","Colette","見て、見て、ロイド！
+『スクルドフラッグ』を取っちゃった♪","Look, look, Lloyd!
+ I got the ""Skuld Flag"" ♪"
+"300163","3435921409","Lloyd","ナイス、コレット!!","Nice, Colette!!"
+"300164","3435921409","Philia","あなたは……
+コレット・ブルーネルさんですね？","You're...
+ Miss Colette Brunel, right?"
+"300165","3435921409","Kongman","気をつけてください、フィリアさん！
 この娘の頭突きは、
-俺様の腹筋もしびれる威力ですぜ!!",""
-"300166","3435921409","","はい。おそらく、このお二人は
-神聖王国（ヘイズル）のシグルスです。",""
-"300167","3435921409","","なぜ、それを!?",""
-"300168","3435921409","","やはりそうでしたか。
+俺様の腹筋もしびれる威力ですぜ!!","Please be careful, Miss Philia!
+ The headbutt of this girl is
+ as powerful as my muscles!!"
+"300166","3435921409","Philia","はい。おそらく、このお二人は
+神聖王国（ヘイズル）のシグルスです。","Yes. Especially since these two
+ are Sigurds of Heidr Kingdom."
+"300167","3435921409","Colette","なぜ、それを!?","How did you--?!"
+"300168","3435921409","Philia","やはりそうでしたか。
 私は、騎士国家（フレスヴェルグ）のシグルス、
 フィリア・フィリスと申します。",""
-"300169","3435921409","","同じく、格闘チャンピオン！
+"300169","3435921409","Kongman","同じく、格闘チャンピオン！
 マイティ・コングマンだ!!",""
-"300170","3435921409","","コレットさん。シグルスとして、
+"300170","3435921409","Philia","コレットさん。シグルスとして、
 『スクルドフラッグ』を賭けたバトルを
 申しこませていただきます！",""
-"300171","3435921409","","この人たちが……
+"300171","3435921409","Colette","この人たちが……
 他の国のシグルス!?",""
-"300172","3435921409","","さぁ～構えろ、ガキンチョども！
+"300172","3435921409","Kongman","さぁ～構えろ、ガキンチョども！
 ユグドラシルバトルのゴングだぜ!!",""
-"300173","3435921409","","くそっ、
+"300173","3435921409","Lloyd","くそっ、
 なにからなにまでいきなりすぎだぜ!!",""
-"300174","3435921409","","ぐぅぅ、まだだ！
+"300174","3435921409","Kongman","ぐぅぅ、まだだ！
 アイツなら、これしきのことで
 退かねぇはずだ……",""
-"300175","3435921409","","無理をしないでください、コングマンさん。
+"300175","3435921409","Philia","無理をしないでください、コングマンさん。
 ユグドラシルバトルは、
 まだ始まったばかりです。",""
-"300176","3435921409","","うう、すみません、フィリアさん……",""
-"300177","3435921409","","待ってください！
+"300176","3435921409","Kongman","うう、すみません、フィリアさん……",""
+"300177","3435921409","Colette","待ってください！
 フィリアさんは、なぜ私のことを
 知っていたんですか？",""
-"300178","3435921409","","先代の『世界樹の神子（みこ）』、
+"300178","3435921409","Philia","先代の『世界樹の神子（みこ）』、
 ミントさんから、あなたの噂は
 うかがっていましたから。",""
-"300179","3435921409","","私も、あなたと同じく
+"300179","3435921409","Philia","私も、あなたと同じく
 『世界樹の神子（みこ）』を目指すひとりです。",""
-"300180","3435921409","","ミントさんを知ってるんですか!?",""
-"300181","3435921409","","はい。
+"300180","3435921409","Colette","ミントさんを知ってるんですか!?",""
+"300181","3435921409","Philia","はい。
 短い間でしたが騎士国家（フレスヴェルグ）に
 滞在したあの方に、教えを受けました。",""
-"300182","3435921409","","その時、ミントさんは、とても嬉しそうに
+"300182","3435921409","Philia","その時、ミントさんは、とても嬉しそうに
 あなたのことを語ってくれたのです。",""
-"300183","3435921409","","とても優しい心をもった
+"300183","3435921409","Philia","とても優しい心をもった
 すてきな教え子だと。",""
-"300184","3435921409","","あなたに出会えてよかった。
+"300184","3435921409","Philia","あなたに出会えてよかった。
 けれど、私は神子（みこ）になることを
 あきらめません……決して。",""
-"300185","3435921409","","ライバル登場だな、コレット。",""
-"300186","3435921409","","……うん。強い人だね。",""
-"300187","3435921409","","ところで、これが
+"300185","3435921409","Lloyd","ライバル登場だな、コレット。",""
+"300186","3435921409","Colette","……うん。強い人だね。",""
+"300187","3435921409","Colette","ところで、これが
 『スクルドフラッグ』なんだね？",""
-"300188","3435921409","","そうですの。この『スクルドフラッグ』を
+"300188","3435921409","Mieu","そうですの。この『スクルドフラッグ』を
 三本集めたチームが、決勝戦に
 進めるですの。",""
-"300189","3435921409","","他の国のシグルスたちと
+"300189","3435921409","Lloyd","他の国のシグルスたちと
 戦いながら、このフラッグを
 三本も……",""
-"300190","3435921409","","悩んでも仕方ないよ。
+"300190","3435921409","Colette","悩んでも仕方ないよ。
 今は前に進も？",""
-"300191","3435921409","","ああ！
+"300191","3435921409","Lloyd","ああ！
 『善（ぜん）は急げ』だな!!",""
-"300192","3435921409","","ロイド、ちょっと意味が
+"300192","3435921409","Colette","ロイド、ちょっと意味が
 違うような……？",""
 "300300","3435921409","","……感じるですの！
 この辺りに『スクルドフラッグ』が
