@@ -20,6 +20,8 @@ MIN_WIDTH equ 0x1
     li v1, ESCAPE_CHAR
 .org 0x088c3708
     li v1, ESCAPE_CHAR
+.org 0x088c116c
+    li v1, ESCAPE_CHAR
 
 ; fix menu item spacing
 ; divide strlen by 2
