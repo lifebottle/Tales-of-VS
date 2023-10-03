@@ -2,7 +2,7 @@
 
 An attempt to create an English patch for Tales of VS (Versus).
 
-![ToVS](https://raw.githubusercontent.com/lifebottle/Tales-of-VS/main/docs/proj_logo.png)
+![ToVS](https://raw.githubusercontent.com/lifebottle/Tales-of-VS/main/docs/image.png)
 
 Discord: https://discord.gg/tmDgBDNPpE
 
